@@ -1,0 +1,2212 @@
+,Title,Published_date,Views,Likes,Comments,Month
+0,Lexical Analyzer (Solved Problems) - Set 1,2022-04-16,1306,30,0,Apr
+1,Lexical Analyzer – Tokenization,2022-04-14,3249,70,5,Apr
+2,Introduction to Microsoft Excel,2022-04-10,14238,426,30,Apr
+3,Introduction to Lexical Analyzer,2022-04-08,4116,85,9,Apr
+4,Symbol Table – Solved PYQs,2022-04-05,4649,56,7,Apr
+5,Symbol Table,2022-04-02,4957,86,10,Apr
+6,Different Phases of Compiler,2022-03-31,12957,266,15,Mar
+7,Introduction to Compiler Design,2022-03-26,15281,446,52,Mar
+8,Queues | Chapter-7 | Data Structures | nesoacademy.org,2022-03-20,10175,158,24,Mar
+9,Introduction to Secondary Memory,2022-03-05,20193,235,23,Mar
+10,Primary Memory – Solved Example,2022-02-25,12665,125,12,Feb
+11,Primary Memory – RAM,2022-02-22,8327,208,26,Feb
+12,ROM – Solved Examples,2022-02-13,13936,143,18,Feb
+13,Block Cipher | Chapter-3 | Cryptography & Network Security | nesoacademy.org,2022-02-08,8933,90,29,Feb
+14,Subject-Verb Agreement | Chapter-6 | General English | nesoacademy.org,2022-02-05,6116,50,6,Feb
+15,Primary Memory – Architecture of ROM (Part 4),2022-02-04,9928,109,8,Feb
+16,Tenses | Chapter-5 | General English | nesoacademy.org,2022-01-29,9089,104,16,Jan
+17,Primary Memory – Architecture of ROM (Part 3),2022-01-26,9482,123,6,Jan
+18,Primary Memory – Architecture of ROM (Part 2),2022-01-20,10736,123,11,Jan
+19,Primary Memory – Architecture of ROM (Part 1),2022-01-12,10182,154,15,Jan
+20,Stacks (GATE Problems) - Set 2,2022-01-05,11040,159,40,Jan
+21,Stacks (GATE Problems) - Set 1,2022-01-03,5792,122,10,Jan
+22,Distributive Lattice,2022-01-02,6748,122,18,Jan
+23,Complemented Lattice,2021-12-31,6378,123,13,Dec
+24,Application of Stacks (Infix to Postfix) - Part 8,2021-12-30,7437,116,16,Dec
+25,Lattice (GATE Problems) - Set 2,2021-12-28,4371,59,8,Dec
+26,Lattice (Complement of an Element),2021-12-27,4433,96,6,Dec
+27,Complete and Bounded Lattice,2021-12-26,6565,110,9,Dec
+28,Lattice (GATE Problems) - Set 1,2021-12-25,4054,75,4,Dec
+29,Application of Stacks (Infix to Postfix) - Part 7,2021-12-24,7636,160,18,Dec
+30,Lattice,2021-12-23,15979,366,13,Dec
+31,Join Semilattice,2021-12-22,4403,91,7,Dec
+32,Application of Stacks (Infix to Postfix) - Part 6,2021-12-21,8774,174,13,Dec
+33,"Rings, Fields and Finite Fields",2021-12-20,5846,101,9,Dec
+34,Meet Semilattice,2021-12-19,4920,80,7,Dec
+35,Cyclic Group,2021-12-18,3452,59,1,Dec
+36,Application of Stacks (Infix to Postfix) - Part 5,2021-12-17,6754,120,11,Dec
+37,Symbols for Partial Order,2021-12-16,4102,74,4,Dec
+38,Group and Abelian Group,2021-12-15,6219,138,12,Dec
+39,Hasse Diagram (Solved Problems) - Set 3,2021-12-14,4734,83,7,Dec
+40,Application of Stacks (Infix to Postfix) - Part 4,2021-12-13,7904,168,15,Dec
+41,Testing for Primality (Miller-Rabin Test),2021-12-12,8872,172,21,Dec
+42,Application of Stacks (Infix to Postfix) - Part 3,2021-12-11,7812,149,26,Dec
+43,Application of Stacks (Infix to Postfix) - Part 2,2021-12-10,8975,205,12,Dec
+44,Poset (Least Upper Bound and Greatest Lower Bound),2021-12-09,10839,221,22,Dec
+45,Testing for Primality (Fermat's Test),2021-12-08,5322,89,5,Dec
+46,Poset (Lower and Upper Bounds),2021-12-07,12192,256,8,Dec
+47,Prime Factorization (Fermat's Factoring Method),2021-12-06,4326,75,16,Dec
+48,Pointers and constexpr,2021-12-05,7163,140,40,Dec
+49,Introduction to Primary Memory,2021-12-04,8950,193,15,Dec
+50,Constant Expressions,2021-12-01,6226,81,11,Dec
+51,R-H Criteria (Solved Problem 5),2021-11-30,5321,103,26,Nov
+52,Neso Academy is Hiring Educators!,2021-11-29,62032,289,39,Nov
+53,The Discrete Logarithm Problem (Solved Example),2021-11-29,5279,94,9,Nov
+54,R-H Criteria (Solved Problem 4),2021-11-28,3901,58,14,Nov
+55,Application of Stacks (Infix to Postfix) - Part 1,2021-11-28,11113,252,20,Nov
+56,The Discrete Logarithm Problem,2021-11-27,9075,155,7,Nov
+57,R-H Criteria (Solved Problem 3),2021-11-26,4615,77,19,Nov
+58,Poset (Least and Greatest Elements),2021-11-26,8560,189,8,Nov
+59,R-H Criteria (Solved Problem 2),2021-11-24,6412,88,13,Nov
+60,Application of Stacks (Nested Brackets) - Part 2,2021-11-23,5028,112,13,Nov
+61,R-H Criteria (Solved Problem 1),2021-11-22,5364,72,10,Nov
+62,Poset (Minimal and Maximal Elements),2021-11-21,12796,291,15,Nov
+63,Top-Level and Low-Level const in C++,2021-11-20,5584,118,7,Nov
+64,Applications of R-H Criteria (Part 2),2021-11-19,6419,110,11,Nov
+65,Relational Algebra Queries (Part 2),2021-11-18,10472,139,26,Nov
+66,The Chinese Remainder Theorem (Solved Example 2),2021-11-17,10980,176,30,Nov
+67,Hasse Diagram (Solved Problems) - Set 2,2021-11-16,9143,202,9,Nov
+68,Hasse Diagram (Solved Problems) - Set 1,2021-11-15,9195,163,6,Nov
+69,Applications of R-H Criteria (Part 1),2021-11-14,7880,124,14,Nov
+70,Hasse Diagram,2021-11-13,33192,794,22,Nov
+71,Routh-Hurwitz Criteria (Special Case 2),2021-11-12,10933,211,26,Nov
+72,Relational Algebra Queries (Part 1),2021-11-11,16861,244,11,Nov
+73,Pointers and const in C++,2021-11-10,6356,152,13,Nov
+74,Partial Orderings (Solved Problems) - Set 2,2021-11-09,6172,123,16,Nov
+75,Routh-Hurwitz Criteria (Special Case 1),2021-11-08,12663,221,22,Nov
+76,The Chinese Remainder Theorem (Solved Example 1),2021-11-07,42389,857,34,Nov
+77,Routh-Hurwitz Criteria,2021-11-06,16810,360,12,Nov
+78,References to const in C++,2021-11-05,4917,114,11,Nov
+79,Introduction to Stability Analysis,2021-11-03,16752,292,31,Nov
+80,Extended Euclidean Algorithm (Solved Example 3),2021-11-02,5259,82,6,Nov
+81,Application of Stacks (Nested Brackets) - Part 1,2021-10-31,7332,158,37,Oct
+82,Extended Euclidean Algorithm (Solved Example 2),2021-10-30,6784,101,11,Oct
+83,const Qualifier in C++,2021-10-29,4979,120,8,Oct
+84,Extended Euclidean Algorithm (Solved Example 1),2021-10-28,19123,306,8,Oct
+85,Abstract Classes & Interfaces | Chapter-9 | Java Programming | nesoacademy.org,2021-10-27,5970,53,11,Oct
+86,Compound Types in C++ (Pointers),2021-10-27,4723,135,8,Oct
+87,Analogous Systems (Solved Problem 2),2021-10-26,6322,116,16,Oct
+88,Inheritance & Polymorphism | Chapter-8 | Java Programming | nesoacademy.org,2021-10-25,6928,62,12,Oct
+89,Partial Orderings (Solved Problems) - Set 1,2021-10-25,6796,133,18,Oct
+90,Multiplicative Inverse,2021-10-24,17593,330,11,Oct
+91,Introduction to Partial Ordering,2021-10-23,20163,461,21,Oct
+92,Analogous Systems (Solved Problem 1),2021-10-22,7340,118,13,Oct
+93,Primitive Roots,2021-10-21,10754,239,17,Oct
+94,Euler's Theorem,2021-10-20,12646,206,9,Oct
+95,Compound Types in C++ (References),2021-10-19,6572,168,16,Oct
+96,Fermat's Little Theorem,2021-10-18,16963,301,26,Oct
+97,Equivalent Mechanical Systems,2021-10-17,6653,116,5,Oct
+98,Euler’s Totient Function (Solved Examples),2021-10-16,10951,224,25,Oct
+99,Euler’s Totient Function (Phi Function),2021-10-15,18712,328,9,Oct
+100,Nested Scopes in C++,2021-10-14,4843,103,11,Oct
+101,Scope of a Name in C++,2021-10-13,8034,156,10,Oct
+102,Equivalence Classes and Partitions (Solved Problems),2021-10-12,4648,76,7,Oct
+103,Relatively Prime (Co-Prime) Numbers,2021-10-11,8588,164,9,Oct
+104,Equivalence Classes and Partitions,2021-10-10,10659,192,11,Oct
+105,Force-Current Analogy,2021-10-09,9193,166,7,Oct
+106,GCD - Euclidean Algorithm (Method 2),2021-10-08,12784,252,15,Oct
+107,Modulus of Negative Numbers,2021-10-07,10841,188,11,Oct
+108,Identifiers in C++,2021-10-06,9248,216,11,Oct
+109,GCD - Euclidean Algorithm (Method 1),2021-10-05,44448,872,42,Oct
+110,Analogous Systems,2021-10-04,14886,264,15,Oct
+111,Directory-based Cache Coherency Protocol,2021-10-03,7379,153,14,Oct
+112,Stacks (Program 5),2021-10-02,5955,137,39,Oct
+113,Variables in C++,2021-10-01,10659,233,23,Oct
+114,Snooping-based Cache Coherency Protocol,2021-09-30,8260,148,4,Sep
+115,Congruence Modulo m,2021-09-29,18614,418,29,Sep
+116,Translational Mechanical Systems (Solved Problem 2),2021-09-28,12887,214,18,Sep
+117,Escape Sequences in C++,2021-09-27,8673,224,26,Sep
+118,Cache Coherence Problem & Cache Coherency Protocols,2021-09-26,13430,281,8,Sep
+119,Modular Exponentiation (Part 2),2021-09-25,13870,272,23,Sep
+120,Equivalence Classes,2021-09-24,26395,701,23,Sep
+121,Translational Mechanical Systems (Solved Problem 1),2021-09-23,15856,269,14,Sep
+122,Equivalence Relation (GATE Problem),2021-09-22,3447,63,5,Sep
+123,Stacks (Program 4) – Part 7,2021-09-21,3995,99,25,Sep
+124,Stacks (Program 4) – Part 6,2021-09-20,4260,104,7,Sep
+125,Modular Exponentiation (Part 1),2021-09-19,27163,423,30,Sep
+126,Stacks (Program 4) – Part 5,2021-09-18,4546,117,13,Sep
+127,LRU Cache Replacement Policy - Solved PYQs,2021-09-17,4303,72,7,Sep
+128,Literals in C++,2021-09-16,9401,213,22,Sep
+129,Translational Mechanical Systems (Solved Example),2021-09-15,17768,296,14,Sep
+130,Modular Arithmetic (Part 2),2021-09-14,14034,253,8,Sep
+131,Stacks (Program 4) – Part 4,2021-09-13,5061,94,19,Sep
+132,"Cache Replacement Policies - MRU, LRU, Pseudo-LRU, & LFU",2021-09-13,8318,122,12,Sep
+133,File Handling | Chapter-14 | C Programming | nesoacademy.org,2021-09-12,14477,166,20,Sep
+134,Equivalence Relation (GATE Problems) - Set 2,2021-09-11,3455,66,8,Sep
+135,Translational Mechanical Systems,2021-09-10,13327,242,9,Sep
+136,Stacks (Program 4) – Part 3,2021-09-09,5852,126,15,Sep
+137,Modular Arithmetic (Part 1),2021-09-08,33741,548,50,Sep
+138,Equivalence Relation (GATE Problems) - Set 1,2021-09-07,3667,78,8,Sep
+139,Additional Relational Algebra Operations,2021-09-06,20623,315,25,Sep
+140,"Cache Replacement Policies - RR, FIFO, LIFO, & Optimal",2021-09-05,10205,152,13,Sep
+141,Equivalence Relation (Solved Problems),2021-09-04,7565,160,16,Sep
+142,Prime Numbers in Cryptography,2021-09-03,11644,196,6,Sep
+143,Stacks (Program 4) – Part 2,2021-09-02,6339,103,13,Sep
+144,Equivalence Relation,2021-09-01,23613,500,29,Sep
+145,Modelling of Mechanical Systems,2021-08-31,23687,424,11,Aug
+146,Relational Algebra Operations - Binary,2021-08-30,39264,704,20,Aug
+147,Abstract Algebra and Number Theory,2021-08-29,7965,152,5,Aug
+148,Stacks (Program 4) – Part 1,2021-08-28,8158,161,29,Aug
+149,Type Conversions in C++,2021-08-27,15538,323,21,Aug
+150,Cache Design - An Overview,2021-08-26,9027,177,10,Aug
+151,Closure of Relations - GATE Problem,2021-08-25,3830,86,7,Aug
+152,Closure of Relations (Solved Problems) - Set 2,2021-08-24,5140,116,3,Aug
+153,Cryptography (Solved Questions),2021-08-23,6954,110,7,Aug
+154,Modelling of Electrical Systems (Solved Problem),2021-08-22,8407,148,16,Aug
+155,Linked List Implementation of Stacks (Part 3),2021-08-21,11941,251,21,Aug
+156,Modelling of Electrical Systems (Solved Example 2),2021-08-20,10336,165,16,Aug
+157,Machine-Level Representation of Built-in Types in C++,2021-08-19,7051,186,18,Aug
+158,Set Associative Mapping – Bonus PYQs,2021-08-18,3158,52,3,Aug
+159,Linked List Implementation of Stacks (Part 2),2021-08-17,18803,393,14,Aug
+160,Signed and Unsigned Types in C++,2021-08-14,18315,516,21,Aug
+161,Relational Algebra Operations - Set Theory,2021-08-13,24988,437,18,Aug
+162,LSB Steganography - Demo,2021-08-12,13685,293,13,Aug
+163,Warshall's Algorithm (Finding the Transitive Closure),2021-08-11,24751,718,27,Aug
+164,Primitive Built-in Types in C++,2021-08-10,8478,186,15,Aug
+165,Modelling of Electrical Systems (Solved Example 1),2021-08-09,12579,188,16,Aug
+166,Cache Memory Mapping – Solved PYQ,2021-08-08,4390,74,10,Aug
+167,Linked List Implementation of Stacks (Part 1),2021-08-07,29372,625,30,Aug
+168,Closure of Relations (Solved Problems) - Set 1,2021-08-06,5803,110,6,Aug
+169,Relational Algebra Operations - Unary,2021-08-05,60135,1188,30,Aug
+170,Stacks (Program 3),2021-08-04,8152,196,20,Aug
+171,Cache Memory Mapping – A Comparative Study,2021-08-03,7437,125,7,Aug
+172,Stacks (Program 2) – Part 2,2021-08-03,6324,145,14,Aug
+173,Modelling of Physical Systems,2021-08-02,15433,278,8,Aug
+174,Closure of Relations – Part 2,2021-08-01,12521,301,17,Aug
+175,Steganography,2021-07-31,17610,332,16,Jul
+176,Stacks (Program 2) – Part 1,2021-07-30,7649,155,16,Jul
+177,Limitations of Mason’s Gain Rule,2021-07-29,7349,147,6,Jul
+178,Indentation and Formatting of C++ Programs,2021-07-28,10108,210,17,Jul
+179,Closure of Relations – Part 1,2021-07-27,18921,366,12,Jul
+180,Row Column Transposition Ciphering Technique,2021-07-26,36846,585,21,Jul
+181,Set Associative Mapping – Solved PYQs (Part 2),2021-07-25,3485,52,1,Jul
+182,Rail Fence Technique,2021-07-24,27348,527,50,Jul
+183,Stacks (Program 1) – Part 3,2021-07-23,7216,165,19,Jul
+184,C++ Program to Count Number of Consecutive Inputs,2021-07-22,14616,266,26,Jul
+185,Set Associative Mapping – Solved PYQs (Part 1),2021-07-21,3763,64,9,Jul
+186,Representation of Relations,2021-07-20,15240,324,11,Jul
+187,Mass Storage Structure | Chapter-12 | Operating System | nesoacademy.org,2021-07-20,8154,65,9,Jul
+188,Stacks (Program 1) – Part 2,2021-07-19,7916,166,11,Jul
+189,Process Synchronization - Problem 5,2021-07-19,7004,114,8,Jul
+190,Process Synchronization - Problem 4,2021-07-19,5585,91,1,Jul
+191,Stacks (Program 1) – Part 1,2021-07-18,15481,365,16,Jul
+192,Process Synchronization - Problem 3,2021-07-18,6283,101,6,Jul
+193,File System Implementation | Chapter-11 | Operating System | nesoacademy.org,2021-07-17,4790,21,1,Jul
+194,Composition of Relation with Itself,2021-07-17,9586,205,7,Jul
+195,Process Synchronization - Problem 2,2021-07-17,7452,133,3,Jul
+196,File Systems | Chapter-10 | Operating System | nesoacademy.org,2021-07-16,6198,21,2,Jul
+197,One Time Pad,2021-07-16,26681,431,8,Jul
+198,Virtual Memory | Chapter-9 | Operating System | nesoacademy.org,2021-07-16,6333,27,2,Jul
+199,Process Synchronization - Problem 1,2021-07-16,11547,167,5,Jul
+200,Main Memory | Chapter-8 | Operating System | nesoacademy.org,2021-07-15,9536,43,3,Jul
+201,Dining Philosophers Solution using Monitors,2021-07-15,17859,402,13,Jul
+202,Deadlocks | Chapter-7 | Operating System | nesoacademy.org,2021-07-14,22793,138,21,Jul
+203,Signal Flow Graphs (Solved Problem 4),2021-07-14,7529,122,22,Jul
+204,Monitors,2021-07-14,32042,584,9,Jul
+205,Application Layer & Security | Chapter-8 | Computer Networks | nesoacademy.org,2021-07-13,7970,64,9,Jul
+206,Exercises based on Relational Model – Part 2,2021-07-13,10696,174,28,Jul
+207,Transport Layer | Chapter-7 | Computer Networks | nesoacademy.org,2021-07-13,6924,39,4,Jul
+208,The Dining Philosophers Problem,2021-07-13,51401,1166,32,Jul
+209,NAT & IPv6 | Chapter-6 | Computer Networks | nesoacademy.org,2021-07-12,4981,23,1,Jul
+210,Set Associative Mapping – Solved Examples (Part 2),2021-07-12,4967,76,4,Jul
+211,The Readers Writers Problem,2021-07-12,37783,851,29,Jul
+212,nesoacademy.org is live,2021-07-11,10026,373,64,Jul
+213,The Bounded Buffer Problem,2021-07-10,43124,966,17,Jul
+214,Routing Protocols | Chapter-5 | Computer Networks | nesoacademy.org,2021-07-09,6456,30,3,Jul
+215,Polyalphabetic Cipher (Vernam Cipher),2021-07-09,21007,307,12,Jul
+216,Network Layer Protocols | Chapter-4 | Computer Networks | nesoacademy.org,2021-07-09,7607,43,2,Jul
+217,Disadvantages of Semaphores,2021-07-09,21766,465,14,Jul
+218,Exercises based on Relational Model – Part 1,2021-07-08,14041,241,7,Jul
+219,Logical Addressing & Subnetting | Chapter-3 | Computer Networks | nesoacademy.org,2021-07-08,10476,67,3,Jul
+220,Semaphores,2021-07-08,79091,1745,55,Jul
+221,Set Associative Mapping – Solved Examples (Part 1),2021-07-07,11756,183,4,Jul
+222,Test and Set Lock,2021-07-07,35225,810,37,Jul
+223,Signal Flow Graphs (Solved Problem 3),2021-07-06,9200,163,35,Jul
+224,Peterson’s Solution,2021-07-06,59391,1521,55,Jul
+225,Update Operations/Dealing with Constraint Violations,2021-07-05,16351,312,17,Jul
+226,The Critical-Section Problem,2021-07-04,45468,1044,20,Jul
+227,Stacks (Important Questions) – Set 2,2021-07-04,8619,262,23,Jul
+228,Process Synchronization,2021-07-03,53193,1069,23,Jul
+229,Polyalphabetic Cipher (Vigenère Cipher),2021-07-03,55385,855,18,Jul
+230,Composition of Relations,2021-07-02,23282,519,27,Jul
+231,Set Associative Mapping,2021-07-02,24199,399,10,Jul
+232,Relational Model Constraints,2021-07-01,33422,610,16,Jul
+233,Stacks (Important Questions) – Set 1,2021-06-30,10871,254,18,Jun
+234,Signal Flow Graphs (Solved Problem 2),2021-06-30,10085,163,49,Jun
+235,Array Implementation of Stacks (Part 4),2021-06-29,18396,442,22,Jun
+236,Hill Cipher (Decryption),2021-06-29,48806,782,38,Jun
+237,Operations on Relations,2021-06-28,9856,201,13,Jun
+238,Associative Mapping – Solved PYQ,2021-06-28,4262,76,5,Jun
+239,The 'else-if' Statement in C++,2021-06-27,9936,275,20,Jun
+240,Characteristics of Relations,2021-06-26,20634,390,14,Jun
+241,Associative Mapping – Solved Examples,2021-06-25,9120,145,6,Jun
+242,Signal Flow Graphs (Solved Problem 1),2021-06-24,21130,346,25,Jun
+243,Array Implementation of Stacks (Part 3),2021-06-23,22243,500,21,Jun
+244,Introduction to Relational Data Model,2021-06-22,54415,1037,23,Jun
+245,The 'if-else' Statement in C++,2021-06-21,17109,336,21,Jun
+246,Associative Mapping,2021-06-20,19939,297,12,Jun
+247,Mason’s Gain Rule (Solved Example 2),2021-06-19,15830,236,46,Jun
+248,Hill Cipher (Encryption),2021-06-18,82445,1091,43,Jun
+249,Exercises based on ER Model Concepts (Part 2),2021-06-17,15932,232,6,Jun
+250,Array Implementation of Stacks (Part 2),2021-06-16,30066,718,36,Jun
+251,Reading an Unknown Number of Inputs in C++,2021-06-15,14995,372,22,Jun
+252,Direct Memory Mapping – Hardware Implementation,2021-06-14,11287,192,12,Jun
+253,Array Implementation of Stacks (Part 1),2021-06-13,46513,1060,26,Jun
+254,Mason’s Gain Rule (Solved Example 1),2021-06-12,25090,445,25,Jun
+255,Playfair Cipher (Solved Question),2021-06-11,16028,272,28,Jun
+256,Exercises based on ER Model Concepts (Part 1),2021-06-10,39493,580,21,Jun
+257,Direct Memory Mapping – Solved PYQs (Part 3),2021-06-09,6601,109,6,Jun
+258,Mason’s Gain Rule,2021-06-09,38062,649,23,Jun
+259,Playfair Cipher (Part 2),2021-06-08,50410,929,52,Jun
+260,Introduction to Stacks,2021-06-07,62967,1615,49,Jun
+261,Concept of Relationships in ER Diagram,2021-06-07,81973,1498,24,Jun
+262,The 'for' Statement in C++,2021-06-06,16579,353,22,Jun
+263,Direct Memory Mapping – Solved PYQs (Part 2),2021-06-05,8047,145,8,Jun
+264,Adding Two Numbers using Linked Lists - Part 3,2021-06-05,5543,140,17,Jun
+265,Playfair Cipher (Part 1),2021-06-04,83076,1198,16,Jun
+266,Introduction to Signal Flow Graphs,2021-06-03,52754,951,54,Jun
+267,Database Design Process,2021-06-02,67359,1030,19,Jun
+268,Adding Two Numbers using Linked Lists - Part 2,2021-06-01,5657,137,22,Jun
+269,The 'while' Statement in C++,2021-05-31,22214,477,36,May
+270,Direct Memory Mapping – Solved PYQs (Part 1),2021-05-30,12473,171,13,May
+271,Monoalphabetic Cipher,2021-05-29,58789,921,44,May
+272,Adding Two Numbers using Linked Lists - Part 1,2021-05-28,9762,219,35,May
+273,Basic Concepts of Entity-Relationship Model,2021-05-27,133347,2406,31,May
+274,Direct Memory Mapping – Solved Examples,2021-05-26,46823,747,18,May
+275,Comments in C++ (Exercise),2021-05-25,11418,290,31,May
+276,Types of Relations (GATE Problems) - Set 2,2021-05-24,6026,130,39,May
+277,Caesar Cipher (Part 2),2021-05-23,29572,504,20,May
+278,Block Diagram Reduction (Solved Problem 4),2021-05-22,12753,203,16,May
+279,Comments in C++,2021-05-21,16014,366,51,May
+280,Direct Memory Mapping,2021-05-21,47030,910,24,May
+281,DBMS Architecture,2021-05-20,39537,604,26,May
+282,Namespaces in C++,2021-05-19,44659,1188,58,May
+283,Block Diagram Reduction (Solved Problem 3),2021-05-18,17258,249,18,May
+284,Input and Output in C++,2021-05-17,50183,1267,73,May
+285,Application of Linked List (Multiplication of Two Polynomials) - Improvements,2021-05-16,6839,182,19,May
+286,Compiling & Executing C++ Programs (VS Code),2021-05-15,27205,500,39,May
+287,Introduction to Cache Memory,2021-05-14,34499,835,19,May
+288,Database System Environment,2021-05-13,31744,536,20,May
+289,Block Diagram Reduction (Solved Problem 2),2021-05-11,13550,187,20,May
+290,Caesar Cipher (Part 1),2021-05-10,73278,1124,74,May
+291,Compiling & Executing C++ Programs (Windows CMD),2021-05-09,29674,581,43,May
+292,Memory Interfacing – Solved PYQs,2021-05-08,18009,322,15,May
+293,Block Diagram Reduction (Solved Problem 1),2021-05-08,19570,284,22,May
+294,Application of Linked List (Multiplication of Two Polynomials),2021-05-07,11917,281,47,May
+295,Classical Encryption Techniques,2021-05-06,29473,547,12,May
+296,"DBMS Languages, Interfaces & Classification",2021-05-06,32860,549,18,May
+297,Installing Source Code Editor and Compiler,2021-05-05,37552,777,54,May
+298,Types of Relations (GATE Problems) - Set 1,2021-05-05,6930,136,16,May
+299,Block Diagram Reduction (Solved Example 2),2021-05-04,40314,634,35,May
+300,Application of Linked List (Addition of Two Polynomials),2021-05-04,34293,746,34,May
+301,Memory Hierarchy & Interfacing,2021-05-03,33170,587,35,May
+302,Writing a Simple C++ Program,2021-05-03,150031,3995,82,May
+303,Brute Force Attack,2021-05-02,23121,491,11,May
+304,Introduction to C++ Programming,2021-05-01,147311,3387,205,May
+305,Three-Schema Architecture & Data Independence,2021-04-30,58365,1196,28,Apr
+306,Adverbs (Part 2),2021-04-29,4109,117,26,Apr
+307,Introduction to Memory,2021-04-28,48845,980,46,Apr
+308,Cryptanalysis,2021-04-27,28941,565,16,Apr
+309,Fundamentals of Database Systems,2021-04-26,35598,573,12,Apr
+310,Application of Linked List (Polynomial Arithmetic) - Part 2,2021-04-25,20711,441,53,Apr
+311,Types of Relations (Solved Problem),2021-04-24,13023,239,26,Apr
+312,Classifications of Computer Architecture,2021-04-23,49471,898,22,Apr
+313,Cryptography – Key Terms,2021-04-22,19858,401,8,Apr
+314,Adverbs (Part 1),2021-04-21,2317,50,1,Apr
+315,Basics of Computer Architecture,2021-04-20,71944,1242,46,Apr
+316,History of Database Applications,2021-04-20,25561,419,26,Apr
+317,Types of Relations (Part 2),2021-04-19,24479,529,11,Apr
+318,Introduction to Computer Organization and Architecture (COA),2021-04-18,219289,3311,109,Apr
+319,Cryptography,2021-04-17,37367,811,26,Apr
+320,Verbs (Part 4),2021-04-16,3127,73,7,Apr
+321,Types of Relations (Part 1),2021-04-15,48874,1018,28,Apr
+322,Network Security Model,2021-04-14,38868,718,17,Apr
+323,Advantages & Disadvantages of DBMS,2021-04-13,62728,1082,23,Apr
+324,Introduction to Relations,2021-04-12,37875,729,25,Apr
+325,Verbs (Part 3),2021-04-11,3138,57,10,Apr
+326,Block Diagram Reduction (Solved Example 1),2021-04-10,56886,793,59,Apr
+327,Security Mechanisms,2021-04-09,33427,585,15,Apr
+328,Verbs (Part 2),2021-04-08,2543,64,6,Apr
+329,Set Operations (GATE and TIFR Problem),2021-04-07,4153,94,9,Apr
+330,Security Services,2021-04-06,43589,768,12,Apr
+331,Verbs (Part 1),2021-04-05,3074,85,5,Apr
+332,Block Diagram Reduction Rules - Part 2,2021-04-04,46656,811,27,Apr
+333,Security Attacks,2021-04-03,52354,1060,26,Apr
+334,Set Operations (GATE Problems),2021-04-02,4768,91,11,Apr
+335,The OSI Security Architecture,2021-03-31,39606,715,7,Mar
+336,Adjectives (Solved Questions),2021-03-30,2765,52,7,Mar
+337,CIA Triad,2021-03-29,50511,915,16,Mar
+338,Symmetric Difference,2021-03-28,8736,174,7,Mar
+339,Application Layer & Security | Chapter-8 | Computer Networks,2021-03-27,4676,61,10,Mar
+340,Adjectives (Part 6),2021-03-27,2019,40,3,Mar
+341,Introduction to Cryptography and Network Security,2021-03-26,111496,1599,53,Mar
+342,Set Operations (Solved Problem 2),2021-03-24,4974,104,7,Mar
+343,Adjectives (Part 5),2021-03-23,2177,44,6,Mar
+344,Set Operations (Solved Problem 1),2021-03-20,6000,118,5,Mar
+345,Adjectives (Part 4),2021-03-18,2529,49,3,Mar
+346,Set Identities (Part 3),2021-03-16,7060,145,7,Mar
+347,Block Diagram Reduction Rules - Part 1,2021-03-15,62984,1059,41,Mar
+348,Adjectives (Part 3),2021-03-14,2934,46,3,Mar
+349,Set Identities (Part 2),2021-03-13,8189,166,7,Mar
+350,Database Users,2021-03-12,58047,1123,41,Mar
+351,Adjectives (Part 2),2021-03-11,2618,51,8,Mar
+352,Set Identities (Part 1),2021-03-10,12893,275,7,Mar
+353,Set Operations (Solved Problems),2021-03-09,7690,157,4,Mar
+354,Introduction to Block Diagrams,2021-03-08,69077,1147,26,Mar
+355,Adjectives (Part 1),2021-03-08,2527,49,4,Mar
+356,DBMS Characteristics,2021-03-07,101464,1900,48,Mar
+357,Set Difference and Set Complement,2021-03-06,8992,174,9,Mar
+358,Set Operations (Intersection & Union with Venn Diagram),2021-03-03,8846,172,11,Mar
+359,Transport Layer | Chapter-7 | Computer Networks,2021-02-28,5824,57,10,Feb
+360,Cartesian Product (Solved Problems),2021-02-27,8098,197,7,Feb
+361,Articles (Solved Questions),2021-02-25,5188,84,13,Feb
+362,Introduction to Database Management Systems (DBMS),2021-02-24,354521,5880,164,Feb
+363,Cartesian Product,2021-02-21,15110,311,13,Feb
+364,Cardinality of Sets,2021-02-19,17284,323,4,Feb
+365,Power Set (GATE Problem 2),2021-02-18,6253,138,4,Feb
+366,Application of Linked List (Polynomial Arithmetic) - Part 1,2021-02-18,24895,549,55,Feb
+367,File System Implementation | Chapter-11 | Operating System,2021-02-16,6146,49,19,Feb
+368,Power Set (GATE Problem 1),2021-02-16,6456,105,6,Feb
+369,Articles (Part 4),2021-02-15,2982,47,2,Feb
+370,Power Set (Solved Problems),2021-02-14,8355,183,2,Feb
+371,Articles (Part 3),2021-02-13,3873,53,4,Feb
+372,Power Set,2021-02-12,11966,241,5,Feb
+373,Non-Empty Set (Important Theorem),2021-02-11,10739,163,3,Feb
+374,Articles (Part 2),2021-02-11,3721,50,5,Feb
+375,Null Set (Solved Problem),2021-02-09,9989,176,4,Feb
+376,"Types of Sets - Universal, Null, and Singleton",2021-02-08,11146,208,8,Feb
+377,Sorted Singly Linked List (Inserting a New Element),2021-02-07,22682,493,34,Feb
+378,NAT & IPv6 | Chapter-6 | Computer Networks,2021-02-06,4738,56,2,Feb
+379,Inclusion vs. Membership (Solved Problem),2021-02-06,8055,157,7,Feb
+380,Articles (Part 1),2021-02-05,3701,89,13,Feb
+381,Inclusion vs. Membership,2021-02-04,9712,249,14,Feb
+382,Pronouns (Solved Questions),2021-02-03,3830,92,17,Feb
+383,Inclusion and Equality,2021-02-02,14673,317,14,Feb
+384,Set Representation,2021-02-01,15506,290,9,Feb
+385,Parts of Speech: Pronouns (Part 3),2021-01-31,3741,86,9,Jan
+386,Set Theory (Basics of Sets),2021-01-29,23060,498,23,Jan
+387,Parts of Speech: Pronouns (Part 2),2021-01-28,4430,84,6,Jan
+388,Universal Modus Tollens Rule,2021-01-27,5921,99,17,Jan
+389,Circular Doubly Linked List (Deleting the Intermediate Node),2021-01-26,6782,152,20,Jan
+390,File Systems | Chapter-10 | Operating System,2021-01-25,6248,55,13,Jan
+391,Parts of Speech: Pronouns (Part 1),2021-01-24,7189,168,20,Jan
+392,Universal Modus Ponens Rule,2021-01-23,7529,111,8,Jan
+393,Routing Protocols | Chapter-5 | Computer Networks,2021-01-22,6345,70,6,Jan
+394,Nouns (Solved Questions),2021-01-21,9320,221,53,Jan
+395,Rules of Inference for Quantified Statements (Part 2),2021-01-20,13550,267,13,Jan
+396,Rules of Inference for Quantified Statements (Part 1),2021-01-19,24453,460,15,Jan
+397,Circular Doubly Linked List (Deleting the Last Node),2021-01-18,6650,157,24,Jan
+398,Parts of Speech: Nouns,2021-01-17,17756,455,50,Jan
+399,Fallacies,2021-01-17,10895,196,13,Jan
+400,"General English for GATE, PSUs, and Placements",2021-01-16,34224,992,69,Jan
+401,The Resolution Principle (Solved Problems),2021-01-14,8225,137,38,Jan
+402,Circular Doubly Linked List (Deleting the First Node),2021-01-13,6886,150,13,Jan
+403,The Resolution Principle (Proving if an Argument is Valid),2021-01-12,6850,97,3,Jan
+404,Circular Doubly Linked List (Insertion between the Nodes),2021-01-11,6943,159,11,Jan
+405,Circular Doubly Linked List (Insertion at the End),2021-01-09,7839,140,19,Jan
+406,Circular Doubly Linked List (Insertion at the Beginning),2021-01-07,15063,284,14,Jan
+407,Thank You for #1Million Subscribers | Neso Academy,2021-01-07,143993,2037,391,Jan
+408,The Resolution Principle (Proof of Theorem),2021-01-05,8189,133,11,Jan
+409,Circular Singly Linked List (Searching an Element),2021-01-04,9743,225,17,Jan
+410,The Resolution Principle (Preliminaries),2021-01-03,13296,229,7,Jan
+411,Negating the Nested Quantifiers (Example 3),2021-01-01,6418,120,20,Jan
+412,Virtual Memory | Chapter-9 | Operating System,2020-12-31,7410,69,16,Dec
+413,Negating the Nested Quantifiers (Example 2),2020-12-30,7015,109,11,Dec
+414,Circular Singly Linked List (Counting the Number of Elements),2020-12-28,6891,187,23,Dec
+415,Circular Singly Linked List (Deleting the Intermediate Node),2020-12-26,9172,206,15,Dec
+416,Circular Singly Linked List (Deleting the Last Node),2020-12-24,10255,184,13,Dec
+417,Negating the Nested Quantifiers,2020-12-23,9879,184,8,Dec
+418,Circular Singly Linked List (Deleting the First Node),2020-12-22,11201,215,14,Dec
+419,Creating a Circular Singly Linked List,2020-12-21,12162,262,15,Dec
+420,Circular Singly Linked List (Insertion between the Nodes),2020-12-20,13036,269,13,Dec
+421,Circular Singly Linked List (Insertion at the End),2020-12-18,13637,255,14,Dec
+422,Nested Quantifiers (Translating English Statements) - Example 5,2020-12-16,8108,139,10,Dec
+423,Network Layer Protocols | Chapter-4 | Computer Networks,2020-12-15,9865,112,12,Dec
+424,Traversing a Circular Singly Linked List,2020-12-14,12579,291,18,Dec
+425,Nested Quantifiers (Translating English Statements) - Example 4,2020-12-12,8166,128,11,Dec
+426,Circular Singly Linked List (Insertion at the Beginning),2020-12-12,30582,524,34,Dec
+427,Basics of Control Systems (Solved Problem 5),2020-12-08,9516,149,44,Dec
+428,Introduction to Circular Linked List,2020-12-06,47783,890,32,Dec
+429,Basics of Control Systems (Solved Problem 4),2020-12-05,8813,144,33,Dec
+430,Nested Quantifiers (Translating English Statements) - Example 3,2020-12-03,9022,151,14,Dec
+431,Nested Quantifiers (Translating English Statements) - Example 2,2020-12-01,10496,187,4,Dec
+432,Main Memory | Chapter-8 | Operating System,2020-11-30,9075,63,22,Nov
+433,Rapid Fire Quiz (Doubly Linked List),2020-11-30,8044,210,107,Nov
+434,Why Doubly Linked List?,2020-11-29,10467,277,12,Nov
+435,Nested Quantifiers (Translating English Statements) - Example 1,2020-11-28,16987,309,13,Nov
+436,Doubly Linked List (Solved Problem 2),2020-11-27,6267,148,18,Nov
+437,Nested Quantifiers (Solved Example 3),2020-11-25,13131,242,7,Nov
+438,Doubly Linked List (Solved Problem 1),2020-11-24,8329,185,14,Nov
+439,Nested Quantifiers (Solved Example 2),2020-11-23,18241,301,12,Nov
+440,Reversing the Doubly Linked List,2020-11-22,23555,518,40,Nov
+441,Basics of Control Systems (Solved Problem 3),2020-11-20,9342,142,22,Nov
+442,Nested Quantifiers (Solved Example 1),2020-11-19,40574,762,21,Nov
+443,Logical Addressing & Subnetting | Chapter-3 | Computer Networks,2020-11-17,11689,89,27,Nov
+444,Introduction to Nested Quantifiers,2020-11-16,34525,565,14,Nov
+445,Basics of Control Systems (Solved Problem 2),2020-11-15,10263,156,19,Nov
+446,Basics of Control Systems (Solved Problem 1),2020-11-12,15021,213,31,Nov
+447,Abstract Classes & Interfaces | Chapter-9 | Java Programming,2020-11-11,9944,75,34,Nov
+448,Doubly Linked List (Deleting the Intermediate Node),2020-11-10,19709,361,23,Nov
+449,Ramp Response of a System,2020-11-08,13622,208,30,Nov
+450,Power of Composite Number in a Factorial,2020-11-07,7426,138,81,Nov
+451,Doubly Linked List (Deleting the Last Node),2020-11-06,17206,332,40,Nov
+452,Step Response of a System,2020-11-05,39744,506,29,Nov
+453,Doubly Linked List (Deleting the First Node),2020-11-03,19207,402,26,Nov
+454,Deadlocks | Chapter-7 | Operating System,2020-11-01,17285,108,31,Nov
+455,Creating an Entire Doubly Linked List,2020-10-31,27304,538,30,Oct
+456,Power of Prime Number in a Factorial,2020-10-30,7208,154,32,Oct
+457,Doubly Linked List (Insertion between the Nodes) - Part 2,2020-10-28,15794,296,19,Oct
+458,Number of Factors (Part 2),2020-10-27,4131,70,26,Oct
+459,Number of Even and Odd Factors,2020-10-27,5100,74,26,Oct
+460,Doubly Linked List (Insertion between the Nodes) - Part 1,2020-10-26,35314,601,30,Oct
+461,Sensitivity of Control System (Solved Problem),2020-10-22,11708,215,17,Oct
+462,Doubly Linked List (Insertion at the End),2020-10-21,25643,486,40,Oct
+463,Number of Factors (Part 1),2020-10-20,7270,148,12,Oct
+464,Sensitivity of Control System (Solved Example),2020-10-19,13628,215,26,Oct
+465,Doubly Linked List (Insertion at the Beginning),2020-10-18,38862,689,38,Oct
+466,Prime and Composite Numbers,2020-10-17,10369,201,11,Oct
+467,Doubly Linked List (Inserting a Node in an Empty List),2020-10-16,30073,483,27,Oct
+468,Inheritance & Polymorphism | Chapter-8 | Java Programming,2020-10-15,14268,127,24,Oct
+469,Sensitivity of Control System (Part - 3),2020-10-15,12953,225,7,Oct
+470,Introduction to Doubly Linked List,2020-10-14,55430,1088,30,Oct
+471,Classification of Numbers,2020-10-13,12363,287,28,Oct
+472,Rapid Fire Quiz (Singly Linked List),2020-10-12,12776,399,235,Oct
+473,Sensitivity of Control System (Part - 2),2020-10-11,18634,277,13,Oct
+474,Ratio and Proportion (10 Solved Problems),2020-10-10,10502,194,46,Oct
+475,Sensitivity of Control System (Part - 1),2020-10-09,23830,384,15,Oct
+476,Singly Linked List (Solved Problem 6),2020-10-08,9677,253,23,Oct
+477,Singly Linked List (Solved Problem 5),2020-10-07,9855,241,19,Oct
+478,Dominant Pole (Solved Problem),2020-10-06,19455,298,34,Oct
+479,Singly Linked List (Solved Problem 4),2020-10-05,11779,273,23,Oct
+480,The Concept of Dominant Pole,2020-10-04,31965,580,41,Oct
+481,DC Gain of a System (Solved Problem),2020-10-02,15849,277,18,Oct
+482,First Order Logic (Solved Problems) - Part 5,2020-10-01,9695,202,27,Oct
+483,DC Gain of a System,2020-09-30,34238,481,39,Sep
+484,Singly Linked List (Solved Problem 3),2020-09-29,13234,286,31,Sep
+485,Time Constant Form (Solved Problem),2020-09-29,16399,256,15,Sep
+486,First Order Logic (Solved Problems) - Part 4,2020-09-27,9486,165,11,Sep
+487,Time Constant Form of a Control System,2020-09-26,38220,541,28,Sep
+488,Singly Linked List (Solved Problem 2),2020-09-25,14405,334,33,Sep
+489,Final Value Theorem (Solved Problem),2020-09-24,16134,281,46,Sep
+490,First Order Logic (Solved Problems) - Part 3,2020-09-23,10432,183,12,Sep
+491,Initial Value and Final Value Theorems,2020-09-22,37930,707,38,Sep
+492,Proportion (Solved Problems),2020-09-21,6761,156,32,Sep
+493,First Order Logic (Solved Problems) - Part 2,2020-09-20,12006,209,7,Sep
+494,Types of Systems,2020-09-19,39926,734,32,Sep
+495,First Order Logic (Solved Problems) - Part 1,2020-09-17,23148,335,15,Sep
+496,Direct and Indirect Proportion,2020-09-16,63590,1227,65,Sep
+497,Translating English Sentences to Logical Expressions,2020-09-15,28436,601,37,Sep
+498,Proportion,2020-09-14,11940,281,70,Sep
+499,Ratio (Solved Problems) - Part 2,2020-09-12,14360,302,91,Sep
+500,Singly Linked List (Solved Problem 1),2020-09-11,21431,444,28,Sep
+501,Ratio (Solved Problems) - Part 1,2020-09-10,18772,414,148,Sep
+502,Negating the Quantified Expressions (Examples),2020-09-09,15585,302,34,Sep
+503,Ratio,2020-09-08,26271,740,69,Sep
+504,Reverse a Single Linked List,2020-09-07,67061,1438,68,Sep
+505,Introduction to Aptitude and Reasoning,2020-09-06,119152,3404,301,Sep
+506,Deleting the Entire Single Linked List,2020-09-04,24706,609,41,Sep
+507,Negating the Quantified Expressions (Part 2),2020-09-02,17571,332,15,Sep
+508,Classes and Objects (Exercise 6),2020-09-01,10486,137,31,Sep
+509,Negating the Quantified Expressions (Part 1),2020-08-31,24101,421,10,Aug
+510,Classes and Objects (Exercise 5),2020-08-30,6629,107,10,Aug
+511,Single Linked List (Deleting the Node at a Particular Position),2020-08-29,66643,1200,53,Aug
+512,Classes and Objects (Exercise 4),2020-08-28,6847,115,10,Aug
+513,Logical Equivalences Involving Predicates & Quantifiers (Part 2),2020-08-27,27906,470,8,Aug
+514,Classes and Objects (Exercise 3),2020-08-26,7980,133,8,Aug
+515,Transfer Function of a Closed Loop System,2020-08-25,72748,1185,83,Aug
+516,Classes and Objects (Exercise 2) - Part 2,2020-08-24,7136,113,10,Aug
+517,Classes and Objects (Exercise 2) - Part 1,2020-08-23,9832,151,6,Aug
+518,Deletion at the Beginning (Single Linked List vs. Array),2020-08-22,15195,298,26,Aug
+519,Classes and Objects (Exercise 1),2020-08-21,15321,253,22,Aug
+520,Deletion at the End (Singly Linked List vs. Array),2020-08-20,16286,309,22,Aug
+521,Single Linked List (Deleting the Last Node using Single Pointer),2020-08-19,21832,468,24,Aug
+522,Zeros and Poles of a Transfer Function,2020-08-18,121510,1969,57,Aug
+523,UML Class Diagram,2020-08-17,24714,465,28,Aug
+524,Single Linked List (Deleting the Last Node),2020-08-16,44846,885,81,Aug
+525,Logical Equivalences Involving Predicates & Quantifiers (Part 1),2020-08-15,60230,1064,37,Aug
+526,Single Linked List (Deleting the First Node),2020-08-14,44468,861,39,Aug
+527,Insertion at a Certain Position (Singly Linked List vs. Arrays) - Part 2,2020-08-13,19340,408,22,Aug
+528,Transfer Function (Solved Problem 7),2020-08-12,26174,362,21,Aug
+529,Quantifiers with Restricted Domain,2020-08-11,23875,447,63,Aug
+530,Transfer Function (Solved Problem 6),2020-08-10,30209,427,107,Aug
+531,Insertion at a Certain Position (Singly Linked List vs. Arrays) - Part 1,2020-08-09,21858,350,12,Aug
+532,Existential Quantifiers - Examples,2020-08-08,24256,458,30,Aug
+533,Transfer Function (Solved Problem 5),2020-08-07,37792,526,19,Aug
+534,Single Linked List (Inserting a Node at a Certain Position),2020-08-06,86528,1525,92,Aug
+535,Existential Quantifiers,2020-08-05,35163,727,19,Aug
+536,Transfer Function (Solved Problem 4),2020-08-04,29415,370,19,Aug
+537,Inserting the Data at the Beginning (Singly Linked List vs. Array),2020-08-03,24971,512,17,Aug
+538,Expressing Quantifications in English,2020-08-02,24515,425,48,Aug
+539,Transfer Function (Solved Problem 3),2020-08-01,32223,399,8,Aug
+540,Inserting the Data at the Beginning of Single Linked List (2nd Method),2020-07-31,31055,609,38,Jul
+541,Universal Quantifiers - Counter Examples,2020-07-30,31050,526,58,Jul
+542,Transfer Function (Solved Problem 2),2020-07-29,61084,849,30,Jul
+543,Inserting the Data at the Beginning of Single Linked Lists (Possible Mistake),2020-07-28,35047,683,32,Jul
+544,Universal Quantifiers,2020-07-27,49976,855,26,Jul
+545,Maximum Power Transfer Theorem (Solved Problem 9),2020-07-26,10069,193,61,Jul
+546,Quantifiers,2020-07-25,96726,1866,33,Jul
+547,Transfer Function (Solved Problem 1),2020-07-24,61019,711,25,Jul
+548,Introduction to Transfer Function,2020-07-23,101856,1623,32,Jul
+549,Finding The Truth Values of Predicates (Examples),2020-07-22,25048,418,22,Jul
+550,Review of Linear Time-Invariant (LTI) Systems,2020-07-21,42001,658,20,Jul
+551,Single Linked List (Inserting a Node at the Beginning),2020-07-20,119003,2232,85,Jul
+552,Insertion at the End (Linked List vs. Array) - Part 2,2020-07-18,37655,651,22,Jul
+553,Insertion at the End (Linked List vs. Array) - Part 1,2020-07-17,51499,836,48,Jul
+554,Single Linked List (Inserting a Node at the End),2020-07-15,102526,1850,70,Jul
+555,Maximum Power Transfer Theorem (Solved Problem 8),2020-07-13,8861,133,17,Jul
+556,Traversing the List (Linked List vs. Arrays),2020-07-12,48573,921,27,Jul
+557,Inner Classes in Java,2020-07-11,22987,489,30,Jul
+558,Traversing a Single Linked List (Printing the Data),2020-07-10,68628,1286,46,Jul
+559,The this Keyword in Java,2020-07-09,27671,554,21,Jul
+560,Review of Laplace Transform (Part 7),2020-07-08,30570,443,51,Jul
+561,Traversing a Single Linked List (Counting the Nodes),2020-07-07,119305,2269,70,Jul
+562,Maximum Power Transfer Theorem (Solved Problem 7),2020-07-06,12001,157,15,Jul
+563,Immutable Classes and Objects in Java,2020-07-05,23377,450,16,Jul
+564,Review of Laplace Transform (Part 6),2020-07-04,34043,489,8,Jul
+565,Creating a Single Linked List (Part 2),2020-07-03,146934,3307,196,Jul
+566,Visibility Modifiers and Encapsulation - Practice,2020-07-02,8450,162,10,Jul
+567,Creating a Single Linked List (Part 1),2020-07-01,202984,3599,69,Jul
+568,Review of Laplace Transform (Part 5),2020-07-01,35933,581,15,Jul
+569,Data Field Encapsulation in Java,2020-06-30,11823,233,13,Jun
+570,Maximum Power Transfer Theorem for AC Circuits,2020-06-29,35368,523,33,Jun
+571,Visibility Modifiers in Java,2020-06-28,13551,304,8,Jun
+572,Creating the Node of a Single Linked List,2020-06-27,260835,5247,95,Jun
+573,Review of Laplace Transform (Part 4),2020-06-26,39750,597,40,Jun
+574,Introduction to First Order Logic,2020-06-25,70068,1094,31,Jun
+575,Array vs. Single Linked List (In Terms of Representation),2020-06-24,89570,1813,33,Jun
+576,Review of Laplace Transform (Part 3),2020-06-24,45022,652,52,Jun
+577,Static Variables and Static Methods in Java,2020-06-23,39103,766,29,Jun
+578,Introduction to Linked List,2020-06-22,380767,8659,145,Jun
+579,Review of Laplace Transform (Part 2),2020-06-21,56075,853,38,Jun
+580,Creating a Class in Java - Practice,2020-06-20,14733,276,15,Jun
+581,Review of Laplace Transform (Part 1),2020-06-19,85257,1314,30,Jun
+582,Constructors in Java,2020-06-18,28073,541,20,Jun
+583,Closed Loop Systems,2020-06-17,117329,2221,42,Jun
+584,Self Referential Structures,2020-06-16,63188,1637,65,Jun
+585,Instantiating Objects in Java,2020-06-15,23083,373,13,Jun
+586,The Limitation of Propositional Logic,2020-06-14,19835,376,19,Jun
+587,Open Loop Systems,2020-06-13,134073,2172,32,Jun
+588,Brain Teaser 16 | How Did The Dog Cross The River Without Getting Wet?,2020-06-12,6709,102,89,Jun
+589,Creating a Class in Java,2020-06-12,43377,611,28,Jun
+590,System Response Characteristics,2020-06-11,87953,1571,52,Jun
+591,Structures and Functions (Part 6),2020-06-10,30163,644,22,Jun
+592,Introduction to Control Systems,2020-06-09,241144,3276,151,Jun
+593,Introduction to Classes and Objects (Part 2),2020-06-09,22249,374,9,Jun
+594,Structures and Functions (Part 5),2020-06-08,36033,783,41,Jun
+595,Spanning Tree Protocol (Solved Question),2020-06-08,13480,226,74,Jun
+596,Introduction to Classes and Objects (Part 1),2020-06-07,48555,749,28,Jun
+597,Maximum Power Transfer Theorem (Solved Problem 6),2020-06-06,11056,162,12,Jun
+598,Spanning Tree Protocol (STP),2020-06-06,39609,678,48,Jun
+599,ArrayLists (Exercise 2),2020-06-05,12378,277,26,Jun
+600,Maximum Power Transfer Theorem (Solved Problem 5),2020-06-04,14082,218,11,Jun
+601,Virtual LAN (VLAN),2020-06-04,44617,957,20,Jun
+602,Structures and Functions (Part 4),2020-06-03,35670,689,39,Jun
+603,ArrayLists (Exercise 1),2020-06-03,13405,263,15,Jun
+604,Maximum Power Transfer Theorem (Solved Problem 4),2020-06-02,19462,264,8,Jun
+605,Bluetooth Protocol Stack,2020-06-02,34403,656,16,Jun
+606,Structures and Functions (Part 3),2020-06-01,38378,666,17,Jun
+607,For Each Loop in Java,2020-06-01,23254,513,25,Jun
+608,Maximum Power Transfer Theorem (Solved Problem 3),2020-05-31,20610,306,8,May
+609,IEEE 802.15.1 Bluetooth,2020-05-31,42222,816,16,May
+610,Structures and Functions (Part 2),2020-05-30,44403,771,28,May
+611,Brain Teaser 15 | Can You Find The Perimeter?,2020-05-29,3493,74,78,May
+612,Wi-Fi (Solved Question),2020-05-29,8220,145,22,May
+613,Maximum Power Transfer Theorem (Solved Problem 2),2020-05-28,24070,296,18,May
+614,Structures and Functions (Part 1),2020-05-27,81207,1525,54,May
+615,Multiple Access with Collision Avoidance (MACA),2020-05-27,25343,486,20,May
+616,Maximum Power Transfer Theorem (Solved Problem 1),2020-05-26,44463,596,17,May
+617,Exposed Terminal Problem,2020-05-25,22884,373,11,May
+618,Maximum Power Transfer Theorem,2020-05-24,128192,2280,42,May
+619,Hidden Terminal Problem,2020-05-24,28267,500,11,May
+620,Releasing the Dynamically Allocated Memory using free(),2020-05-23,60414,1380,59,May
+621,Brain Teaser 14 | Can You Find The Pattern & Missing Number?,2020-05-22,5266,85,136,May
+622,IEEE 802.11 Wi-Fi Frame Format,2020-05-22,35130,591,20,May
+623,Tellegen's Theorem,2020-05-21,32783,535,25,May
+624,Dynamic Memory Allocation using realloc(),2020-05-20,75650,1688,48,May
+625,IEEE 802.11 Distribution System,2020-05-20,21995,371,15,May
+626,Substitution Theorem,2020-05-19,15559,282,25,May
+627,Dynamic Memory Allocation using calloc(),2020-05-18,75175,1487,34,May
+628,IEEE 802.11 Wireless Fidelity (Wi-Fi),2020-05-18,74356,1142,34,May
+629,Compensation Theorem,2020-05-17,37274,564,93,May
+630,Dynamic Memory Allocation using malloc(),2020-05-16,172151,4029,132,May
+631,Ethernet (Solved Question 3),2020-05-16,8992,183,3,May
+632,Brain Teaser 13 | Who Will Shout First And Why?,2020-05-15,9738,104,63,May
+633,Millman's Theorem (Solved Problem),2020-05-15,24340,314,9,May
+634,Basics of Dynamic Memory Allocation,2020-05-14,173918,4013,55,May
+635,Ethernet (Solved Question 2),2020-05-14,10102,200,10,May
+636,Millman's Theorem,2020-05-13,54718,814,19,May
+637,Understanding the Wild Pointers,2020-05-12,47984,879,32,May
+638,Ethernet (Solved Question 1),2020-05-12,10523,200,3,May
+639,ArrayLists in Java (Part 2),2020-05-11,13053,266,25,May
+640,Reciprocity Theorem (Problem 2),2020-05-10,19060,270,66,May
+641,Experience with Ethernet,2020-05-10,11792,258,11,May
+642,Understanding the Dangling Pointers,2020-05-09,83032,1902,48,May
+643,ArrayLists in Java (Part 1),2020-05-09,45258,1061,46,May
+644,Brain Teaser 12 | Can You Find The Code To Open This Lock?,2020-05-08,10655,139,233,May
+645,Ethernet Transmitter Algorithm,2020-05-08,17845,324,12,May
+646,Understanding the Null Pointers,2020-05-07,76732,1548,40,May
+647,Two-Dimensional Arrays in Java (Exercise 2),2020-05-07,10137,157,13,May
+648,Reciprocity Theorem (Problem 1),2020-05-06,25169,300,25,May
+649,Ethernet (Solved Questions) - Part 2,2020-05-06,14634,240,36,May
+650,Understanding the Void Pointers,2020-05-05,100298,2221,52,May
+651,Two-Dimensional Arrays in Java (Exercise 1),2020-05-05,20398,350,21,May
+652,Asymptotic Analysis (Solved Problem 3),2020-05-04,39863,797,32,May
+653,Reciprocity Theorem,2020-05-04,72047,1297,23,May
+654,Two-Dimensional Arrays in Java (Part 3),2020-05-03,19225,324,14,May
+655,Ethernet (Solved Questions) - Part 1,2020-05-03,22375,367,8,May
+656,Asymptotic Analysis (Solved Problem 2),2020-05-02,46858,883,208,May
+657,Norton's Theorem (Problem 5),2020-05-02,11173,135,3,May
+658,Brain Teaser 11 | How Tall Is The Table?,2020-05-01,7665,93,100,May
+659,Ethernet,2020-05-01,118699,1943,37,May
+660,Asymptotic Analysis (Solved Problem 1),2020-04-30,84803,1636,232,Apr
+661,Two-Dimensional Arrays in Java (Part 2),2020-04-30,22569,381,14,Apr
+662,Channelization Protocols,2020-04-29,50994,995,16,Apr
+663,Norton's Theorem (Problem 4),2020-04-29,16261,189,73,Apr
+664,Bit Stuffing,2020-04-29,78874,1355,121,Apr
+665,Guidelines for Asymptotic Analysis (Part 2),2020-04-28,58051,1166,46,Apr
+666,Two-Dimensional Arrays in Java (Part 1),2020-04-28,35628,637,13,Apr
+667,Norton's Theorem (Problem 3),2020-04-27,14529,151,6,Apr
+668,Controlled Access Protocol – Token Passing,2020-04-27,44204,795,17,Apr
+669,Guidelines for Asymptotic Analysis (Part 1),2020-04-26,65335,1220,22,Apr
+670,Arrays in Java (Exercise 5),2020-04-26,10985,187,23,Apr
+671,Norton's Theorem (Problem 2),2020-04-25,22881,247,16,Apr
+672,Controlled Access Protocol – Polling,2020-04-25,46674,851,19,Apr
+673,Brain Teaser 10 | Can You Find The Angle α?,2020-04-24,4214,68,99,Apr
+674,Arrays in Java (Exercise 4),2020-04-24,10022,148,16,Apr
+675,Basics of Asymptotic Analysis (Part 5),2020-04-23,76552,1559,76,Apr
+676,Controlled Access Protocol – Reservation,2020-04-23,50665,850,18,Apr
+677,Norton's Theorem with Dependent Source,2020-04-22,51204,648,19,Apr
+678,Arrays in Java (Exercise 3),2020-04-22,11006,180,13,Apr
+679,Basics of Asymptotic Analysis (Part 4),2020-04-21,87386,1545,60,Apr
+680,Carrier Sense Multiple Access (CSMA) – Part 2,2020-04-21,95610,1502,157,Apr
+681,Arrays in Java (Exercise 2),2020-04-21,12218,170,11,Apr
+682,Source Transformation (Problem 2),2020-04-20,14970,198,13,Apr
+683,Carrier Sense Multiple Access (CSMA) – Part 1,2020-04-20,143996,2211,38,Apr
+684,Arrays in Java (Exercise 1),2020-04-20,25583,390,14,Apr
+685,Basics of Asymptotic Analysis (Part 3),2020-04-19,98536,2049,66,Apr
+686,Slotted Aloha,2020-04-19,105189,2073,43,Apr
+687,Variable-Length Argument Lists in Java,2020-04-19,16375,333,16,Apr
+688,Source Transformation (Problem 1),2020-04-18,17287,163,6,Apr
+689,File Handling | Chapter-14 | C Programming,2020-04-18,37488,393,108,Apr
+690,Pure Aloha,2020-04-18,150857,2669,74,Apr
+691,The Arrays Class in Java (Part 3),2020-04-18,14595,265,7,Apr
+692,Brain Teaser 9 | Can You Find The Missing Digits?,2020-04-17,9062,97,89,Apr
+693,Multiple Access Protocols,2020-04-17,121752,1932,23,Apr
+694,The Arrays Class in Java (Part 2),2020-04-17,17655,326,11,Apr
+695,Basics of Asymptotic Analysis (Part 2),2020-04-16,96304,1533,37,Apr
+696,Sliding Window Protocol (Solved Problem 2),2020-04-16,19354,280,17,Apr
+697,The Arrays Class in Java (Part 1),2020-04-16,31097,537,27,Apr
+698,Source Transformation,2020-04-15,102540,1390,28,Apr
+699,Sliding Window Protocol (Solved Problem 1),2020-04-15,25611,364,32,Apr
+700,Single-Dimensional Arrays in Java (Part 2),2020-04-15,26438,449,15,Apr
+701,Basics of Asymptotic Analysis (Part 1),2020-04-14,141559,2735,60,Apr
+702,Selective Repeat ARQ (Solved Problem 2),2020-04-14,28879,466,19,Apr
+703,Single-Dimensional Arrays in Java (Part 1),2020-04-14,48871,857,32,Apr
+704,Selective Repeat ARQ (Solved Problem 1),2020-04-13,38610,600,13,Apr
+705,Methods (Exercise 2),2020-04-13,16743,308,22,Apr
+706,Selective Repeat ARQ,2020-04-12,158482,3098,57,Apr
+707,Methods (Exercise 1),2020-04-12,18044,322,12,Apr
+708,Norton's Theorem,2020-04-11,157906,2768,81,Apr
+709,Go-Back-N ARQ (Solved Problem 2),2020-04-11,40113,697,22,Apr
+710,Method Overloading in Java,2020-04-11,66531,1305,31,Apr
+711,Brain Teaser 8 | Can You Find The Missing Alphabet?,2020-04-10,4599,84,109,Apr
+712,Passing Arguments by Reference in Java,2020-04-10,27164,503,25,Apr
+713,Go-Back-N ARQ (Solved Problem 1),2020-04-10,76805,1559,38,Apr
+714,Go-Back-N ARQ,2020-04-09,235842,4669,119,Apr
+715,Passing Arguments by Value in Java,2020-04-09,28137,554,15,Apr
+716,Sliding Window Protocol,2020-04-08,185855,3925,121,Apr
+717,Methods in Java,2020-04-08,88041,2037,95,Apr
+718,Stop-and-Wait ARQ Protocol,2020-04-07,116196,2072,39,Apr
+719,Scope and Local Variables in Java,2020-04-07,31851,665,30,Apr
+720,Stop-and-Wait Protocol,2020-04-06,137638,2388,55,Apr
+721,Loops in Java (Exercise 14),2020-04-06,10893,199,13,Apr
+722,Types of Data Structures,2020-04-05,142036,2778,75,Apr
+723,Flow Control,2020-04-05,117002,2025,38,Apr
+724,Loops in Java (Exercise 13),2020-04-05,13241,200,12,Apr
+725,Thevenin's Theorem (Problem 6),2020-04-04,18098,222,47,Apr
+726,Round Trip Time (RTT),2020-04-04,44111,737,28,Apr
+727,Loops in Java (Exercise 12),2020-04-04,14656,258,21,Apr
+728,Brain Teaser 7 | Can You Open This Lock?,2020-04-03,89529,257,227,Apr
+729,Data Structure Definition & Advantages,2020-04-03,107376,1777,47,Apr
+730,Delay (Solved Problem),2020-04-03,29990,452,10,Apr
+731,Loops in Java (Exercise 11),2020-04-03,11943,201,7,Apr
+732,Thevenin's Theorem (Problem 5),2020-04-02,21292,233,8,Apr
+733,Bandwidth Delay Product,2020-04-02,28852,527,24,Apr
+734,Loops in Java (Exercise 10),2020-04-02,12959,214,31,Apr
+735,Data Types vs. Abstract Data Types,2020-04-01,217414,4398,115,Apr
+736,Latency (Simulation),2020-04-01,21505,468,16,Apr
+737,Loops in Java (Exercise 9),2020-03-31,11569,189,14,Mar
+738,Latency,2020-03-31,37914,803,22,Mar
+739,Introduction to Data Structures,2020-03-30,543764,7995,318,Mar
+740,Network Performance,2020-03-30,52748,1099,38,Mar
+741,Process Synchronization | Chapter-6 | Operating System,2020-03-29,30843,187,86,Mar
+742,Loops in Java (Exercise 8),2020-03-29,12114,203,8,Mar
+743,Cyclic Redundancy Check (Solved Problem),2020-03-29,37104,628,19,Mar
+744,Loops in Java (Exercise 7),2020-03-28,13863,242,25,Mar
+745,Cyclic Redundancy Check (CRC) - Part 2,2020-03-28,112625,1955,74,Mar
+746,Loops in Java (Exercise 6),2020-03-27,14109,241,16,Mar
+747,Cyclic Redundancy Check (CRC) - Part 1,2020-03-27,235880,3796,186,Mar
+748,Thevenin's Theorem (Problem 4),2020-03-26,36162,464,29,Mar
+749,Loops in Java (Exercise 5),2020-03-26,16883,303,22,Mar
+750,Checksum,2020-03-26,255724,5180,146,Mar
+751,Loops in Java (Exercise 4),2020-03-25,19305,299,24,Mar
+752,Longitudinal Redundancy Check (LRC),2020-03-25,81682,1388,56,Mar
+753,Loops in Java (Exercise 3),2020-03-24,21606,366,18,Mar
+754,Vertical Redundancy Check (VRC),2020-03-24,77657,1344,48,Mar
+755,Loops in Java (Exercise 2),2020-03-23,24896,458,19,Mar
+756,Error Detection,2020-03-23,128708,2134,36,Mar
+757,Loops in Java (Exercise 1),2020-03-22,47572,999,32,Mar
+758,Digital Data Communications Message Protocol (DDCMP),2020-03-22,24138,435,7,Mar
+759,Break and Continue Keywords in Java,2020-03-21,26116,569,20,Mar
+760,Point-to-Point Protocol (PPP),2020-03-21,76940,1238,25,Mar
+761,Nested Loops in Java,2020-03-20,91065,2517,155,Mar
+762,Binary Synchronous Communications Protocol (BISYNC),2020-03-20,33929,556,13,Mar
+763,The For Loop in Java,2020-03-19,34182,709,36,Mar
+764,The Do While Loop in Java,2020-03-18,32353,613,29,Mar
+765,Thevenin's Theorem (Problem 3),2020-03-18,49753,588,15,Mar
+766,High-Level Data Link Control (HDLC),2020-03-18,103004,1613,27,Mar
+767,While Loop – Exercise,2020-03-17,21113,369,27,Mar
+768,Framing (Part 3),2020-03-17,56044,840,19,Mar
+769,The While Loop in Java,2020-03-16,31636,570,25,Mar
+770,Framing (Part 2),2020-03-16,64090,1048,23,Mar
+771,if-else Statement (Exercise 2),2020-03-15,17740,368,37,Mar
+772,Framing (Part 1),2020-03-15,94316,1472,24,Mar
+773,Thevenin's Theorem with Dependent Sources,2020-03-14,148788,1978,44,Mar
+774,if-else Statement (Exercise 1),2020-03-14,20727,357,28,Mar
+775,switch vs. if-else in Java,2020-03-13,35195,663,27,Mar
+776,switch Statement in Java,2020-03-12,41347,712,35,Mar
+777,Sub-layers of the Data Link Layer,2020-03-12,75048,1300,47,Mar
+778,Nested if-else Statements in Java,2020-03-11,27398,442,14,Mar
+779,Link Layer Services,2020-03-10,82230,1328,22,Mar
+780,if-else Statement in Java,2020-03-10,26795,408,12,Mar
+781,Line Configuration,2020-03-09,41938,731,17,Mar
+782,if Statement – Exercise,2020-03-09,18026,278,12,Mar
+783,Thevenin's Theorem (Problem 1),2020-03-08,65393,701,17,Mar
+784,if Statement in Java,2020-03-08,30122,499,27,Mar
+785,Physical Layer and Media (Part 3),2020-03-07,43453,824,19,Mar
+786,Conditional Operator in Java,2020-03-07,23545,474,18,Mar
+787,Physical Layer and Media (Part 2),2020-03-06,45549,784,14,Mar
+788,Logical Operators in Java,2020-03-06,27848,544,15,Mar
+789,Thevenin's Theorem,2020-03-05,299662,5481,112,Mar
+790,Relational Operators in Java,2020-03-05,21285,409,7,Mar
+791,The Division Operator (Examples),2020-03-04,14868,282,13,Mar
+792,Superposition Theorem (Problem 4),2020-03-03,22418,228,6,Mar
+793,Physical Layer and Media (Part 1),2020-03-03,67296,1161,21,Mar
+794,The Division Operator in Java,2020-03-03,18604,340,12,Mar
+795,Casting in Java,2020-03-02,42236,1029,34,Mar
+796,Superposition Theorem (Problem 3),2020-03-01,27162,270,17,Mar
+797,Network Devices (Solved Questions),2020-03-01,40159,1005,36,Mar
+798,Increment and Decrement Operators in Java,2020-03-01,28899,653,36,Mar
+799,Arithmetic Operators in Java,2020-02-29,26846,496,16,Feb
+800,Superposition Theorem (Problem 2),2020-02-28,59538,626,17,Feb
+801,The Assignment Operator in Java,2020-02-28,29933,547,11,Feb
+802,Network Devices,2020-02-27,108692,1950,36,Feb
+803,Literals in Java,2020-02-27,27040,521,22,Feb
+804,Basics of Bridge,2020-02-26,71267,1238,28,Feb
+805,Superposition Theorem with Dependent Sources,2020-02-26,101198,1219,46,Feb
+806,Java Exercise – Name and Age,2020-02-26,62260,748,27,Feb
+807,Basics of Cisco Packet Tracer (Part 5) | Repeater,2020-02-25,101480,1629,62,Feb
+808,Java Exercise – Favorite Number,2020-02-25,23689,434,30,Feb
+809,Superposition Theorem,2020-02-24,289702,4821,92,Feb
+810,Reading Input From the Keyboard in Java,2020-02-24,41877,694,38,Feb
+811,Introduction to Network Theorems,2020-02-23,88857,1261,59,Feb
+812,The Scanner Class in Java,2020-02-23,86243,1933,103,Feb
+813,Strings are Immutable in Java,2020-01-17,38529,856,38,Jan
+814,Instantiating a String Object,2020-01-16,28351,581,25,Jan
+815,Primitive Types and Reference Types in Java,2020-01-15,58641,1835,94,Jan
+816,Concatenating Strings in Java,2020-01-14,40703,760,25,Jan
+817,Basics of Cisco Packet Tracer (Part 4) | Router,2020-01-02,278058,4198,186,Jan
+818,Calling String Methods in Java,2019-12-31,41313,771,32,Dec
+819,The String Data Type in Java,2019-12-28,36761,607,21,Dec
+820,Basics of Router,2019-12-26,104046,2079,65,Dec
+821,The boolean Data Type in Java,2019-12-23,41850,830,29,Dec
+822,The char Data Type in Java,2019-12-22,39943,783,29,Dec
+823,Basics of Cisco Packet Tracer (Part 3) | Switch,2019-12-21,158498,2934,92,Dec
+824,The double and float Data Types in Java,2019-12-19,36054,688,26,Dec
+825,Bytes and Values in Java,2019-12-18,34809,671,28,Dec
+826,Basics of Cisco Packet Tracer (Part 2) | Hub,2019-12-17,219693,4103,102,Dec
+827,Integers Data Types in Java - Practice,2019-12-16,32061,565,15,Dec
+828,"The byte, short, and long Data Types in Java",2019-12-15,39874,760,20,Dec
+829,Basics of Cisco Packet Tracer (Part 1),2019-12-14,504037,8247,185,Dec
+830,The int Data Type in Java,2019-12-13,30594,572,13,Dec
+831,Introduction to Data Types in Java,2019-12-12,40375,747,12,Dec
+832,Identifiers in Java,2019-12-11,45492,913,36,Dec
+833,Constants in Java,2019-12-10,46592,939,26,Dec
+834,Basic Networking Commands (Part 1),2019-12-10,879458,17250,245,Dec
+835,Variables in Java - Practice,2019-12-09,47974,809,22,Dec
+836,Introduction to Variables in Java,2019-12-08,60310,1157,30,Dec
+837,The TCP/IP Protocol Suite,2019-12-06,194252,3466,294,Dec
+838,Java Basics - An Overview,2019-12-06,44256,803,26,Dec
+839,Java Exercise - Creating Classes & Methods,2019-12-05,50732,965,55,Dec
+840,Type Faster in IntelliJ,2019-12-04,40405,1092,35,Dec
+841,Programming Errors,2019-12-03,46262,932,38,Dec
+842,Programming Styles,2019-12-03,45250,802,20,Dec
+843,Command Line Arguments in Java,2019-12-02,133164,2511,90,Dec
+844,The void Return Type in Java,2019-12-02,62047,1319,39,Dec
+845,Addressing in Networking,2019-12-02,111517,2319,127,Dec
+846,"public, private, and static in Java",2019-12-01,100340,2236,65,Dec
+847,"Java Packages, Classes, and Methods",2019-11-30,110539,1846,81,Nov
+848,Our First Java Project,2019-11-29,96553,1402,35,Nov
+849,The OSI Reference Model (Part 4),2019-11-28,91640,2031,49,Nov
+850,"Creating, Compiling, & Executing a Java Program",2019-11-27,107912,1724,100,Nov
+851,Sinusoidal Steady-State (Solved Question 6),2019-11-27,8630,84,17,Nov
+852,RMS & Average Values of Standard Waveforms,2019-11-27,81776,1061,28,Nov
+853,The OSI Reference Model (Part 3),2019-11-26,134697,2635,60,Nov
+854,Configuring our Java Development Environment,2019-11-26,97648,1159,60,Nov
+855,Displaying Numbers in Java,2019-11-25,75470,1157,39,Nov
+856,Displaying Messages in Java,2019-11-25,111673,2027,85,Nov
+857,Anatomy of Java Program,2019-11-24,142086,2751,88,Nov
+858,Introduction to Java Programming,2019-11-24,159244,2705,84,Nov
+859,The OSI Reference Model (Part 2),2019-11-24,167864,2757,62,Nov
+860,Programs and Programming Languages,2019-11-23,161468,2846,106,Nov
+861,Why take this Java Course?,2019-11-23,364605,5716,254,Nov
+862,The OSI Reference Model (Part 1),2019-11-21,234013,3935,382,Nov
+863,Layering in Computer Networks,2019-11-20,124534,2171,51,Nov
+864,Switching Techniques in Computer Networks,2019-11-19,281168,6363,214,Nov
+865,Basics of Port Addressing,2019-11-18,111428,2569,101,Nov
+866,Basics of MAC Addressing,2019-11-17,137205,2647,82,Nov
+867,Sinusoidal Steady-State (Solved Question 5),2019-11-16,8614,106,21,Nov
+868,Basics of IP Addressing,2019-11-16,164681,2855,59,Nov
+869,Network Topology (Solved Questions),2019-11-10,110645,2036,158,Nov
+870,Network Topology,2019-11-09,348205,6613,173,Nov
+871,Classification of Computer Networks,2019-11-08,206853,3757,69,Nov
+872,Components of a Computer Network,2019-11-07,171227,3137,85,Nov
+873,Network Protocols & Communications (Part 2),2019-11-06,183193,3209,87,Nov
+874,Network Protocols & Communications (Part 1),2019-11-05,360060,6224,127,Nov
+875,Computer Networks - Basic Characteristics,2019-11-04,259056,4119,72,Nov
+876,Introduction to Computer Networks,2019-11-03,778044,9726,311,Nov
+877,Scheduling Algorithms – Solved Problems,2019-10-27,30357,499,63,Oct
+878,Multilevel Feedback-Queue Scheduling Algorithm,2019-10-26,51079,974,35,Oct
+879,Multilevel Queue Scheduling Algorithm,2019-10-24,62222,1080,27,Oct
+880,Round Robin Scheduling - Solved Problem (Part 2),2019-10-17,38127,514,27,Oct
+881,Round Robin Scheduling - Solved Problem (Part 1),2019-10-16,124487,1421,42,Oct
+882,Structures & Unions in C (Solved Problem),2019-10-15,36461,729,102,Oct
+883,Program to Find Area of Rectangle Using Structures,2019-10-14,35966,699,27,Oct
+884,Sinusoidal Steady-State (Solved Question 4),2019-10-10,9794,97,17,Oct
+885,Enumerations in C,2019-10-09,100478,2661,80,Oct
+886,Round Robin Scheduling (Turnaround Time & Waiting Time),2019-10-08,125439,1551,42,Oct
+887,Application of Unions (Part 2),2019-10-07,36020,812,46,Oct
+888,Application of Unions (Part 1),2019-10-06,52661,1241,89,Oct
+889,Scheduling Algorithms - Round Robin Scheduling,2019-10-03,90579,1469,32,Oct
+890,Sinusoidal Steady-State (Solved Question 3),2019-10-01,12161,136,14,Oct
+891,Priority Scheduling (Solved Problem 2),2019-09-30,52975,637,40,Sep
+892,Priority Scheduling (Solved Problem 1),2019-09-29,96304,1102,29,Sep
+893,Scheduling Algorithms - Priority Scheduling,2019-09-25,76830,1181,30,Sep
+894,Unions in C (Solved Problem 1),2019-09-24,38636,627,37,Sep
+895,Introduction to Unions in C,2019-09-23,128940,3318,79,Sep
+896,Structures in C (Solved Problem 3),2019-09-22,38292,747,11,Sep
+897,Structures in C (Solved Problem 2),2019-09-21,48782,955,50,Sep
+898,Structures in C (Solved Problem 1),2019-09-20,50575,734,16,Sep
+899,Structure Packing in C,2019-09-19,59245,1146,36,Sep
+900,Structure Padding in C,2019-09-18,123108,3279,174,Sep
+901,Pointer to Structure Variable,2019-09-17,96664,1771,42,Sep
+902,Declaring an Array of Structure,2019-09-16,83041,1371,33,Sep
+903,Designated Initialization in Structures,2019-09-15,61305,979,22,Sep
+904,Shortest Job First Scheduling (Solved Problem 2),2019-09-15,48002,575,16,Sep
+905,Initializing & Accessing the Structure Members,2019-09-14,80715,1268,26,Sep
+906,Shortest Job First Scheduling (Solved Problem 1),2019-09-14,94833,1104,32,Sep
+907,Structure Types (Using typedef),2019-09-13,121262,2487,58,Sep
+908,Scheduling Algorithms - Shortest Job First (SJF),2019-09-12,125265,1859,50,Sep
+909,Structure Types (Using Structure Tags),2019-09-11,112932,1833,60,Sep
+910,Sinusoidal Steady-State (Solved Question 2),2019-09-11,11608,128,51,Sep
+911,Declaring Structure Variables,2019-09-10,139549,2390,60,Sep
+912,First Come First Served Scheduling (Solved Problem 2),2019-09-10,56279,776,23,Sep
+913,Introduction to Structures in C,2019-09-09,189965,3266,63,Sep
+914,First Come First Served Scheduling (Solved Problem 1),2019-09-08,170476,2391,77,Sep
+915,Application of Function Pointers in C,2019-09-07,63049,1407,62,Sep
+916,Function Pointers in C,2019-09-06,137853,3130,155,Sep
+917,Practice Sheet-2 | Two-Port Networks | Network Theory,2019-09-06,11041,122,18,Sep
+918,Scheduling Algorithms - First Come First Served (FCFS),2019-09-05,119516,1993,45,Sep
+919,Strings (Solved Problem 6),2019-09-04,28867,559,37,Sep
+920,Sinusoidal Steady-State (Solved Question 1),2019-09-04,18242,181,39,Sep
+921,Strings (Solved Problem 5),2019-09-03,32098,671,34,Sep
+922,Strings (Solved Problem 4),2019-09-02,33037,667,38,Sep
+923,Strings (Solved Problem 3),2019-09-01,35301,756,52,Sep
+924,Scheduling Criteria,2019-08-30,69943,1366,38,Aug
+925,Strings (Solved Problem 2),2019-08-29,41795,736,22,Aug
+926,Phasor Diagram of Parallel RLC Circuit,2019-08-28,51940,697,32,Aug
+927,Array of Strings,2019-08-28,87078,1566,145,Aug
+928,String Comparison Function - strcmp(),2019-08-27,78874,1399,35,Aug
+929,Phasor Diagram of Parallel RC Circuit,2019-08-27,25352,311,17,Aug
+930,String Concatenate Functions - strcat() & strncat(),2019-08-26,62119,1097,30,Aug
+931,Preemptive and Non-Preemptive Scheduling,2019-08-25,108369,2069,74,Aug
+932,String Length Function - strlen(),2019-08-24,57596,950,32,Aug
+933,C String Library and String Copy Function - strcpy(),2019-08-21,87884,1526,86,Aug
+934,Strings (Solved Problem 1),2019-08-20,48050,740,18,Aug
+935,Phasor Diagram of Parallel RL Circuit,2019-08-20,28713,395,16,Aug
+936,putchar() Function in C,2019-08-19,58782,968,33,Aug
+937,Designing The Input Function using getchar(),2019-08-18,80128,1365,57,Aug
+938,Phasor Diagram of Series RLC Circuit,2019-08-18,62278,810,22,Aug
+939,CPU and I/O Burst Cycles,2019-08-17,75185,1378,36,Aug
+940,Neso Academy's Forum,2019-08-17,9066,62,6,Aug
+941,Introduction to CPU Scheduling,2019-08-14,131085,2210,31,Aug
+942,Phasor Diagram of Series RC Circuit,2019-08-10,32746,393,10,Aug
+943,Phasor Diagram of Series RL Circuit,2019-08-09,47214,626,22,Aug
+944,Power Triangle (Solved Problem),2019-08-08,12061,148,6,Aug
+945,Power Triangle,2019-08-07,20944,241,10,Aug
+946,Threading Issues (Thread Cancellation),2019-08-06,37235,677,11,Aug
+947,Complex Power (Solved Problem),2019-08-03,14726,175,15,Aug
+948,Complex Power & Reactive Power,2019-08-02,35987,488,10,Aug
+949,Power Factor (Solved Problem),2019-07-31,22241,237,64,Jul
+950,Apparent Power & Power Factor,2019-07-29,29905,376,13,Jul
+951,RMS Value (Solved Problem),2019-07-28,20217,256,78,Jul
+952,Threading Issues [fork() & exec() System Calls],2019-07-26,51105,775,15,Jul
+953,fork() and exec() System Calls,2019-07-25,180854,3718,115,Jul
+954,Root Mean Square (RMS) Value,2019-07-22,22217,283,17,Jul
+955,Reading Strings using scanf and gets Functions,2019-07-21,99902,1660,58,Jul
+956,Writing Strings using printf and puts Functions,2019-07-20,77083,1200,28,Jul
+957,Declaring and Initializing String Variables,2019-07-19,105338,1829,65,Jul
+958,Average Power in AC Circuits (Solved Problem 2),2019-07-19,29163,375,56,Jul
+959,String Literal vs. Character Constant,2019-07-18,73872,1129,21,Jul
+960,Performing Operations on String Literals,2019-07-17,92523,1281,37,Jul
+961,Storing the String Literals,2019-07-16,96922,1401,22,Jul
+962,Basics of String Literals,2019-07-14,145325,2148,32,Jul
+963,Average Power in AC Circuits (Solved Problem 1),2019-07-14,28958,323,33,Jul
+964,Pointers (Program 9),2019-07-13,36013,759,45,Jul
+965,Pointers (Program 8),2019-07-12,38609,838,58,Jul
+966,Average Power in AC Circuits,2019-07-12,46874,537,19,Jul
+967,Pointers (Program 7),2019-07-05,39425,767,30,Jul
+968,Pointers (Program 6),2019-07-04,39243,765,39,Jul
+969,Pointers (Program 5),2019-06-30,40339,733,29,Jun
+970,Pointer Pointing to an Entire Array (Solved Problem),2019-06-29,58414,1086,59,Jun
+971,Pointer Pointing to an Entire Array,2019-06-28,109954,2368,87,Jun
+972,Pointers (Program 4),2019-06-23,46233,780,64,Jun
+973,Pointers (Program 3),2019-06-22,58823,898,64,Jun
+974,Processing the Multidimensional Array Elements (or) Address Arithmetic of Multidimensional Arrays,2019-06-18,83382,2001,369,Jun
+975,Using Pointers to Print 2D Arrays,2019-06-13,90514,1441,52,Jun
+976,Passing Array as an Argument to a Function,2019-06-12,125761,2059,66,Jun
+977,Pointers (Program 2) | Reverse a Series of Numbers using Pointers,2019-06-11,66774,1072,61,Jun
+978,Using Array Name as a Pointer,2019-06-08,95356,1905,40,Jun
+979,Pointers (Program 1) | Sum of Array Elements using Pointers,2019-06-07,78955,1235,47,Jun
+980,Pointer Arithmetic (Comparing the Pointers),2019-06-06,70719,1214,344,Jun
+981,Pointer Arithmetic (Increment & Decrement),2019-06-05,85278,1526,55,Jun
+982,Pointer Arithmetic (Subtraction),2019-06-04,86239,1680,56,Jun
+983,Multithreading Models & Hyperthreading,2019-05-30,113467,2121,69,May
+984,Pointer Arithmetic (Addition),2019-05-28,124125,2392,280,May
+985,Introduction to Threads,2019-05-24,288579,5035,103,May
+986,Pointers (Important Questions),2019-05-17,173163,3852,108,May
+987,Issues in RPC & How They're Resolved,2019-05-15,33256,570,28,May
+988,Remote Procedure Calls (RPC),2019-05-09,96658,1556,47,May
+989,Returning Pointers,2019-05-01,123114,1919,104,May
+990,Pointer Application (Finding the Largest & Smallest Elements in an Array),2019-04-26,149564,2531,109,Apr
+991,Pointer Assignment,2019-04-12,143741,2342,521,Apr
+992,Value of Operator in Pointers,2019-04-11,173035,3105,68,Apr
+993,Declaring & Initializing Pointers in C,2019-04-02,214932,3659,81,Apr
+994,Introduction to Pointers in C,2019-04-01,313241,4716,52,Apr
+995,Variable Length Arrays in C,2019-03-31,89705,1381,49,Mar
+996,Constant Arrays in C,2019-03-30,78303,1226,24,Mar
+997,C Program for Matrix Multiplication (Part 2),2019-03-29,252737,4742,159,Mar
+998,C Program for Matrix Multiplication (Part 1),2019-03-22,162628,2431,47,Mar
+999,Multidimensional Arrays (Solved Problem),2019-03-17,105111,1583,59,Mar
+1000,Instantaneous Power in AC Circuits,2019-03-16,41040,449,39,Mar
+1001,Introduction to Three-Dimensional (3D) Arrays,2019-03-13,176344,3300,145,Mar
+1002,Introduction to Two-Dimensional (2D) Arrays,2019-03-09,398722,7783,263,Mar
+1003,Phasor Relationship for Capacitor,2019-03-03,26017,299,28,Mar
+1004,Introduction to Multidimensional Arrays,2019-02-28,143460,2083,45,Feb
+1005,Count Array Elements using sizeof() Operator,2019-02-26,122714,2320,73,Feb
+1006,Arrays in C (Solved Problem 2),2019-02-25,171587,2934,151,Feb
+1007,Arrays in C (Solved Problem 1),2019-02-08,222411,3796,109,Feb
+1008,Designated Initialization of Arrays,2019-02-06,137761,2554,73,Feb
+1009,Initializing an Array,2019-02-02,192536,3317,95,Feb
+1010,Accessing Array Elements,2019-01-31,186093,2874,69,Jan
+1011,Declaration of Array,2019-01-26,208375,3152,53,Jan
+1012,Definition of Array,2019-01-25,403012,7035,109,Jan
+1013,C Programming (Rapid Fire Quiz-2),2019-01-18,46662,974,343,Jan
+1014,Recursion (Solved Problem 5),2019-01-17,50300,1094,56,Jan
+1015,Recursion (Solved Problem 4),2019-01-13,60079,1239,92,Jan
+1016,Phasor Relationship for Inductor,2019-01-09,31727,350,32,Jan
+1017,Recursion (Solved Problem 3),2019-01-09,59350,1030,36,Jan
+1018,Recursion (Solved Problem 2),2019-01-07,74311,1279,48,Jan
+1019,Phasor Relationship for Resistor,2019-01-07,31037,315,9,Jan
+1020,Recursion (Solved Problem 1),2019-01-06,116835,2046,108,Jan
+1021,Phasors (Solved Problem 3),2019-01-05,28527,290,20,Jan
+1022,Advantage and Disadvantage of Recursion,2019-01-04,78277,1643,58,Jan
+1023,Types of Recursion (Part 2) | Tail & Non-tail Recursion,2019-01-03,150412,3014,330,Jan
+1024,Phasors (Solved Problem 2),2019-01-02,37109,430,71,Jan
+1025,Types of Recursion (Part 1) | Direct & Indirect Recursion,2019-01-01,151607,2826,131,Jan
+1026,Phasors (Solved Problem 1),2018-12-31,41663,427,34,Dec
+1027,How to write Recursive Functions,2018-12-30,207400,4525,151,Dec
+1028,Phasors,2018-12-28,91070,1350,33,Dec
+1029,Sinusoids (Solved Problems),2018-12-19,49884,544,87,Dec
+1030,Sinusoids,2018-12-16,78155,960,17,Dec
+1031,Sinusoidal Steady-State Analysis (Introduction),2018-12-13,51547,583,17,Dec
+1032,Recursion in C,2018-12-12,489830,10986,872,Dec
+1033,ABCD−Parameters of Gyrator,2018-12-09,13675,137,36,Dec
+1034,ABCD−Parameters of an Ideal Transformer,2018-12-06,23096,218,20,Dec
+1035,Two−Port Networks (Solved Problem 8),2018-12-04,15363,118,4,Dec
+1036,Static and Dynamic Scoping (Solved Question 2),2018-12-03,58466,970,83,Dec
+1037,Two−Port Networks (Solved Problem 7),2018-12-02,15850,128,67,Dec
+1038,Open Circuit & Short Circuit Impedances (In Terms of ABCD-Parameters),2018-11-30,24161,192,37,Nov
+1039,Two−Port Networks (Solved Problem 6),2018-11-29,16953,133,29,Nov
+1040,Two−Port Networks (Solved Problem 5),2018-11-28,18246,121,9,Nov
+1041,Static and Dynamic Scoping (Solved Question 1),2018-11-25,58145,861,32,Nov
+1042,Two−Port Networks (Solved Problem 4),2018-11-24,21570,172,61,Nov
+1043,Static and Dynamic Scoping (Part-4),2018-11-23,64415,1038,26,Nov
+1044,Two−Port Networks (Solved Problem 3),2018-11-23,31297,268,75,Nov
+1045,Static and Dynamic Scoping (Part-3),2018-11-19,92414,1449,320,Nov
+1046,Static and Dynamic Scoping (Part-2),2018-11-15,113343,1767,72,Nov
+1047,Static and Dynamic Scoping (Part-1),2018-11-10,158757,2411,64,Nov
+1048,Two−Port Networks (Solved Problem 2),2018-11-07,28238,236,75,Nov
+1049,Two−Port Networks (Solved Problem 1),2018-11-03,34241,359,64,Nov
+1050,Bartlett's Bisection Theorem,2018-11-01,26212,231,15,Nov
+1051,Two−Port Network (Important Shortcuts),2018-10-31,75987,842,14,Oct
+1052,Sockets in Operating System,2018-10-30,99926,1798,64,Oct
+1053,Cascade Interconnection of Two−Port Networks,2018-10-29,59356,614,28,Oct
+1054,Parallel−Series Interconnection of Two−Port Networks,2018-10-28,29265,228,9,Oct
+1055,Series−Parallel Interconnection of Two−Port Networks,2018-10-28,39957,350,16,Oct
+1056,Static Functions in C,2018-10-27,132589,2064,59,Oct
+1057,Parallel−Parallel Interconnection of Two−Port Networks,2018-10-26,48591,460,21,Oct
+1058,Series−Series Interconnection of Two−Port Networks,2018-10-25,66781,681,27,Oct
+1059,Functions (Solved Question 3),2018-10-23,97939,1916,101,Oct
+1060,Condition for Reciprocity in Two−Port Networks (Part 2),2018-10-22,37729,337,14,Oct
+1061,Condition for Reciprocity in Two−Port Networks (Part 1),2018-10-21,64299,569,13,Oct
+1062,Functions (Solved Question 2),2018-10-20,122880,2142,79,Oct
+1063,Condition for Symmetry in Two−Port Networks,2018-10-19,56724,492,14,Oct
+1064,Functions (Solved Question 1),2018-10-17,153378,2245,389,Oct
+1065,ABCD−Parameters (Solved Problem),2018-10-16,79520,713,82,Oct
+1066,ABCD−Parameters to Z−Parameters Conversion (and vice versa),2018-10-14,77773,671,22,Oct
+1067,ABCD−Parameters (or) Transmission Parameters,2018-10-13,132188,1322,57,Oct
+1068,Z−Parameters to g−Parameters Conversion (and vice versa),2018-10-11,36632,275,11,Oct
+1069,g−Parameters (or) Inverse Hybrid Parameters,2018-10-10,60596,521,25,Oct
+1070,Call By Value & Call By Reference in C,2018-10-08,699461,17879,498,Oct
+1071,h−Parameters (Solved Problem),2018-10-08,110326,1057,133,Oct
+1072,Function Definition in C,2018-10-06,249251,4593,126,Oct
+1073,h−Parameters to Y−Parameters Conversion (and vice versa),2018-10-06,64345,560,19,Oct
+1074,h−Parameters to Z−Parameters Conversion (and vice versa),2018-10-05,99151,1253,81,Oct
+1075,h−Parameters (or) Hybrid Parameters,2018-10-04,151449,1500,105,Oct
+1076,Y−Parameters (Solved Problem 2),2018-10-03,100068,833,174,Oct
+1077,Message Passing Systems (Part 3),2018-10-03,66849,1026,40,Oct
+1078,Y−Parameters (Solved Problem 1),2018-10-01,180415,1518,43,Oct
+1079,Function Declaration in C,2018-09-30,248117,3807,97,Sep
+1080,Z−Parameters to Y−Parameters Conversion,2018-09-29,107891,881,18,Sep
+1081,Y−Parameters to Z−Parameters Conversion,2018-09-29,122104,998,18,Sep
+1082,Y−Parameters (or) Admittance Parameters,2018-09-27,162880,1694,48,Sep
+1083,Z−Parameters (Solved Problem 2),2018-09-27,181505,1679,323,Sep
+1084,Z−Parameters (Solved Problem 1),2018-09-26,215164,2335,448,Sep
+1085,Z−Parameters (or) Impedance Parameters,2018-09-22,240753,2763,170,Sep
+1086,Message Passing Systems (Part 2),2018-09-21,84352,1266,32,Sep
+1087,Concept of Symmetry in Two−Port Networks,2018-09-20,69119,606,16,Sep
+1088,Introduction to Two−Port Networks,2018-09-18,228503,2329,49,Sep
+1089,Introduction to Functions in C,2018-09-18,380903,6366,92,Sep
+1090,Message Passing Systems (Part 1),2018-09-16,116283,1492,24,Sep
+1091,Special Programs in C − Check If The Number Is Perfect Number,2018-09-14,56485,1020,42,Sep
+1092,Shared Memory Systems,2018-09-14,129936,1993,50,Sep
+1093,Practice Sheet-1 | Network Theory Basics | Network Theory,2018-09-13,17566,174,26,Sep
+1094,Basics of Network Theory (Solved Problem 19),2018-09-13,12647,134,44,Sep
+1095,Basics of Network Theory (Solved Problem 17),2018-09-11,9759,89,32,Sep
+1096,Basics of Network Theory (Solved Problem 18),2018-09-11,10495,112,33,Sep
+1097,Special Programs in C − Check Leap Year,2018-09-11,53775,893,65,Sep
+1098,Basics of Network Theory (Solved Problem 16),2018-09-10,9802,103,45,Sep
+1099,Special Programs in C − Calculating Power of an Integer,2018-09-09,49169,777,45,Sep
+1100,Basics of Network Theory (Solved Problem 15),2018-09-07,11265,115,52,Sep
+1101,Special Programs in C − Binary to Decimal Conversion,2018-09-06,126080,2181,72,Sep
+1102,Basics of Network Theory (Solved Problem 14),2018-09-05,10505,126,49,Sep
+1103,Special Programs in C − Floyd's Triangle,2018-09-04,51850,836,24,Sep
+1104,Basics of Network Theory (Solved Problem 13),2018-09-04,10072,106,56,Sep
+1105,Special Programs in C − Fibonacci Series,2018-09-03,107305,2086,76,Sep
+1106,Basics of Network Theory (Solved Problem 12),2018-09-03,10203,103,46,Sep
+1107,Basics of Network Theory (Solved Problem 11),2018-09-02,11939,131,60,Sep
+1108,Special Programs in C − Adding Two Numbers Without Using The Plus Operator (Half Adder Method),2018-09-01,60685,1036,59,Sep
+1109,Basics of Network Theory (Solved Problem 10),2018-08-31,12166,136,65,Aug
+1110,Basics of Network Theory (Solved Problem 9),2018-08-30,14878,139,97,Aug
+1111,Basics of Network Theory (Solved Problem 8),2018-08-30,14289,145,35,Aug
+1112,Linear and Nonlinear Elements,2018-08-30,38836,521,43,Aug
+1113,Basics of Network Theory (Solved Problem 7) | Problem on Bulbs,2018-08-29,15294,177,39,Aug
+1114,Basics of Network Theory (Solved Problem 6),2018-08-27,13186,140,49,Aug
+1115,Basics of Network Theory (Solved Problem 5),2018-08-27,14442,148,55,Aug
+1116,Basics of Network Theory (Solved Problem 4),2018-08-26,19286,170,56,Aug
+1117,Solving Simultaneous Equations Using Calculator,2018-08-26,28090,294,17,Aug
+1118,Special Programs in C − Adding Two Numbers Without Using The Plus Operator,2018-08-25,67811,1137,125,Aug
+1119,Basics of Network Theory (Solved Problem 3),2018-08-25,16930,179,60,Aug
+1120,Special Programs in C − Check If The Number Is Prime Number,2018-08-24,82418,1239,84,Aug
+1121,Interprocess Communication,2018-08-23,287483,5011,96,Aug
+1122,Lumped and Distributed Elements,2018-08-21,44703,523,12,Aug
+1123,Operation on Processes – Process Termination,2018-08-21,88892,1436,49,Aug
+1124,Bidirectional and Unidirectional Elements,2018-08-20,25618,306,38,Aug
+1125,Special Programs in C− Check If The Number Is Strong Number,2018-08-19,65682,1065,53,Aug
+1126,Active and Passive Elements,2018-08-18,71425,970,78,Aug
+1127,Special Programs in C− Check If The Number Is Armstrong Number,2018-08-17,125000,2150,102,Aug
+1128,Special Programs in C − Check If The Number Is Palindrome Number,2018-08-16,159451,2811,72,Aug
+1129,Equivalent Capacitance (Solved Problem 4),2018-08-14,13223,131,10,Aug
+1130,Equivalent Capacitance (Solved Problem 3),2018-08-13,20677,207,9,Aug
+1131,Equivalent Capacitance (Solved Problem 2),2018-08-13,13783,159,9,Aug
+1132,Equivalent Capacitance (Solved Problem 1),2018-08-12,17680,175,66,Aug
+1133,Delta to Wye & Wye to Delta Conversion (for Capacitors),2018-08-11,38396,444,21,Aug
+1134,Wye (Star) to Delta Conversion,2018-08-10,38456,457,13,Aug
+1135,Delta to Wye (Star) Conversion,2018-08-09,82281,1132,33,Aug
+1136,Basics of Network Theory (Solved Problem 2),2018-08-08,16571,125,89,Aug
+1137,Basics of Network Theory (Solved Problem 1),2018-08-07,25976,213,58,Aug
+1138,Equivalent Resistance (Solved Problem 8),2018-08-05,17949,178,85,Aug
+1139,Special Programs in C − Pyramid of Stars,2018-08-05,546661,12819,336,Aug
+1140,Equivalent Resistance (Solved Problem 7),2018-08-04,17504,197,63,Aug
+1141,Balanced Bridge (Solved Problem),2018-08-03,15142,168,17,Aug
+1142,Balanced Bridge (With Impedances),2018-08-01,18443,194,17,Aug
+1143,Balanced Bridge,2018-08-01,27340,289,12,Aug
+1144,Equivalent Resistance of a Cube (Between the Vertices of an Edge),2018-07-31,28131,332,56,Jul
+1145,Equivalent Resistance of a Cube (Between the Space Diagonal),2018-07-30,24370,277,15,Jul
+1146,Regular Languages & Finite Automata (Solved Problem 6),2018-07-29,67850,504,9,Jul
+1147,Equivalent Resistance (Solved Problem 4),2018-07-29,26505,271,115,Jul
+1148,Regular Languages & Finite Automata (Solved Problem 5),2018-07-28,66239,533,24,Jul
+1149,Calculation of Equivalent Resistance Using Symmetry,2018-07-28,37087,534,35,Jul
+1150,Conditionals and Loops (Solved Problem 5),2018-07-27,95970,1716,97,Jul
+1151,Operation on Processes – Process Creation,2018-07-27,146964,1927,34,Jul
+1152,Equivalent Resistance (Solved Problem 3),2018-07-26,33772,323,109,Jul
+1153,Equivalent Resistance (Solved Problem 2),2018-07-25,32263,360,138,Jul
+1154,Context Switch,2018-07-25,148492,2817,93,Jul
+1155,Equivalent Resistance (Solved Problem 1),2018-07-24,61396,762,162,Jul
+1156,Current Divider Rule,2018-07-23,68509,775,26,Jul
+1157,Voltage Divider Rule,2018-07-22,70355,898,61,Jul
+1158,Process Scheduling,2018-07-20,261387,4113,79,Jul
+1159,Series & Parallel Combination of Inductors,2018-07-19,63864,718,18,Jul
+1160,Process Control Block,2018-07-18,212565,3577,70,Jul
+1161,Series & Parallel Combination of Capacitors,2018-07-18,33064,371,8,Jul
+1162,Series & Parallel Combination of Resistors,2018-07-16,36534,350,12,Jul
+1163,Conditionals and Loops (Solved Problem 4),2018-07-13,125624,2540,108,Jul
+1164,Supernode Analysis (Solved Problem),2018-07-12,195031,2174,132,Jul
+1165,Conditionals and Loops (Solved Problem 3),2018-07-12,107556,1853,293,Jul
+1166,Supernode Analysis,2018-07-11,146519,1901,47,Jul
+1167,Nodal Analysis (Solved Problem 2),2018-07-10,118451,1291,98,Jul
+1168,Regular Languages & Finite Automata (Solved Problem 4),2018-07-10,70952,563,17,Jul
+1169,Conditionals and Loops (Solved Problem 2),2018-07-10,114362,2162,106,Jul
+1170,Nodal Analysis with Voltage Source,2018-07-09,97938,1094,42,Jul
+1171,Process State,2018-07-09,188504,3505,73,Jul
+1172,Nodal Analysis (Solved Problem 1),2018-07-09,189298,2181,167,Jul
+1173,Conditionals and Loops (Solved Problem 1),2018-07-08,191039,3787,104,Jul
+1174,Nodal Analysis,2018-07-07,301716,4347,165,Jul
+1175,Supermesh Analysis (Solved Problem),2018-07-06,126085,1582,111,Jul
+1176,Supermesh Analysis,2018-07-06,174855,2398,76,Jul
+1177,Mesh Analysis with Current Source,2018-07-05,184305,1986,85,Jul
+1178,More Insight into Kirchhoff's Voltage Law (KVL),2018-07-05,50415,716,61,Jul
+1179,Mesh Analysis (Solved Problem 2),2018-07-04,94487,1048,35,Jul
+1180,Mesh Analysis (Solved Problem 1),2018-07-04,139882,1376,118,Jul
+1181,Mesh Analysis,2018-07-03,207376,3192,113,Jul
+1182,KCL and KVL (Solved Problem),2018-07-02,127628,1254,100,Jul
+1183,Kirchhoff's Voltage Law (KVL),2018-06-30,100374,1427,56,Jun
+1184,Process Management (Processes and Threads),2018-06-29,297771,5273,119,Jun
+1185,Kirchhoff's Current Law (KCL),2018-06-28,72405,945,20,Jun
+1186,Operating System Generation and System Boot,2018-06-28,86264,1389,33,Jun
+1187,"Node, Path, Loop and Branch",2018-06-27,68650,990,35,Jun
+1188,Current & Voltage Source (Important Points),2018-06-27,37596,459,8,Jun
+1189,Current Source (Tips & Tricks),2018-06-26,60987,847,36,Jun
+1190,Voltage Source (Tips & Tricks),2018-06-25,96540,1178,35,Jun
+1191,Properties of Z-Transform (Final Value Theorem),2018-06-23,58354,482,123,Jun
+1192,Ideal and Practical Current Sources,2018-06-23,44659,552,19,Jun
+1193,Ideal and Practical Voltage Sources,2018-06-22,60451,788,24,Jun
+1194,Loop Control Statements − break and continue,2018-06-22,178125,3414,102,Jun
+1195,Dependent and Independent Sources,2018-06-21,94758,1335,71,Jun
+1196,do-while Loop,2018-06-20,400411,6855,122,Jun
+1197,Virtual Machines,2018-06-20,125257,2029,73,Jun
+1198,Properties of Z-Transform (Initial Value Theorem),2018-06-20,53267,325,23,Jun
+1199,Capacitor (Important Points),2018-06-19,33201,323,14,Jun
+1200,Energy Stored in a Capacitor,2018-06-18,29943,273,10,Jun
+1201,for and while Loops,2018-06-18,439474,9073,193,Jun
+1202,Circuit Elements (Capacitor),2018-06-18,38193,341,22,Jun
+1203,Conditionals (Switch),2018-06-17,236700,4929,136,Jun
+1204,Inductor (Important Points),2018-06-17,42800,453,18,Jun
+1205,Energy Stored in an Inductor,2018-06-16,44131,410,18,Jun
+1206,Properties of Z-Transform (Part 5),2018-06-15,58665,319,11,Jun
+1207,"Conditionals (if-else, Nested if and else if)",2018-06-15,180184,3561,87,Jun
+1208,Properties of Z-Transform (Part 4),2018-06-15,61239,329,13,Jun
+1209,Linear and Non-Linear Inductors,2018-06-14,39764,345,10,Jun
+1210,Circuit Elements (Inductor),2018-06-14,51170,506,19,Jun
+1211,Properties of Z-Transform (Part 3),2018-06-13,68894,377,9,Jun
+1212,Properties of Z-Transform (Part 2),2018-06-13,81171,491,16,Jun
+1213,Properties of Z-Transform (Part 1),2018-06-13,120429,826,27,Jun
+1214,Discrete Time Energy Signals (Solved Problems),2018-06-12,22302,203,74,Jun
+1215,Condition for Existence of Z-Transform,2018-06-12,105263,731,31,Jun
+1216,Introduction to Z-Transform,2018-06-11,339531,3079,75,Jun
+1217,Rules of Inference in Propositional Logic (Solved Problem 2),2018-06-11,24715,290,47,Jun
+1218,Rules of Inference in Propositional Logic (Solved Problem 1),2018-06-10,32657,315,19,Jun
+1219,Discrete Time Signals & Systems (Solved Problem 6),2018-06-09,9326,68,7,Jun
+1220,Discrete Time Signals & Systems (Solved Problem 5),2018-06-08,8497,61,5,Jun
+1221,Discrete Time Signals & Systems (Solved Problem 4),2018-06-07,9746,69,16,Jun
+1222,Discrete Time Signals & Systems (Solved Problem 3),2018-06-06,11986,79,11,Jun
+1223,Discrete Time Signals & Systems (Solved Problem 2),2018-06-06,10434,68,1,Jun
+1224,Checking The Validity of An Argument (Shortcut Method),2018-06-06,103058,1443,41,Jun
+1225,Discrete Time Signals & Systems (Solved Problem 1),2018-06-05,16254,92,5,Jun
+1226,Stable & Unstable Discrete Time Systems,2018-06-05,29988,314,29,Jun
+1227,Arguments Building Using Rules of Inference (Part 2),2018-06-04,54714,803,33,Jun
+1228,Linear and Non−Linear Discrete Time Systems,2018-06-04,20873,181,53,Jun
+1229,Time−Invariant & Time−Variant Discrete Time Systems,2018-06-03,20398,200,39,Jun
+1230,Arguments Building Using Rules of Inference (Part 1),2018-06-03,83846,1304,31,Jun
+1231,Causal and Non-Causal Discrete Time Systems,2018-06-02,22646,215,47,Jun
+1232,Rules of Inference - Definition & Types of Inference Rules,2018-06-01,245120,3783,82,Jun
+1233,Static & Dynamic Discrete Time Systems,2018-05-31,19392,191,32,May
+1234,Discrete Time Convolution (Tabular Method),2018-05-31,77347,925,53,May
+1235,Discrete Time Convolution,2018-05-30,181540,1476,47,May
+1236,Rules of Inference - Basic Terminology,2018-05-30,61942,915,12,May
+1237,Discrete Time Signum Function,2018-05-29,9071,75,9,May
+1238,Unit Step & Unit Ramp Sequences,2018-05-28,18519,154,8,May
+1239,Unit Impulse Sequence,2018-05-27,17153,182,8,May
+1240,Propositional Logic (Solved Problem 7),2018-05-27,16987,213,11,May
+1241,Discrete Time Power Signals (Solved Problems),2018-05-26,16443,156,5,May
+1242,Propositional Logic (Solved Problem 6),2018-05-26,15829,170,10,May
+1243,Periodic Discrete Time Signals,2018-05-25,37451,324,27,May
+1244,Discrete Time Power Signals,2018-05-25,15053,153,7,May
+1245,Propositional Logic (Solved Problem 5),2018-05-25,18168,191,14,May
+1246,Propositional Logic (Solved Problem 4),2018-05-24,20875,242,7,May
+1247,Discrete Time Energy Signals,2018-05-23,13899,140,6,May
+1248,Propositional Logic (Solved Problem 3),2018-05-23,24907,270,17,May
+1249,Propositional Logic (Solved Problem 2),2018-05-21,35096,358,10,May
+1250,Periodic Discrete Time Signals (Solved Problems),2018-05-20,82722,757,29,May
+1251,Propositional Logic − Logical Equivalences,2018-05-19,308087,4413,151,May
+1252,"Tautology, Contradiction, Contingency & Satisfiability",2018-05-16,122998,2084,56,May
+1253,Propositional Logic (Solved Problem 1),2018-05-15,35517,380,12,May
+1254,Propositional Logic − Puzzle 2,2018-05-14,33308,468,22,May
+1255,Conjugate Symmetric and Conjugate Antisymmetric DTS,2018-05-13,12902,136,13,May
+1256,Propositional Logic − Puzzle 1,2018-05-12,67252,841,130,May
+1257,Even and Odd Parts of Discrete Time Signal,2018-05-12,16711,177,24,May
+1258,Translating Sentences into Logical Expressions,2018-05-11,103283,1447,56,May
+1259,Even and Odd Discrete Time Signals,2018-05-11,20759,187,7,May
+1260,Propositional Logic − Precedence of Logical Operators,2018-05-10,62831,995,30,May
+1261,Logical Operators − Biconditional Operator,2018-05-09,67867,1169,44,May
+1262,Regular Languages & Finite Automata (Solved Problem 3),2018-05-09,92885,623,16,May
+1263,"Converse, Contrapositive and Inverse",2018-05-08,70431,1105,58,May
+1264,Logical Operators − Implication (Part 1),2018-05-08,170842,3152,331,May
+1265,Multiple Operations on Discrete Time Signals (Part 2),2018-05-08,17962,187,58,May
+1266,Logical Operators − Implication (Part 3),2018-05-07,53007,671,19,May
+1267,Multiple Operations on Discrete Time Signals (Part 1),2018-05-07,20980,211,30,May
+1268,Logical Operators − Implication (Part 2),2018-05-06,88145,1377,56,May
+1269,Multiplication of Discrete Time Signals,2018-05-04,17849,186,6,May
+1270,Addition of Discrete Time Signals,2018-05-03,17042,193,6,May
+1271,Operations on DTS (Amplitude Scaling & Amplitude Reversal),2018-05-03,14878,147,3,May
+1272,"Operations on DTS (Time Compression, Time Expansion & Time Reversal)",2018-05-02,35524,419,15,May
+1273,Operations on Discrete Time Signals (Time Shifting),2018-05-01,76873,693,22,May
+1274,Sampling Theorem for Band Pass Signals,2018-05-01,61662,551,19,May
+1275,Logical Operators − Exclusive OR,2018-04-30,112702,1870,180,Apr
+1276,Reconstruction of Signals (Solved Problem 3),2018-04-29,31873,280,36,Apr
+1277,C Programming (Rapid Fire Quiz-1),2018-04-28,443437,9572,2327,Apr
+1278,Reconstruction of Signals (Solved Problem 2),2018-04-28,46890,348,37,Apr
+1279,Operators in C (Solved Problem 2),2018-04-27,120867,2763,195,Apr
+1280,Frequency Components Present in S(f),2018-04-27,30928,236,2,Apr
+1281,"Logical Operators − Negation, Conjunction & Disjunction",2018-04-26,155138,2344,55,Apr
+1282,Reconstruction of a Signal Using Practical LPF,2018-04-26,37141,304,67,Apr
+1283,Reconstruction of Signals,2018-04-26,132156,1429,54,Apr
+1284,Structures of Operating System,2018-04-25,278255,4376,111,Apr
+1285,"Propositional Logic, Propositional Variables & Compound Propositions",2018-04-25,119466,1989,44,Apr
+1286,Motivation & Introduction to Propositional Logic,2018-04-23,165737,2691,224,Apr
+1287,Nyquist Rate (Solved Problem 3),2018-04-22,46711,381,90,Apr
+1288,Nyquist Rate (Solved Problem 2),2018-04-22,58894,407,15,Apr
+1289,Nyquist Rate (Solved Problem 1),2018-04-21,86713,614,100,Apr
+1290,Regular Languages & Finite Automata (Solved Problem 2),2018-04-20,112852,748,7,Apr
+1291,Properties of Nyquist Rate,2018-04-20,56814,528,16,Apr
+1292,Nyquist Rate & Nyquist Interval,2018-04-19,133707,1307,33,Apr
+1293,Operating System Design & Implementation,2018-04-19,109163,1520,39,Apr
+1294,The Concept of Open Circuit,2018-04-19,83870,1004,43,Apr
+1295,Regular Languages & Finite Automata (Solved Problem 1),2018-04-18,225951,1606,79,Apr
+1296,Operators in C (Solved Problem 1),2018-04-17,107001,1818,72,Apr
+1297,Sampling Theorem,2018-04-16,459455,5523,216,Apr
+1298,Precedence and Associativity of Operators,2018-04-15,226330,4325,391,Apr
+1299,Introduction to Discrete Mathematics,2018-04-14,557710,8402,209,Apr
+1300,The Concept of Short Circuit,2018-04-13,181578,2628,118,Apr
+1301,Ohm's Law,2018-04-13,49974,522,20,Apr
+1302,Circuit Elements (Resistor),2018-04-12,48743,532,19,Apr
+1303,Comma Operator in C,2018-04-09,115346,2335,324,Apr
+1304,Conditional Operator in C,2018-04-08,151602,2810,343,Apr
+1305,Electric Power (Solved Problem),2018-04-08,52559,583,48,Apr
+1306,Assignment Operators in C,2018-04-07,132289,2096,416,Apr
+1307,Electric Power,2018-04-07,58484,614,64,Apr
+1308,Bitwise Operators in C (Part 4),2018-04-06,153702,2958,622,Apr
+1309,Bitwise Operators in C (Part 3),2018-04-05,161353,2708,46,Apr
+1310,Electric Potential Difference (Voltage),2018-04-05,62721,615,18,Apr
+1311,Bitwise Operators in C (Part 2),2018-04-04,206465,3698,87,Apr
+1312,Bitwise Operators in C (Part 1),2018-04-03,412075,7388,151,Apr
+1313,Is Current a Scalar or a Vector Quantity?,2018-04-03,68100,834,74,Apr
+1314,Conventional Current vs. Electron Current,2018-03-30,95568,1236,172,Mar
+1315,Electric Current,2018-03-29,64756,621,33,Mar
+1316,Logical Operators in C,2018-03-28,219261,4314,131,Mar
+1317,Laplace Transform (Solved Problem 14),2018-03-28,20400,203,15,Mar
+1318,System Programs,2018-03-28,141069,1972,44,Mar
+1319,Laplace Transform (Solved Problem 13),2018-03-27,22441,181,76,Mar
+1320,Relational Operators in C,2018-03-27,120977,1766,40,Mar
+1321,Law of Conservation of Charge,2018-03-26,84958,805,33,Mar
+1322,Increment and Decrement Operators in C (Part 2),2018-03-25,154259,3327,898,Mar
+1323,Laplace Transform (Solved Problem 12),2018-03-24,25502,254,71,Mar
+1324,Increment and Decrement Operators in C (Part 1),2018-03-23,233870,4521,134,Mar
+1325,Arithmetic Operators in C,2018-03-21,155934,2368,54,Mar
+1326,Electric Charge,2018-03-21,124702,1331,198,Mar
+1327,Introduction to Operators in C,2018-03-20,152905,2387,36,Mar
+1328,Types of System Calls,2018-03-20,196759,2673,57,Mar
+1329,Introduction to Network Theory,2018-03-20,409199,2937,239,Mar
+1330,C Programming (Important Questions Set 3),2018-03-19,297723,5990,237,Mar
+1331,Laplace Transform to Solve Differential Equations,2018-03-19,40623,373,21,Mar
+1332,Basic Input Function – scanf,2018-03-18,113217,1774,49,Mar
+1333,ROC and Stability of Causal LTI Systems,2018-03-17,26777,226,40,Mar
+1334,C Programming (Important Questions Set 2),2018-03-16,433744,8919,232,Mar
+1335,Inverse Laplace Transform (Solved Problem),2018-03-16,26219,207,16,Mar
+1336,Constants in C (Part 2),2018-03-15,106541,1577,33,Mar
+1337,System Calls,2018-03-15,371265,5997,139,Mar
+1338,Inverse Laplace Transform,2018-03-15,46458,466,13,Mar
+1339,Laplace Transform (Solved Problem 11),2018-03-13,19712,156,7,Mar
+1340,Constants in C (Part 1),2018-03-13,163889,2619,80,Mar
+1341,Variable Modifiers − Static,2018-03-12,159320,2605,114,Mar
+1342,Laplace Transform (Solved Problem 10),2018-03-12,20185,148,27,Mar
+1343,User Operating System Interface,2018-03-12,137978,2099,50,Mar
+1344,Variable Modifiers − Register,2018-03-10,129138,1668,44,Mar
+1345,Variable Modifiers − Auto & Extern,2018-03-09,212146,3543,171,Mar
+1346,Scope of Variables - Local vs Global,2018-03-08,240313,4140,111,Mar
+1347,Laplace Transform (Solved Problems 8 & 9),2018-03-08,21623,175,17,Mar
+1348,C Programming (Important Questions Set 1),2018-03-07,1071083,21217,407,Mar
+1349,Laplace Transform (Solved Problem 7),2018-03-07,21799,209,144,Mar
+1350,"Fundamental Data Types − Float, Double & Long Double",2018-03-07,225434,3114,136,Mar
+1351,Laplace Transform (Solved Problem 6),2018-03-06,22750,160,3,Mar
+1352,Laplace Transform (Solved Problem 5),2018-03-06,24496,172,12,Mar
+1353,Operating System Services,2018-03-05,207040,3432,69,Mar
+1354,Fundamental Data Types − Character,2018-03-05,217877,3017,84,Mar
+1355,Laplace Transform (Solved Problem 4),2018-03-05,27059,212,10,Mar
+1356,Exceeding The Valid Range of Data Types,2018-03-04,210340,2961,89,Mar
+1357,Laplace Transform (Solved Problem 3),2018-03-04,29500,214,12,Mar
+1358,Laplace Transform (Solved Problem 2),2018-03-03,32238,188,20,Mar
+1359,Laplace Transform (Solved Problem 1),2018-03-02,50676,287,9,Mar
+1360,Fundamental Data Types − Integer (Part 2),2018-02-28,246330,2997,108,Feb
+1361,Operating System Structure,2018-02-27,252814,3133,58,Feb
+1362,Fundamental Data Types − Integer (Part 1),2018-02-26,305144,3553,67,Feb
+1363,Laplace Transform of Basic Signals [Sinω₀t.u(t)],2018-02-25,30512,243,9,Feb
+1364,Laplace Transform of Basic Signals [Cosω₀t.u(t)],2018-02-25,43055,310,10,Feb
+1365,Basic Output Function – printf,2018-02-23,343751,4054,157,Feb
+1366,Laplace Transform of Basic Signals (Unit Ramp Signal),2018-02-22,41052,285,14,Feb
+1367,Variable Naming Conventions,2018-02-22,287489,3575,76,Feb
+1368,Introduction to Variables,2018-02-21,481195,6266,172,Feb
+1369,Computer System Architecture,2018-02-21,386941,4747,123,Feb
+1370,Introduction to Laplace Transform,2018-02-20,184884,1554,41,Feb
+1371,Laplace Transform of Basic Signals (Exponential Signals),2018-02-20,68026,598,44,Feb
+1372,C Programming – Features & The First C Program,2018-02-20,985449,12714,392,Feb
+1373,Laplace Transform of Basic Signals (DC Value & Signum Function),2018-02-19,32943,248,9,Feb
+1374,TOC – Conclusion and Summary,2018-02-19,45619,1230,202,Feb
+1375,Introduction to Programming and Data Structures,2018-02-19,832265,10808,450,Feb
+1376,Laplace Transform of Basic Signals (Unit Step Signal),2018-02-17,40481,309,6,Feb
+1377,Laplace Transform of Basic Signals (Unit Impulse Signal),2018-02-17,57286,450,7,Feb
+1378,Shortcut for Region of Convergence (ROC),2018-02-16,94842,819,112,Feb
+1379,Brain Teaser 6 | The Long Jumper,2018-02-16,5659,47,65,Feb
+1380,Final Value Theorem,2018-02-16,60784,437,23,Feb
+1381,Initial Value Theorem,2018-02-15,75544,585,20,Feb
+1382,Properties of Laplace Transform (Part 6),2018-02-15,42462,260,21,Feb
+1383,Undecidability of the Post Correspondence Problem,2018-02-14,91845,746,24,Feb
+1384,Properties of Laplace Transform (Part 5),2018-02-13,45480,263,7,Feb
+1385,Properties of Laplace Transform (Part 4),2018-02-11,50829,289,6,Feb
+1386,Properties of Laplace Transform (Part 3),2018-02-10,52107,329,10,Feb
+1387,Properties of Laplace Transform (Part 2),2018-02-10,61392,373,23,Feb
+1388,Brain Teaser 5 | Triangle's Area,2018-02-09,6631,51,75,Feb
+1389,Properties of Laplace Transform (Part 1),2018-02-09,96305,619,25,Feb
+1390,ROC and Stability,2018-02-08,70979,530,43,Feb
+1391,ROC and its Properties,2018-02-08,132487,1107,43,Feb
+1392,The Post Correspondence Problem,2018-02-08,170607,1754,27,Feb
+1393,Condition for Existence of Laplace Transform,2018-02-06,78054,584,35,Feb
+1394,Relation between Laplace Transform & Fourier Transform,2018-02-06,102056,837,31,Feb
+1395,Undecidability of the Halting Problem,2018-02-05,138313,1384,117,Feb
+1396,Fourier Transform (Solved Problems 22 & 23),2018-02-04,22526,148,20,Feb
+1397,Fourier Transform (Solved Problem 21),2018-02-03,25704,174,11,Feb
+1398,Brain Teaser 4 | Can You Solve This 508 Matchstick Puzzle?,2018-02-02,21020,101,227,Feb
+1399,Fourier Transform (Solved Problem 20),2018-02-02,24557,171,37,Feb
+1400,Fourier Transform (Solved Problem 19),2018-02-01,25648,174,44,Feb
+1401,Fourier Transform (Solved Problem 18),2018-02-01,24056,163,9,Feb
+1402,Fourier Transform (Solved Problem 17),2018-01-31,23870,159,7,Jan
+1403,Fourier Transform (Solved Problem 16),2018-01-31,23665,134,7,Jan
+1404,Fourier Transform (Solved Problem 15),2018-01-30,26591,166,11,Jan
+1405,The Halting Problem,2018-01-30,222529,2041,39,Jan
+1406,Fourier Transform (Solved Problem 14),2018-01-29,35615,270,33,Jan
+1407,Universal Turing Machine,2018-01-29,212003,1865,36,Jan
+1408,Fourier Transform (Solved Problem 13),2018-01-29,29236,179,47,Jan
+1409,Fourier Transform (Solved Problem 12),2018-01-28,29458,137,36,Jan
+1410,x(t)−X(ω) Pairs (Shortcut for Objectives),2018-01-28,24315,176,6,Jan
+1411,Fourier Transform (Solved Problem 11),2018-01-27,47228,279,9,Jan
+1412,Decidability and Undecidability,2018-01-27,268812,2956,63,Jan
+1413,Fourier Transform for Periodic Signals,2018-01-26,77235,543,19,Jan
+1414,Brain Teaser 3 | Rope Around The Earth,2018-01-26,12771,88,74,Jan
+1415,Calculation of Cn using Fourier Transform,2018-01-26,37400,238,9,Jan
+1416,Fourier Transform (Solved Problem 10),2018-01-25,41007,220,12,Jan
+1417,Fourier Transform (Solved Problem 9),2018-01-25,41176,231,17,Jan
+1418,Fourier Transform (Solved Problem 8),2018-01-25,44126,212,8,Jan
+1419,Fourier Transform (Solved Problem 7),2018-01-24,47856,288,69,Jan
+1420,Fourier Transform (Solved Problem 6),2018-01-24,53756,282,96,Jan
+1421,Turing Machine as Problem Solvers,2018-01-24,69361,519,18,Jan
+1422,Fourier Transform (Solved Problem 5),2018-01-23,61326,343,101,Jan
+1423,Nondeterministic Turing Machine (Part 2),2018-01-23,80897,649,23,Jan
+1424,Fourier Transform (Solved Problem 4),2018-01-22,71915,403,100,Jan
+1425,Fourier Transform (Solved Problem 3),2018-01-22,103340,407,69,Jan
+1426,Nondeterministic Turing Machine (Part 1),2018-01-22,136097,1149,25,Jan
+1427,Fourier Transform (Solved Problem 2),2018-01-21,114060,622,70,Jan
+1428,Fourier Transform (Solved Problem 1),2018-01-21,240193,1287,79,Jan
+1429,Fourier Transform of Basic Signals (Sampling Function),2018-01-20,58810,343,20,Jan
+1430,Fourier Transform of Basic Signals (Triangular Function),2018-01-20,123139,929,30,Jan
+1431,Multitape Turing Machine,2018-01-19,173111,1388,59,Jan
+1432,Brain Teaser 2 | Family & The Bridge,2018-01-19,17154,210,120,Jan
+1433,Fourier Transform of Basic Signals (Rectangular Function),2018-01-19,132235,806,43,Jan
+1434,Fourier Transform of sgn(t) & u(t) [Important Shortcut],2018-01-18,76160,567,11,Jan
+1435,Turing Machine Programming Techniques (Part 3),2018-01-16,84704,581,23,Jan
+1436,Fourier Transform of Basic Signals (Sinω₀t),2018-01-16,81015,570,16,Jan
+1437,Fourier Transform of Basic Signals (Cosω₀t),2018-01-16,108930,735,15,Jan
+1438,We're Hiring!,2018-01-16,340599,713,154,Jan
+1439,Fourier Transform of Basic Signals (Complex Exponential Signal),2018-01-15,80078,589,26,Jan
+1440,Fourier Transform of Basic Signals (Unit Step Signal),2018-01-15,114169,805,42,Jan
+1441,Fourier Transform of Basic Signals (Signum Function),2018-01-14,100558,780,32,Jan
+1442,Fourier Transform of Basic Signals (Exponential Signals),2018-01-14,126379,911,44,Jan
+1443,Fourier Transform of Basic Signals (Impulse Signal),2018-01-13,97137,614,28,Jan
+1444,Fourier Transform of Basic Signals (DC Value),2018-01-13,106060,744,19,Jan
+1445,Brain Teaser 1 | Belts,2018-01-12,29405,314,130,Jan
+1446,Duality Property of Fourier Transform,2018-01-12,119514,997,47,Jan
+1447,Parseval's Energy Theorem,2018-01-11,105359,706,17,Jan
+1448,Properties of Fourier Transform (Part 8),2018-01-11,96158,492,30,Jan
+1449,Properties of Fourier Transform (Part 7),2018-01-10,109950,591,33,Jan
+1450,Properties of Fourier Transform (Part 6),2018-01-10,107276,527,19,Jan
+1451,Properties of Fourier Transform (Part 5),2018-01-09,113780,605,10,Jan
+1452,Properties of Fourier Transform (Part 4),2018-01-07,126301,682,15,Jan
+1453,Properties of Fourier Transform (Part 3),2018-01-07,140010,830,20,Jan
+1454,Properties of Fourier Transform (Part 2),2018-01-06,139120,723,16,Jan
+1455,Properties of Fourier Transform (Part 1),2018-01-06,215281,1314,28,Jan
+1456,Conditions for Existence of Fourier Transform (Dirichlet Conditions),2018-01-05,144668,1066,45,Jan
+1457,Fourier Series for LTI Systems,2018-01-04,56075,469,27,Jan
+1458,Introduction to Fourier Transform,2018-01-04,422226,3644,78,Jan
+1459,Properties of Fourier Series (Solved Problems),2018-01-02,45531,329,14,Jan
+1460,Parseval's Power Theorem (Solved Example),2018-01-01,52077,414,12,Jan
+1461,Parseval's Power Theorem,2018-01-01,110876,858,30,Jan
+1462,Properties of Fourier Series (Part 6),2017-12-31,43709,305,14,Dec
+1463,Properties of Fourier Series (Part 5),2017-12-31,49610,273,11,Dec
+1464,Properties of Fourier Series (Part 4),2017-12-30,53246,341,27,Dec
+1465,Properties of Fourier Series (Part 3),2017-12-30,59167,356,11,Dec
+1466,Properties of Fourier Series (Part 2),2017-12-28,70771,491,18,Dec
+1467,Properties of Fourier Series (Part 1),2017-12-27,100024,666,18,Dec
+1468,Hidden Symmetry in Fourier Series (Examples),2017-12-27,38361,349,21,Dec
+1469,Symmetricities in Fourier Series (Part 2),2017-12-25,42671,325,26,Dec
+1470,Symmetricities in Fourier Series (Part 1),2017-12-24,60944,475,33,Dec
+1471,Complex Exponential Fourier Series (Solved MCQ 3),2017-12-22,33205,263,42,Dec
+1472,Complex Exponential Fourier Series (Solved MCQ 2),2017-12-21,32726,204,8,Dec
+1473,Complex Exponential Fourier Series (Solved MCQ 1),2017-12-20,42291,261,19,Dec
+1474,x(t)−Cn Pairs (Shortcut for Objectives),2017-12-20,44440,323,16,Dec
+1475,Relation between Fourier Coefficients (Solved Problem),2017-12-19,51533,414,79,Dec
+1476,Relation between Fourier Coefficients,2017-12-19,73453,611,33,Dec
+1477,Complex Exponential Fourier Series (Example 5),2017-12-18,84609,693,14,Dec
+1478,Complex Exponential Fourier Series (Example 4),2017-12-16,69145,466,92,Dec
+1479,Complex Exponential Fourier Series (Example 3),2017-12-01,96475,779,38,Dec
+1480,Complex Exponential Fourier Series (Example 2),2017-11-30,106110,614,30,Nov
+1481,Complex Exponential Fourier Series (Example 1),2017-11-29,202490,1403,65,Nov
+1482,Complex Exponential Fourier Series,2017-11-29,205845,1510,35,Nov
+1483,Trigonometric Fourier Series (Example 5),2017-11-28,69482,536,11,Nov
+1484,Trigonometric Fourier Series (Example 4),2017-11-27,81188,601,87,Nov
+1485,Trigonometric Fourier Series (Example 3),2017-11-25,103722,726,105,Nov
+1486,Trigonometric Fourier Series (Example 2),2017-11-24,189586,1690,124,Nov
+1487,Trigonometric Fourier Series (Example 1),2017-11-22,292100,2554,127,Nov
+1488,Trigonometric Fourier Series,2017-11-21,268370,2381,232,Nov
+1489,Conditions for Existence of Fourier Series (Dirichlet Conditions),2017-11-03,237653,2725,128,Nov
+1490,Introduction to Fourier Series,2017-10-31,489430,5753,202,Oct
+1491,Standard Differential Equation for LTI Systems,2017-10-28,83422,749,41,Oct
+1492,Turing Machine Programming Techniques (Part 2),2017-10-27,104750,684,53,Oct
+1493,Turing Machine Programming Techniques (Part 1),2017-10-26,155625,1056,42,Oct
+1494,Group Delay & Phase Delay (Solved Problems),2017-10-13,30763,280,55,Oct
+1495,Group Delay and Phase Delay,2017-10-12,65479,596,20,Oct
+1496,Turing Machine for Even Palindromes,2017-10-11,254333,2319,111,Oct
+1497,Distortionless LTI System,2017-10-11,29564,310,25,Oct
+1498,Phase Distortion in LTI Systems,2017-10-10,22971,188,5,Oct
+1499,Magnitude Distortion in LTI Systems,2017-10-10,21368,177,6,Oct
+1500,Harmonics and LTI System,2017-10-09,25374,226,13,Oct
+1501,Stable LTI System (Solved Problems) | Part 2,2017-10-09,24031,220,20,Oct
+1502,Stable LTI System (Solved Problems) | Part 1,2017-10-08,34146,323,50,Oct
+1503,Stable LTI System,2017-10-05,47128,390,10,Oct
+1504,Causal LTI System (Solved Problems),2017-10-05,37538,322,39,Oct
+1505,Causal LTI System,2017-10-04,59200,525,14,Oct
+1506,Static LTI System (Solved Problems),2017-10-04,29131,229,34,Oct
+1507,Convolution Operation (Shortcut),2017-10-03,115703,938,30,Oct
+1508,Static LTI System,2017-10-03,44817,352,20,Oct
+1509,Convolution (Solved Problem 6),2017-10-03,60593,433,25,Oct
+1510,Convolution (Solved Problem 5),2017-09-22,62207,419,32,Sep
+1511,Convolution (Solved Problem 4),2017-09-21,68145,521,44,Sep
+1512,The Church-Turing Thesis,2017-09-20,192983,1803,37,Sep
+1513,Convolution (Solved Problem 3),2017-09-20,81546,482,59,Sep
+1514,Convolution (Solved Problem 2),2017-09-19,103988,600,144,Sep
+1515,Convolution (Solved Problem 1),2017-09-19,194425,1287,48,Sep
+1516,Turing Machine (Example 2),2017-09-18,397848,3745,154,Sep
+1517,Properties of Convolution (Part 4),2017-09-16,74553,569,27,Sep
+1518,Properties of Convolution (Part 3),2017-09-15,81183,574,109,Sep
+1519,Properties of Convolution (Part 2),2017-09-14,97250,692,19,Sep
+1520,Properties of Convolution (Part 1),2017-09-13,155228,1246,26,Sep
+1521,Turing Machine (Example 1),2017-09-12,551366,4093,102,Sep
+1522,Introduction to Convolution Operation,2017-09-12,666315,7769,336,Sep
+1523,Turing Machine (Formal Definition),2017-09-11,303461,2578,53,Sep
+1524,Impulse Response and Convolution,2017-09-11,291432,2299,56,Sep
+1525,Transfer Function Calculation,2017-09-09,83992,740,77,Sep
+1526,Join Our Forum (forum.nesoacademy.org),2017-09-08,1922,38,12,Sep
+1527,Transfer Function,2017-09-08,160241,1171,46,Sep
+1528,Linear Time-Invariant (LTI) Systems,2017-09-08,270852,2252,34,Sep
+1529,Prerequisites for LTI Systems (Laplace Transform),2017-09-07,104138,862,40,Sep
+1530,Prerequisites for LTI Systems (Revision of Linearity & Time Variance),2017-09-07,89509,727,19,Sep
+1531,Stable and Unstable Systems (Solved Problems) | Part 2,2017-09-06,68100,462,138,Sep
+1532,Turing Machine - Introduction (Part 2),2017-09-05,368294,3084,45,Sep
+1533,Stable and Unstable Systems (Solved Problems) | Part 1,2017-09-05,110594,787,99,Sep
+1534,Stable and Unstable Systems,2017-09-04,209761,1778,132,Sep
+1535,Turing Machine - Introduction (Part 1),2017-09-03,642151,5089,74,Sep
+1536,Invertible and Non-Invertible Systems (Solved Problems),2017-09-02,78581,685,162,Sep
+1537,Invertible and Non-Invertible Systems,2017-09-01,104163,925,33,Sep
+1538,Checking System Linearity using Transfer Characteristics,2017-09-01,34629,320,17,Sep
+1539,Linear and Non-Linear Systems (All Properties),2017-08-31,44450,392,38,Aug
+1540,Linear and Non-Linear Systems (Various Nonlinear Operators),2017-08-31,36131,319,20,Aug
+1541,Linear and Non-Linear Systems (Real & Imaginary Operators),2017-08-30,37481,336,22,Aug
+1542,Linear and Non-Linear Systems (Even & Odd Operators),2017-08-30,39602,326,11,Aug
+1543,Linear and Non-Linear Systems (Integral & Differential Operators),2017-08-29,55055,477,8,Aug
+1544,Linear and Non-Linear Systems (Solved Problems) | Part 4,2017-08-28,70441,625,29,Aug
+1545,Linear and Non-Linear Systems (Solved Problems) | Part 3,2017-08-27,83497,659,78,Aug
+1546,Linear and Non-Linear Systems (Solved Problems) | Part 2,2017-08-26,109775,844,100,Aug
+1547,Linear and Non-Linear Systems (Solved Problems) | Part 1,2017-08-25,223564,1825,162,Aug
+1548,Linear and Non-Linear Systems,2017-08-25,286855,3084,71,Aug
+1549,Basics of OS (I/O Structure),2017-08-24,331394,5009,128,Aug
+1550,Time-Invariant and Time-Variant Systems (Split System),2017-08-23,60185,611,35,Aug
+1551,Time-Invariant and Time-Variant Systems (Solved Problems) | Part 2,2017-08-23,94707,767,32,Aug
+1552,Time-Invariant and Time-Variant Systems (Solved Problems) | Part 1,2017-08-22,183668,1730,149,Aug
+1553,Basics of OS (Storage Structure),2017-08-21,297721,4401,114,Aug
+1554,Time-Invariant and Time-Variant Systems,2017-08-21,282501,2821,189,Aug
+1555,Equivalence of CFG and PDA (Part 2b),2017-08-20,113905,681,43,Aug
+1556,Equivalence of CFG and PDA (Part 2a),2017-08-18,174139,921,16,Aug
+1557,Causal and Non-Causal Systems (Solved Problems) | Part 2,2017-08-15,95688,827,159,Aug
+1558,Causal and Non-Causal Systems (Solved Problems) | Part 1,2017-08-15,151024,1390,259,Aug
+1559,Causal and Non-Causal Systems,2017-08-14,233824,2076,63,Aug
+1560,Equivalence of CFG and PDA (Part 1),2017-08-14,424019,2495,116,Aug
+1561,Static and Dynamic Systems (Solved Problems) | Part 2,2017-08-12,78021,723,174,Aug
+1562,Static and Dynamic Systems (Solved Problems) | Part 1,2017-08-11,117153,1071,174,Aug
+1563,Static and Dynamic Systems,2017-08-11,169095,1534,104,Aug
+1564,Basic System Properties,2017-08-10,129479,1383,22,Aug
+1565,Graphical Integration - Examples (Part 1),2017-08-09,34037,296,14,Aug
+1566,Graphical Integration - Examples (Part 2),2017-08-09,20667,219,7,Aug
+1567,Integration of Continuous-Time Signals (Solved Problem),2017-08-08,28543,260,17,Aug
+1568,Integration of Continuous-Time Signals,2017-08-08,44863,421,22,Aug
+1569,Basics of OS (Computer System Operation),2017-08-05,573997,7887,226,Aug
+1570,Differentiation of Continuous Time Signals (Solved Problems),2017-08-04,42573,373,14,Aug
+1571,Differentiation of Continuous-Time Signals,2017-08-03,56675,521,15,Aug
+1572,Mathematical Representation of Signal Waveforms (Solved Problems),2017-08-03,97375,1224,77,Aug
+1573,"Energy, Power & NENP Signals (Solved Problem 1)",2017-08-02,36247,282,11,Aug
+1574,Introduction to Operating System,2017-08-02,1442055,17875,515,Aug
+1575,Mathematical Representation of Signal Waveforms (Shortcut),2017-08-02,117093,1479,136,Aug
+1576,Impulse Signal (Solved Problems) | Part 2,2017-08-01,45228,421,125,Aug
+1577,Impulse Signal (Solved Problems) | Part 1,2017-08-01,68621,590,24,Aug
+1578,Pushdown Automata Example (Even Palindrome) PART-3,2017-08-01,181148,1056,43,Aug
+1579,Properties of Impulse Signal (Part 2),2017-07-31,79618,780,37,Jul
+1580,Properties of Impulse Signal (Part 1),2017-07-31,136755,1134,46,Jul
+1581,"Energy, Power & NENP Signals (Solved Problem 3)",2017-07-30,36145,299,17,Jul
+1582,"Energy, Power & NENP Signals (Solved Problem 2)",2017-07-30,33161,281,40,Jul
+1583,Pushdown Automata Example (Even Palindrome) PART-2,2017-07-28,275260,2231,137,Jul
+1584,Pushdown Automata Example (Even Palindrome) PART-1,2017-07-26,532825,3883,182,Jul
+1585,"Shortcut for Energy, Power & NENP Signals",2017-07-26,57618,608,36,Jul
+1586,Neither Energy Nor Power (NENP) Signals,2017-07-25,48139,409,13,Jul
+1587,Pushdown Automata (Graphical Notation),2017-07-24,454315,4345,145,Jul
+1588,"Power, RMS & Average Values of Standard Signals",2017-07-24,64948,633,33,Jul
+1589,Pushdown Automata (Formal Definition),2017-07-23,448050,3504,68,Jul
+1590,Power of CT Signals (Solved Problems) | Part 3,2017-07-22,49179,403,34,Jul
+1591,Power of CT Signals (Solved Problems) | Part 2,2017-07-22,55503,387,51,Jul
+1592,Pushdown Automata (Introduction),2017-07-22,612223,5107,63,Jul
+1593,Power of CT Signals (Solved Problems) | Part 1,2017-07-21,94608,655,72,Jul
+1594,Power Signals,2017-07-21,124534,951,103,Jul
+1595,Pumping Lemma (For Context Free Languages) - Examples (Part 2),2017-07-21,187746,1422,105,Jul
+1596,Energy of CT Signals (Solved Problems) | Part 3,2017-07-20,66177,494,33,Jul
+1597,Energy of CT Signals (Solved Problems) | Part 2,2017-07-20,77444,600,34,Jul
+1598,Energy of CT Signals (Solved Problems) | Part 1,2017-07-19,121183,875,47,Jul
+1599,Energy Signals,2017-07-19,159356,1271,44,Jul
+1600,Energy and Power of Continuous Time Signals,2017-07-18,148187,1172,43,Jul
+1601,Average Value of Continuous Time Signals (Solved Problems) | Part 3,2017-07-18,40253,346,27,Jul
+1602,Average Value of Continuous-Time Signals (Solved Problems) | Part 2,2017-07-13,45087,383,113,Jul
+1603,Average Value of Continuous-Time Signals (Solved Problems) | Part 1,2017-07-13,48556,361,69,Jul
+1604,Average Value of Continuous-Time Signals,2017-07-12,65152,530,36,Jul
+1605,Half Wave Symmetric Signals (Solved Problems),2017-07-12,52637,451,117,Jul
+1606,Area of Continuous-Time Signals,2017-07-12,55273,415,30,Jul
+1607,Effect of Amplitude Reversal on Fundamental Time Period,2017-07-10,45602,324,23,Jul
+1608,Effect of Amplitude-Scaling on Fundamental Time Period,2017-07-07,45519,299,2,Jul
+1609,Effect of Amplitude-Shifting on Fundamental Time Period,2017-07-07,49982,353,8,Jul
+1610,Effect of Time-Reversal and Phase Shift on Fundamental Time Period,2017-07-06,57208,458,13,Jul
+1611,Effect of Time-Shifting & Time-Scaling on Fundamental Time Period,2017-07-06,87434,609,17,Jul
+1612,Periodic and Non-Periodic Signals (Important Point),2017-07-04,130483,921,19,Jul
+1613,Multiple Transformations of CTS (Solved Problem 2),2017-07-04,107327,867,76,Jul
+1614,Multiple Transformations of CTS (Important Point & Shortcut),2017-06-30,136543,1347,61,Jun
+1615,Even and Odd Signals (Solved Problem 4),2017-06-28,103138,806,62,Jun
+1616,Even and Odd Signals (Solved Problem 3),2017-06-27,140126,1141,84,Jun
+1617,Pumping Lemma (For Context Free Languages) - Examples (Part 1),2017-06-26,317769,2608,100,Jun
+1618,Pumping Lemma (For Context Free Languages),2017-06-22,354888,2647,65,Jun
+1619,Remainder Theorem (Special Problems) | Part 2,2017-06-20,3659,58,32,Jun
+1620,Remainder Theorem (Special Problems) | Part 1,2017-06-19,3251,25,11,Jun
+1621,Remainder Theorem (An Important Point),2017-06-19,2658,40,10,Jun
+1622,CFG to GNF Conversion (Removal of Left Recursion),2017-06-18,403042,3668,170,Jun
+1623,Remainder Theorem (Dealing with Large Powers),2017-06-18,21840,238,40,Jun
+1624,Greibach Normal Form & CFG to GNF Conversion,2017-06-17,533643,3846,120,Jun
+1625,NFA to Regular Expression Conversion,2017-06-17,501215,3718,105,Jun
+1626,Remainder Theorem (Using Negative Remainders),2017-06-02,7482,75,17,Jun
+1627,Remainder Theorem,2017-06-01,5431,56,15,Jun
+1628,Cyclicity of Unit Digit (Part 4),2017-06-01,3391,40,16,Jun
+1629,Generating Power Stations (Introduction),2017-05-30,16849,177,149,May
+1630,Economic Load Dispatch (Solved Problem 4),2017-05-23,17333,140,15,May
+1631,Economic Load Dispatch (Solved Problem 3),2017-05-21,18809,123,27,May
+1632,Economic Load Dispatch (Solved Problem 2),2017-05-10,20559,144,15,May
+1633,Economic Load Dispatch (Solved Problem 1),2017-05-10,37316,272,17,May
+1634,Economic Load Dispatch,2017-05-09,57758,642,24,May
+1635,Methods to improve Load Factor and Diversity Factor,2017-05-08,13835,126,18,May
+1636,Importance of high Load factor & Diversity Factor,2017-04-27,26608,280,23,Apr
+1637,Economic Factors (Solved Problem 4),2017-04-26,11329,90,8,Apr
+1638,Economic Factors (Solved Problem 3),2017-04-25,10554,75,2,Apr
+1639,Economic Factors (Solved Problem 2),2017-04-24,12571,94,12,Apr
+1640,Messages from our students,2017-04-19,105007,328,67,Apr
+1641,Conversion of CFG to Chomsky Normal Form,2017-04-06,632464,5814,260,Apr
+1642,Chomsky Normal Form & CFG to CNF Conversion,2017-04-05,524990,3605,57,Apr
+1643,Simplification of CFG (Removal of Null Productions),2017-04-04,400741,3604,80,Apr
+1644,Simplification of CFG (Removal of Unit Productions),2017-04-03,417811,3276,80,Apr
+1645,Simplification of CFG (Reduction of CFG),2017-03-31,579488,4067,155,Mar
+1646,Ambiguous Grammar,2017-03-30,474280,3825,82,Mar
+1647,Derivation Tree (Left & Right Derivation Trees),2017-03-29,581403,5373,127,Mar
+1648,Method to find whether a string belong to a Grammar or not,2017-03-28,248976,2021,65,Mar
+1649,Context Free Grammar & Context Free Language,2017-03-26,789275,6394,146,Mar
+1650,Derivations from a Grammar,2017-03-25,381809,3460,148,Mar
+1651,Regular Grammar,2017-03-24,447568,4246,90,Mar
+1652,Pumping Lemma (For Regular Languages) | Example 2,2017-03-23,415516,3359,193,Mar
+1653,Pumping Lemma (For Regular Languages) | Example 1,2017-03-22,734222,6496,267,Mar
+1654,Pumping Lemma (For Regular Languages),2017-03-21,774451,6621,142,Mar
+1655,Equivalence of Two Finite Automata (Example),2017-03-20,168959,1320,40,Mar
+1656,Equivalence of Two Finite Automata,2017-03-19,294020,2612,68,Mar
+1657,Conversion of Regular Expression to Finite Automata - Examples (Part 3),2017-03-18,308808,2593,67,Mar
+1658,Conversion of Regular Expression to Finite Automata - Examples (Part 2),2017-02-23,369915,2866,133,Feb
+1659,Conversion of Regular Expression to Finite Automata - Examples (Part 1),2017-02-22,631310,4854,108,Feb
+1660,Conversion of Regular Expression to Finite Automata,2017-02-21,323217,2623,36,Feb
+1661,DFA to Regular Expression Conversion (when the DFA has Multiple Final States),2017-02-12,303959,2259,53,Feb
+1662,DFA to Regular Expression Conversion,2017-02-11,602651,4339,80,Feb
+1663,Designing Regular Expressions,2017-02-09,398700,2931,84,Feb
+1664,An Example Proof using Identities of Regular Expressions,2017-02-08,278892,1861,70,Feb
+1665,Arden’s Theorem,2017-02-07,388933,2963,76,Feb
+1666,Economic Factors (Solved Problem 1),2017-02-06,25011,232,22,Feb
+1667,Identities of Regular Expression,2017-02-06,373410,2608,88,Feb
+1668,Regular Expression - Examples,2017-02-05,440405,3365,80,Feb
+1669,Regular Expression,2017-02-04,540305,4440,59,Feb
+1670,Conversion of Epsilon NFA to NFA - Examples (Part 2),2017-02-03,162832,1213,137,Feb
+1671,Conversion of Epsilon NFA to NFA - Examples (Part 1),2017-02-02,241045,1677,43,Feb
+1672,"Cold Reserve, Hot Reserve, Spinning Reserve & Firm Power",2017-02-02,24997,310,17,Feb
+1673,Diversity Factor,2017-02-01,58737,427,18,Feb
+1674,Conversion of Epsilon NFA to NFA,2017-02-01,554493,4840,110,Feb
+1675,Demand Factor,2017-02-01,47750,323,23,Feb
+1676,Reserve Capacity,2017-01-31,21447,181,10,Jan
+1677,Epsilon NFA,2017-01-31,360352,2862,49,Jan
+1678,Utilization Factor,2017-01-31,32788,210,8,Jan
+1679,Plant Usage Factor (PUF),2017-01-30,24518,214,19,Jan
+1680,Conversion of Mealy Machine to Moore Machine (Using Transition Table),2017-01-30,404843,3947,97,Jan
+1681,Conversion of Mealy Machine to Moore Machine (Example 2),2017-01-29,122610,898,12,Jan
+1682,Plant Capacity Factor (PCF),2017-01-28,38732,294,15,Jan
+1683,Average Load (Pavg),2017-01-27,31266,237,12,Jan
+1684,Plant Load Factor (PLF),2017-01-27,48252,348,25,Jan
+1685,Conversion of Mealy Machine to Moore Machine (Example 1),2017-01-27,160005,1139,34,Jan
+1686,Conversion of Mealy Machine to Moore Machine,2017-01-26,324821,2830,90,Jan
+1687,Base Load & Peak Load Plants,2017-01-26,54366,605,40,Jan
+1688,Load Curve,2017-01-25,75572,777,25,Jan
+1689,Conversion of Moore Machine to Mealy Machine (Example 2),2017-01-25,170889,1312,17,Jan
+1690,Power Cut due to Short Circuit,2017-01-25,35846,450,67,Jan
+1691,AC Power Supply System,2017-01-24,109713,1443,135,Jan
+1692,Conversion of Moore Machine to Mealy Machine (Example 1),2017-01-24,159689,1021,12,Jan
+1693,Introduction to Power System,2017-01-23,190272,1426,149,Jan
+1694,Conversion of Moore Machine to Mealy Machine,2017-01-23,383790,3057,54,Jan
+1695,Construction of Moore Machine (Example 2),2017-01-21,207236,1457,27,Jan
+1696,Introduction to Enhancement-Type MOSFET Biasing,2017-01-21,72305,563,315,Jan
+1697,Construction of Moore Machine (Example 1),2017-01-20,285869,2111,57,Jan
+1698,Depletion-Type MOSFET Biasing (Solved Problem),2017-01-19,28545,173,27,Jan
+1699,Voltage-Divider Bias Configuration of Depletion-Type MOSFET,2017-01-18,41071,230,26,Jan
+1700,Construction of Moore Machine,2017-01-18,407810,3038,58,Jan
+1701,Construction of Mealy Machine (Example 2),2017-01-17,251634,2190,59,Jan
+1702,Depletion-Type MOSFET Biasing (Special Case),2017-01-17,23105,120,9,Jan
+1703,Self-Bias Configuration of Depletion-Type MOSFET,2017-01-16,38591,203,42,Jan
+1704,Construction of Mealy Machine (Example 1),2017-01-16,324940,2139,73,Jan
+1705,Construction of Mealy Machine,2017-01-14,516604,3634,85,Jan
+1706,Finite Automata With Outputs,2017-01-13,280833,2467,48,Jan
+1707,Introduction to Depletion-Type MOSFET Biasing,2017-01-13,47573,274,10,Jan
+1708,Myhill Nerode Theorem - Table Filling Method (Example),2017-01-11,281663,2422,78,Jan
+1709,JFET Biasing (Special Case),2017-01-10,26957,184,19,Jan
+1710,Myhill Nerode Theorem - Table Filling Method,2017-01-10,621579,6603,219,Jan
+1711,Minimization of DFA (With Unreachable States),2017-01-09,221488,1938,63,Jan
+1712,Common-Gate Configuration of JFET,2017-01-09,52943,335,16,Jan
+1713,Minimization of DFA (With Multiple Final States),2017-01-08,288355,2495,68,Jan
+1714,Minimization of DFA (Example 2),2017-01-06,458992,3897,156,Jan
+1715,Voltage-Divider Bias Configuration of JFET,2017-01-06,98494,765,43,Jan
+1716,Self-Bias Configuration of JFET (Graphical Approach),2017-01-04,73093,557,57,Jan
+1717,Minimization of DFA (Example 1),2017-01-04,946651,9289,220,Jan
+1718,Self-Bias Configuration of JFET (Mathematical Approach),2017-01-04,111631,806,38,Jan
+1719,Minimization of Deterministic Finite Automata (DFA),2017-01-03,414106,3487,64,Jan
+1720,Conversion of NFA to DFA (Example 4),2017-01-02,360747,3083,130,Jan
+1721,Fixed-Bias Configuration of JFET (Solved Problem),2017-01-01,49878,365,20,Jan
+1722,Conversion of NFA to DFA (Example 3),2017-01-01,379181,2814,108,Jan
+1723,Conversion of NFA to DFA (Example 2),2016-12-31,559647,4973,648,Dec
+1724,Conversion of NFA to DFA (Example 1),2016-12-30,560657,4583,115,Dec
+1725,Fixed-Bias Configuration of JFET (Graphical Approach),2016-12-30,66706,497,18,Dec
+1726,MOSFET Solved Problems (Part 2),2016-12-29,66503,397,57,Dec
+1727,Drain Characteristics of Enhancement-Type MOSFET,2016-12-29,259844,1531,66,Dec
+1728,Conversion of NFA to DFA,2016-12-29,907173,7986,198,Dec
+1729,Fixed-Bias Configuration of JFET (Mathematical Approach),2016-12-29,115379,851,41,Dec
+1730,Non-Deterministic Finite Automata (Solved Example 3),2016-12-28,365785,3627,444,Dec
+1731,Introduction to FET Biasing,2016-12-28,114950,836,29,Dec
+1732,Non-Deterministic Finite Automata (Solved Example 2),2016-12-27,376127,3204,67,Dec
+1733,MOSFET Solved Problems (Part 1),2016-12-27,102508,645,34,Dec
+1734,Non-Deterministic Finite Automata (Solved Example 1),2016-12-26,486963,4252,75,Dec
+1735,Drain & Transfer Characteristics of Depletion-Type MOSFET,2016-12-26,135298,1057,63,Dec
+1736,Working of Depletion-Type MOSFET,2016-12-25,256584,1893,101,Dec
+1737,Formal Definition of Non-Deterministic Finite Automata (NFA),2016-12-25,478507,4714,149,Dec
+1738,Construction of Depletion-Type MOSFET,2016-12-25,179506,1182,30,Dec
+1739,Share your story with Neso Academy,2016-12-24,21946,56,21,Dec
+1740,Non-Deterministic Finite Automata,2016-12-24,570434,5804,157,Dec
+1741,Finite State Machine (Finite Automata),2016-12-23,1135350,12136,307,Dec
+1742,Operations on Regular Languages,2016-12-23,433939,4012,101,Dec
+1743,Transfer Characteristics & Symbols of Enhancement Type MOSFETs,2016-12-22,209836,1548,95,Dec
+1744,Regular Languages,2016-12-22,558108,5061,110,Dec
+1745,Deterministic Finite Automata (Example 4),2016-12-21,485254,4845,193,Dec
+1746,Deterministic Finite Automata (Example 3),2016-12-20,617654,7815,473,Dec
+1747,Deterministic Finite Automata (Example 2),2016-12-19,670158,6714,230,Dec
+1748,Deterministic Finite Automata (Example 1),2016-12-18,1012234,11395,240,Dec
+1749,Construction & Working of Enhancement-Type MOSFET (Part 2),2016-12-17,479866,3618,160,Dec
+1750,Finite State Machine (Prerequisites),2016-12-16,724165,7342,163,Dec
+1751,Introduction to Theory of Computation,2016-12-15,1882337,12218,413,Dec
+1752,IMPORTANT ANNOUNCEMENTS!,2016-12-14,4177,93,38,Dec
+1753,Construction & Working of Enhancement-Type MOSFET (Part 1),2016-12-13,897625,7446,282,Dec
+1754,JFET Solved Problems (Part 2),2016-12-11,85924,693,148,Dec
+1755,JFET Solved Problems (Part 1),2016-12-05,114102,796,36,Dec
+1756,BJT Vs JFET,2016-12-03,179471,1868,162,Dec
+1757,Transfer Characteristics of JFET,2016-12-02,212959,1791,76,Dec
+1758,JFET as Voltage-Controlled Resistor,2016-11-30,126134,1001,57,Nov
+1759,Output or Drain Characteristics of JFET,2016-11-28,321178,2858,282,Nov
+1760,Working of JFET (Negative Voltage at the Gate),2016-11-25,267277,2035,75,Nov
+1761,JFET as a Current Source,2016-11-24,150212,1269,62,Nov
+1762,Pinch-off Voltage,2016-11-23,381886,3554,312,Nov
+1763,Working of JFET (Zero Voltage at the Gate),2016-11-21,475558,4217,155,Nov
+1764,Construction and Working of JFET,2016-11-20,915938,8803,319,Nov
+1765,How to test Diodes Using a Digital Multimeter,2016-11-18,241340,1042,41,Nov
+1766,Introduction to Field-Effect Transistors (FETs),2016-11-18,544200,5357,187,Nov
+1767,GATE Solved Problems (2011) | Sequential Circuits | Digital Electronics,2016-11-11,46779,454,25,Nov
+1768,Hybrid-π Model (Solved Problem),2016-11-10,123111,985,71,Nov
+1769,Hybrid-π Model,2016-11-09,280825,2214,73,Nov
+1770,Conversion of h-Parameters,2016-11-08,94043,601,57,Nov
+1771,Approximate Hybrid Equivalent Model,2016-11-05,114678,661,36,Nov
+1772,DC Analysis of Darlington Circuit,2016-11-04,87905,612,34,Nov
+1773,Touch Sensor Using Darlington Pair,2016-11-03,52734,567,65,Nov
+1774,Darlington Pair,2016-11-02,198184,1879,77,Nov
+1775,Cascaded Systems (Solved Problem),2016-11-01,64996,402,60,Nov
+1776,Cascaded Systems,2016-11-01,147124,1003,37,Nov
+1777,Two-Port Systems Approach (Solved Problem),2016-10-28,22246,117,34,Oct
+1778,Realizing Full Subtractor using NAND Gates only (Part 2),2016-10-26,144776,876,27,Oct
+1779,Realizing Full Subtractor using NAND Gates only (Part 1),2016-10-26,182461,1013,17,Oct
+1780,Two-Port Systems Approach (with Source and Load Resistances),2016-10-22,21560,110,15,Oct
+1781,Two-Port Systems Approach (with Source Resistance),2016-10-22,20586,111,6,Oct
+1782,Two-Port Systems Approach (with Load Resistance),2016-10-21,30000,131,28,Oct
+1783,Two-Port Systems Approach,2016-10-20,65307,325,20,Oct
+1784,Emitter-Follower Configuration (Part 2),2016-10-18,95439,613,74,Oct
+1785,Emitter-Follower Configuration (Part 1),2016-10-17,159508,949,58,Oct
+1786,re Model (Solved Problem 2),2016-10-15,80204,522,71,Oct
+1787,re Model (Voltage-Divider Bias),2016-10-10,86051,521,50,Oct
+1788,Our Website (nesoacademy.org),2016-10-04,26830,45,8,Oct
+1789,Exponential Signals (Real and Complex),2016-09-03,84531,995,119,Sep
+1790,Sampling Property of Unit Impulse Signal,2016-08-31,61860,463,26,Aug
+1791,Sinc Function,2016-08-28,119397,894,47,Aug
+1792,Unit Triangular Function,2016-08-27,64199,352,41,Aug
+1793,Unit Rectangular Function,2016-08-27,89861,523,84,Aug
+1794,Signum Function,2016-08-26,97709,895,121,Aug
+1795,Relation between Unit Impulse and Unit Step Signals,2016-08-25,76068,590,23,Aug
+1796,Unit Parabolic Signal,2016-08-25,44617,316,64,Aug
+1797,Unit Ramp Signal,2016-08-24,117533,791,41,Aug
+1798,Unit Step Signal,2016-08-24,136381,1101,63,Aug
+1799,Unit Impulse Signal,2016-08-21,184380,1500,57,Aug
+1800,Orthogonal Signals (Solved Problems 3),2016-08-21,38429,235,24,Aug
+1801,Orthogonal Signals (Solved Problems 2),2016-08-19,37110,244,30,Aug
+1802,Orthogonal Signals (Solved Problems 1),2016-08-19,51995,305,19,Aug
+1803,Orthogonal Signals,2016-08-19,132903,1095,46,Aug
+1804,Energy and Power of Discrete-Time Signals,2016-08-17,115361,707,41,Aug
+1805,Amplitude Shifting of Continuous-Time Signals,2016-08-17,148022,841,16,Aug
+1806,Amplitude Scaling of Continuous-Time Signals,2016-08-16,200706,1241,55,Aug
+1807,Time Scaling of Continuous-Time Signals,2016-08-16,319746,2025,87,Aug
+1808,Half-Wave Symmetric Signals,2016-08-08,84895,593,16,Aug
+1809,Common-Emitter Transistor (Input Characteristics),2016-08-08,485997,2867,131,Aug
+1810,Diode Rectifier Circuits (Numerical Problem),2016-08-07,161217,1312,67,Aug
+1811,Conjugate Antisymmetric Signals,2016-08-05,64266,388,21,Aug
+1812,Conjugate Symmetric Signals,2016-08-05,103046,662,26,Aug
+1813,Periodic and Non-Periodic Signals (Solved Problems),2016-08-04,306299,2013,130,Aug
+1814,Calculation of Fundamental Period,2016-08-03,214762,1201,31,Aug
+1815,Periodic and Non-Periodic Signals,2016-08-03,309571,2152,85,Aug
+1816,Even and Odd Signals (Solved Problem 2),2016-08-02,126154,827,36,Aug
+1817,Even and Odd Signals (Solved Problem 1),2016-08-01,164615,1052,36,Aug
+1818,Properties of Even and Odd Signals,2016-07-29,151945,1151,76,Jul
+1819,Even and Odd Components of a Signal,2016-07-29,145979,894,16,Jul
+1820,Even and Odd Signals,2016-07-28,254394,1778,56,Jul
+1821,Multiple Transformations of CTS (Solved Problem 1),2016-07-28,122248,753,45,Jul
+1822,Multiple Transformations of Continuous-Time Signals,2016-07-27,160556,997,34,Jul
+1823,Reversal of Continuous-Time Signals,2016-07-27,160298,1152,33,Jul
+1824,Time Shifting of Continuous-Time Signals,2016-07-26,224087,1647,72,Jul
+1825,Continuous and Discrete Time Signals,2016-07-23,574643,4498,188,Jul
+1826,Multiplication of Continuous-Time Signals,2016-07-19,242936,1452,45,Jul
+1827,Addition of Continuous-Time Signals,2016-07-19,312092,2137,84,Jul
+1828,Introduction to Signals and Systems,2016-07-18,1372880,7826,567,Jul
+1829,re Model (Solved Problem 1),2016-07-15,98899,570,111,Jul
+1830,re Model (Fixed-Bias Configuration) | Part 3,2016-07-14,66756,303,17,Jul
+1831,re Model (Fixed-Bias Configuration) | Part 2,2016-07-14,84598,367,34,Jul
+1832,re Transistor Model (Part 1),2016-07-14,279683,1638,101,Jul
+1833,re Model (Fixed-Bias Configuration) | Part 1,2016-07-12,133570,710,27,Jul
+1834,re Transistor Model (Part 2),2016-07-12,152747,642,41,Jul
+1835,Analysis of Transistor Amplifier Using h-Parameters (Part 3),2016-07-09,139454,743,43,Jul
+1836,Analysis of Transistor Amplifier Using h-Parameters (Part 2),2016-07-08,175966,902,38,Jul
+1837,Analysis of Transistor Amplifier Using h-Parameters (Part 1),2016-07-08,353247,2198,56,Jul
+1838,Hybrid Model (Equivalent Circuit),2016-07-07,284515,1940,113,Jul
+1839,Hybrid Model (Calculation of h-Parameters),2016-07-07,384627,2634,183,Jul
+1840,AC Equivalent Circuit of BJT Amplifier,2016-07-04,314434,2242,84,Jul
+1841,Small Signal Analysis of BJT,2016-07-02,518421,3704,119,Jul
+1842,Transistor Saturation,2016-07-02,186283,1148,60,Jul
+1843,Stability Factor for Voltage Divider Bias,2016-07-01,94099,583,15,Jul
+1844,Stability Factor for Collector Feedback Biasing,2016-06-30,84701,405,12,Jun
+1845,Stability Factor for Emitter-Bias Configuration,2016-06-24,119388,631,30,Jun
+1846,Stability Factor for Fixed-Bias Configuration,2016-06-23,165392,1048,66,Jun
+1847,Bias Stabilization and Stability Factors,2016-06-22,211591,1523,142,Jun
+1848,Thermal Runaway in Transistors,2016-06-21,165248,1501,34,Jun
+1849,Voltage Divider Bias (Solved Problem),2016-06-20,206831,1612,96,Jun
+1850,Voltage Divider Bias,2016-06-19,477682,4195,207,Jun
+1851,Collector Feedback Bias with Emitter Resistance,2016-06-18,120053,711,23,Jun
+1852,Collector Feedback Biasing (Solved Problem),2016-06-18,110056,636,42,Jun
+1853,Collector Feedback Biasing,2016-06-17,250158,1797,135,Jun
+1854,Emitter-Bias Configuration (Solved Problem),2016-06-17,210550,1596,58,Jun
+1855,Emitter-Bias Configuration,2016-06-16,331543,2438,97,Jun
+1856,Fixed-Bias Configuration (Solved Problem),2016-06-16,157293,975,37,Jun
+1857,Fixed-Bias Configuration of a Transistor,2016-06-15,456724,3868,201,Jun
+1858,"DC Biasing, Load Line & Operating Point of Transistors",2016-06-14,729103,6418,236,Jun
+1859,"Relation between α , β and γ",2016-06-11,279076,1855,48,Jun
+1860,Common-Collector Configuration of a Transistor,2016-06-11,354331,1890,118,Jun
+1861,Common-Emitter Transistor (Output Characteristics),2016-06-10,366167,2261,110,Jun
+1862,Common-Emitter Configuration of a Transistor,2016-06-08,722313,5037,253,Jun
+1863,Transistor Amplifying Action,2016-06-07,269428,1621,190,Jun
+1864,CB Transistor (Output Characteristics),2016-06-07,408988,2669,225,Jun
+1865,CB Transistor (Input Characteristics & Early Effect),2016-06-06,632656,4388,219,Jun
+1866,Common-Base Configuration of a Transistor,2016-06-03,913377,7181,307,Jun
+1867,Working of Transistors,2016-06-02,962365,7693,280,Jun
+1868,Introduction to Bipolar Junction Transistors (BJT),2016-06-01,615871,5531,185,Jun
+1869,Clampers (Solved Problem),2016-05-31,195135,1485,91,May
+1870,Biased Clamper Circuit,2016-05-31,182322,1139,71,May
+1871,Positive & Negative Clamper Circuits,2016-05-31,249815,1427,79,May
+1872,Introduction to Clampers,2016-05-30,445609,3650,145,May
+1873,Transfer Characteristics of Clipper Circuit,2016-05-28,98053,708,31,May
+1874,Combination Clipper Circuits,2016-05-27,147462,1171,56,May
+1875,Zener Diode Clipping Circuits,2016-05-27,133704,735,45,May
+1876,Unbiased Parallel Clippers,2016-05-26,175616,942,49,May
+1877,Biased Parallel Clippers,2016-05-26,243698,1494,140,May
+1878,Biased Series Clippers,2016-05-25,351740,2536,177,May
+1879,Unbiased Series Clippers,2016-05-25,281706,2004,94,May
+1880,Introduction to Clippers,2016-05-24,472473,3957,86,May
+1881,Full Wave Rectifier (Efficiency & PIV),2016-05-23,191596,1314,56,May
+1882,Full Wave Rectifier (Form Factor & Ripple Factor),2016-05-22,131332,811,21,May
+1883,Full Wave Rectifier (RMS Load Current & RMS Load Voltage),2016-05-21,120353,732,19,May
+1884,Full Wave Rectifier (DC Load Current & DC Load Voltage),2016-05-20,133481,835,60,May
+1885,Full Wave Center-Tapped Rectifier,2016-05-20,258451,2368,103,May
+1886,Full Wave Bridge Rectifier,2016-05-19,338786,2816,101,May
+1887,Half Wave Rectifier (Efficiency & PIV),2016-05-18,188881,1327,75,May
+1888,GATE Solved Problems (2002) | Combinational Circuits | Digital Electronics,2016-05-17,10123,68,13,May
+1889,Half Wave Rectifier (Ripple Factor),2016-05-17,220186,1451,146,May
+1890,Half Wave Rectifier (Form Factor),2016-05-17,150200,889,38,May
+1891,Half Wave Rectifier (RMS Load Current & RMS Load Voltage),2016-05-17,226252,1371,50,May
+1892,Half Wave Rectifier,2016-05-16,446032,3229,125,May
+1893,Introduction to Diode Rectifier Circuits,2016-05-16,232965,2043,30,May
+1894,Voltage Multiplier Circuits (Voltage Tripler & Quadrupler),2016-05-15,113498,1316,102,May
+1895,Voltage Multiplier Circuits (Full Wave Voltage Doubler),2016-05-14,87112,685,39,May
+1896,GATE Solved Problems (2001) | Combinational Circuits | Digital Electronics,2016-05-14,8507,64,2,May
+1897,GATE Solved Problems (2000) | Combinational Circuits | Digital Electronics,2016-05-14,7795,34,2,May
+1898,Voltage Multiplier Circuits (Half Wave Voltage Doubler),2016-05-13,121880,938,69,May
+1899,GATE Solved Problems (1997-1999) | Combinational Circuits | Digital Electronics,2016-05-13,6847,35,3,May
+1900,2-Bit Multiplier Using Half Adders,2016-05-13,339955,2669,100,May
+1901,GATE Solved Problems (1992-1993) | Combinational Circuits | Digital Electronics,2016-05-11,14126,96,9,May
+1902,GATE Solved Problems (1994) | Combinational Circuits | Digital Electronics,2016-05-11,8966,48,13,May
+1903,GATE Solved Problems (2016) | Karnaugh Map | Digital Electronics,2016-05-11,7901,43,0,May
+1904,GATE Solved Problems (2014) | Karnaugh Map | Digital Electronics,2016-05-11,7723,41,5,May
+1905,GATE Solved Problems (2006-2012) | Karnaugh Map | Digital Electronics,2016-05-10,6126,32,2,May
+1906,GATE Solved Problems (2001) | Karnaugh Map | Digital Electronics,2016-05-10,5076,26,2,May
+1907,GATE Solved Problems (2000) | Karnaugh Map | Digital Electronics,2016-05-09,5220,35,2,May
+1908,GATE Solved Problems (1999) | Karnaugh Map | Digital Electronics,2016-05-08,7402,46,1,May
+1909,Parallel and Series-Parallel Configuration of Diodes (Examples),2016-05-07,178646,1373,113,May
+1910,Parallel Diode Configurations,2016-05-07,165087,1040,60,May
+1911,Series Diode Configuration (Examples),2016-05-07,223163,1901,106,May
+1912,Series Diode Configurations,2016-05-06,170062,1174,209,May
+1913,Zener Diode Numerical Problems (Part 2),2016-05-06,95545,642,83,May
+1914,Zener Diode Numerical Problems (Part 1),2016-05-05,173648,1185,26,May
+1915,Zener Diode as Voltage Regulator (Part 4),2016-05-05,130836,779,32,May
+1916,Zener Diode as Voltage Regulator (Part 3),2016-05-05,141305,792,16,May
+1917,Zener Diode as Voltage Regulator (Part 2),2016-05-04,212141,1426,74,May
+1918,Zener Diode as Voltage Regulator (Part 1),2016-05-04,457642,3265,232,May
+1919,GATE Solved Problems (1991-1998) | Karnaugh Map | Digital Electronics,2016-05-03,12103,83,18,May
+1920,Effects of Temperature on Zener Voltage,2016-05-02,103624,620,22,May
+1921,Introduction to Zener Diodes,2016-05-02,430091,4027,132,May
+1922,Average AC Resistance of a Diode,2016-05-02,90105,625,25,May
+1923,GATE Solved Problems (2014-2015) | Boolean Algebra | Digital Electronics,2016-04-28,13624,101,32,Apr
+1924,GATE Solved Problems (2009-2013) | Boolean Algebra | Digital Electronics,2016-04-27,7167,37,7,Apr
+1925,GATE Solved Problems (2005-2007) | Boolean Algebra | Digital Electronics,2016-04-26,6683,27,0,Apr
+1926,GATE Solved Problems (2004) | Boolean Algebra | Digital Electronics,2016-04-26,7028,29,5,Apr
+1927,GATE Solved Problems (1999-2003) | Boolean Algebra | Digital Electronics,2016-04-26,9659,82,12,Apr
+1928,GATE Solved Problems (1997-1998) | Boolean Algebra | Digital Electronics,2016-04-24,7238,33,5,Apr
+1929,GATE Solved Problems (1992-1993) | Boolean Algebra | Digital Electronics,2016-04-23,9241,53,11,Apr
+1930,GATE Solved Problems (2015-2016) | Logic Gates | Digital Electronics,2016-04-21,35708,219,22,Apr
+1931,GATE Solved Problems (2015) | Logic Gates | Digital Electronics,2016-04-20,33424,427,26,Apr
+1932,GATE Solved Problems (2014) | Logic Gates | Digital Electronics,2016-04-19,50724,249,10,Apr
+1933,GATE Solved Problems (2011) | Logic Gates | Digital Electronics,2016-04-19,11630,56,12,Apr
+1934,GATE Solved Problems (2010) | Logic Gates | Digital Electronics,2016-04-18,13028,62,19,Apr
+1935,GATE Solved Problems (2002-2008) | Logic Gates | Digital Electronics,2016-04-18,11397,60,1,Apr
+1936,GATE Solved Problems (2000-2001) | Logic Gates | Digital Electronics,2016-04-15,12169,84,4,Apr
+1937,GATE Solved Problems (1997-2000) | Logic Gates | Digital Electronics,2016-04-14,11821,67,3,Apr
+1938,GATE Solved Problems (1995) | Logic Gates | Digital Electronics,2016-04-14,12692,69,29,Apr
+1939,AC or Dynamic Resistance of a Diode,2016-04-13,160514,1357,66,Apr
+1940,DC or Static Resistance of a Diode,2016-04-13,178324,1301,30,Apr
+1941,Brain Teaser's #11 |  Railroad Shunting,2016-04-12,3386,18,11,Apr
+1942,GATE Solved Problems (2008-2014) | Number Systems | Digital Electronics,2016-04-12,20227,86,39,Apr
+1943,Load Line Analysis (Numerical Problem),2016-04-11,173137,1115,66,Apr
+1944,GATE Solved Problems (1993) | Logic Gates | Digital Electronics,2016-04-11,15825,77,36,Apr
+1945,Load Line Analysis of Diode,2016-04-11,322954,2521,116,Apr
+1946,GATE Solved Problems (2006-2007) | Number Systems | Digital Electronics,2016-04-09,19463,65,13,Apr
+1947,Diode Equivalent Circuits,2016-04-09,250525,2161,51,Apr
+1948,Ideal Vs Practical Diode,2016-04-08,199154,1699,49,Apr
+1949,GATE Solved Problems (1988) | Logic Gates | Digital Electronics,2016-04-08,18545,97,43,Apr
+1950,Why Actual Memory of Pen Drive is Less than Specified Memory?,2016-04-01,32937,658,28,Apr
+1951,GATE Solved Problems (2004-2005) | Number Systems | Digital Electronics,2016-04-01,19808,97,23,Apr
+1952,Effects of Temperature on V-I Characteristics,2016-03-31,205209,1849,107,Mar
+1953,GATE Solved Problems (2002-2004) | Number Systems | Digital Electronics,2016-03-30,22148,111,19,Mar
+1954,Brain teaser's #10 |  Find the Angle,2016-03-29,1548,7,16,Mar
+1955,GATE Solved Problems (1998-2001) | Number Systems | Digital Electronics,2016-03-29,31734,149,66,Mar
+1956,GATE Solved Problems (1993-1998) | Number Systems | Digital Electronics,2016-03-29,84267,466,69,Mar
+1957,V-I Characteristics of PN Junction Diode,2016-03-28,472674,3968,97,Mar
+1958,IES Solved Problems (Part 3) - Digital Electronics,2016-03-27,3908,33,7,Mar
+1959,IES Solved Problems (Part 2) - Digital Electronics,2016-03-27,4659,37,8,Mar
+1960,Semiconductor Diode,2016-03-26,284380,2302,58,Mar
+1961,IES Solved Problems (Part 1) - Digital Electronics,2016-03-25,14116,89,9,Mar
+1962,PN Junction Diode (Reverse-Bias Condition),2016-03-25,282763,2455,83,Mar
+1963,PN Junction Diode (Forward-Bias Condition),2016-03-23,451349,3395,119,Mar
+1964,Width of Depletion Region,2016-03-23,181085,1274,32,Mar
+1965,Barrier Potential,2016-03-23,257962,2184,78,Mar
+1966,PN Junction Diode (No Applied Bias),2016-03-19,524648,4748,188,Mar
+1967,NOR Gate as Universal Gate,2016-03-19,263950,2268,138,Mar
+1968,NAND Gate as Universal Gate (Part 2),2016-03-14,267966,1877,246,Mar
+1969,NAND Gate as Universal Gate (Part 1),2016-03-14,466834,3707,135,Mar
+1970,Logic Gates (Part 6) | Important!,2016-03-11,177536,1172,111,Mar
+1971,Logic Gates (Part 5) | Important!,2016-03-11,238114,1906,181,Mar
+1972,Logic Gates (Part 4),2016-03-09,172296,1185,40,Mar
+1973,Logic Gates (Part 3),2016-03-09,187328,1140,174,Mar
+1974,Logic Gates (Part 2),2016-03-08,247311,1673,184,Mar
+1975,"Brain Teaser's #9 | Father, Mother, Daughter & Son",2016-03-08,1284,6,11,Mar
+1976,Logic Gates (Part 1),2016-03-07,382011,3230,327,Mar
+1977,Gray Code to Binary Conversion,2016-03-05,320259,2882,166,Mar
+1978,2421 Code,2016-03-04,230145,1642,177,Mar
+1979,Binary to Gray Code Conversion,2016-03-03,546597,5137,332,Mar
+1980,Introduction to Gray Code,2016-03-03,546070,4911,104,Mar
+1981,Excess-3 Code Addition,2016-03-02,248528,2016,284,Mar
+1982,Excess-3 Code (XS-3 Code),2016-03-01,404974,3685,178,Mar
+1983,BCD Addition,2016-03-01,484786,4915,284,Mar
+1984,Binary Coded Decimal (BCD) Code,2016-02-29,532470,5991,358,Feb
+1985,Brain Teaser's #8 | Trains And A Fly,2016-02-26,1555,6,16,Feb
+1986,Classification of Codes,2016-02-25,314148,2542,71,Feb
+1987,Binary Subtraction using 2's Complement,2016-02-25,409161,3778,294,Feb
+1988,Binary Subtraction using 1's Complement,2016-02-11,413784,3920,329,Feb
+1989,Data Representation using 2's Complement,2016-01-29,172748,1436,155,Jan
+1990,Data Representation using Signed Magnitude,2015-11-25,238994,2111,135,Nov
+1991,Data Representation using 1's Complement,2015-11-25,179409,1262,209,Nov
+1992,Shortcut for 2's Complement,2015-11-23,196649,1552,41,Nov
+1993,1's and 2's Complement,2015-11-23,489453,3744,154,Nov
+1994,(r-1)'s Complement,2015-11-23,302867,2903,101,Nov
+1995,r's Complement,2015-11-23,455329,4200,293,Nov
+1996,Hexadecimal Multiplication,2015-11-23,182854,1499,128,Nov
+1997,Hexadecimal Subtraction,2015-11-23,210905,1869,179,Nov
+1998,Hexadecimal Addition,2015-11-23,311148,2814,185,Nov
+1999,Octal Multiplication,2015-11-20,153991,1093,109,Nov
+2000,Octal Addition,2015-11-20,173486,1308,196,Nov
+2001,Binary Addition,2015-11-20,336758,2951,329,Nov
+2002,Octal Subtraction,2015-11-20,152754,1076,188,Nov
+2003,Binary Division,2015-11-19,856214,8746,510,Nov
+2004,Binary Multiplication,2015-11-18,225653,1864,189,Nov
+2005,Binary Subtraction,2015-11-16,296596,2506,302,Nov
+2006,Hexadecimal to Octal & Octal to Hexadecimal Conversion,2015-11-14,184881,1388,88,Nov
+2007,Hexadecimal to Binary & Binary to Hexadecimal Conversion,2015-11-14,204722,1647,98,Nov
+2008,Octal to Binary & Binary to Octal Conversion,2015-11-11,240597,1887,128,Nov
+2009,Hexadecimal to Decimal Conversion,2015-11-09,171355,1184,96,Nov
+2010,Octal to Decimal Conversion,2015-11-09,194394,1285,96,Nov
+2011,Cyclicity of Unit Digit (Part 3),2015-11-08,5565,56,31,Nov
+2012,Cyclicity of Unit Digit (Part 2),2015-11-08,4620,49,12,Nov
+2013,Binary to Decimal Conversion,2015-11-06,225357,1647,150,Nov
+2014,Cyclicity of Unit Digit (Part 1),2015-11-06,8403,110,19,Nov
+2015,Decimal to Hexadecimal Conversion,2015-11-05,271486,2089,155,Nov
+2016,Decimal to Octal Conversion,2015-11-05,340985,2383,227,Nov
+2017,Decimal to Binary Conversion,2015-11-04,382883,3241,336,Nov
+2018,Binary Number System,2015-11-03,319482,2769,51,Nov
+2019,Introduction to Number Systems,2015-11-03,432659,4268,71,Nov
+2020,Counting Number of Zeros,2015-10-31,13273,116,29,Oct
+2021,Number of Factors of Composite Number | Short Trick,2015-10-31,7525,56,2,Oct
+2022,LCM and HCF of Polynomials,2015-10-30,61064,667,53,Oct
+2023,LCM and HCF of Fractions,2015-10-30,14723,96,15,Oct
+2024,Demultiplexer as Decoder,2015-10-30,294307,1831,45,Oct
+2025,LCM and HCF of Numbers,2015-10-30,8921,72,11,Oct
+2026,Venn Diagram,2015-10-29,115205,867,175,Oct
+2027,Full Subtractor using 1:8 Demultiplexer,2015-10-29,333643,1763,61,Oct
+2028,Complement Meaning and Examples,2015-10-29,145365,1095,177,Oct
+2029,What is Digital Signal?,2015-10-27,361449,2597,113,Oct
+2030,1:4 Demultiplexer,2015-10-26,543486,3305,101,Oct
+2031,Introduction to Demultiplexer | 1:2 DEMUX,2015-10-26,727587,5117,207,Oct
+2032,Need of Digital Signals,2015-10-24,258911,1988,77,Oct
+2033,Divisibility Tests (Part 2),2015-10-24,4975,28,7,Oct
+2034,Divisibility Tests (Part 1),2015-10-23,6860,42,7,Oct
+2035,Number Types (Part 2),2015-10-22,7486,44,4,Oct
+2036,Number Types (Part 1),2015-10-21,14438,85,16,Oct
+2037,Difference between Reasoning and Aptitude,2015-10-20,45872,420,74,Oct
+2038,4 Bit Parallel Adder using Full Adders,2015-10-20,799141,6407,227,Oct
+2039,Full Adder using Half Adder,2015-10-20,725823,5509,128,Oct
+2040,Statement Problems in Boolean Algebra (Part 2),2015-10-19,109324,769,42,Oct
+2041,Statement Problems in Boolean Algebra (Part 1),2015-10-19,138558,808,163,Oct
+2042,Switching Circuits (Part 2),2015-10-19,114130,865,32,Oct
+2043,Switching Circuits (Part 1),2015-10-18,180581,1243,30,Oct
+2044,Switch and Bits Intuition,2015-10-17,284935,2046,119,Oct
+2045,32X1 MUX using 8X1 MUX,2015-10-15,391109,3008,178,Oct
+2046,Quine-McCluskey Minimization Technique (Tabular Method),2015-10-14,1158440,14716,646,Oct
+2047,Conductivity of Semiconductors Numerical (Part 2),2015-10-13,101357,673,35,Oct
+2048,Conductivity of Semiconductors Numerical (Part 1),2015-10-13,138927,1003,45,Oct
+2049,Conductivity of a Semiconductor,2015-10-04,225678,1684,37,Oct
+2050,Charge Densities in a Semiconductor,2015-10-04,219892,1725,46,Oct
+2051,Self Dual,2015-10-02,146376,1194,150,Oct
+2052,Dual Form,2015-08-09,197245,1532,63,Aug
+2053,Positive and Negative Logic,2015-06-15,232400,1814,144,Jun
+2054,Examples & Tricks (SOP and POS Forms),2015-06-15,273370,2174,121,Jun
+2055,Practice Problems on Sequential Circuits (Part 3),2015-06-06,81017,407,83,Jun
+2056,Minimal to Canonical Form Conversion (Part 2),2015-06-06,222844,1806,42,Jun
+2057,Minimal to Canonical Form Conversion (Part 1),2015-06-06,322726,2779,78,Jun
+2058,Practice Problems on Sequential Circuits (Part 2),2015-06-04,120064,507,65,Jun
+2059,Mass Action Law,2015-05-28,250601,1988,93,May
+2060,Electron Vs Hole Flow,2015-05-27,236255,1976,119,May
+2061,Intrinsic and Extrinsic Semiconductors,2015-05-27,380316,3381,118,May
+2062,Brain Teaser's #7 | Four Sections,2015-05-24,1911,11,2,May
+2063,Universal Shift Register,2015-05-24,484528,3734,210,May
+2064,Semiconductor Materials,2015-05-15,1301064,6830,338,May
+2065,Bidirectional Shift Register,2015-05-11,493179,3502,130,May
+2066,Shift Register (PISO Mode),2015-05-09,673736,5002,274,May
+2067,Digital Electronics Test-1,2015-05-07,116881,515,96,May
+2068,SR Latch | NOR and NAND SR Latch,2015-04-20,2660761,27590,1627,Apr
+2069,SOP and POS Form Examples,2015-04-19,841841,7915,289,Apr
+2070,Shift Register (SIPO & PIPO Mode),2015-04-18,805565,5523,281,Apr
+2071,Product of Sums (Part 2) | POS Form,2015-04-18,315141,2609,53,Apr
+2072,Product of Sums (Part 1) | POS Form,2015-04-18,587800,5380,174,Apr
+2073,Sum of Products (Part 2) | SOP Form,2015-04-17,498478,4068,182,Apr
+2074,Sum of Products (Part 1) | SOP Form,2015-04-17,1002042,9607,430,Apr
+2075,Redundancy Theorem (Boolean Algebra Trick),2015-04-12,410180,3782,502,Apr
+2076,Boolean Algebra Examples (Part 2),2015-04-12,374570,2709,273,Apr
+2077,Shift Register (SISO Mode),2015-04-11,1280684,8683,300,Apr
+2078,Data Formats and Classification of Registers,2015-04-11,548719,3890,109,Apr
+2079,Introduction to Registers,2015-04-09,1179998,8546,220,Apr
+2080,Boolean Algebra Examples (Part 1),2015-04-07,446397,3467,106,Apr
+2081,Introduction to Boolean Algebra (Part 2),2015-04-07,479678,4289,94,Apr
+2082,Introduction to Boolean Algebra (Part 1),2015-04-07,879991,8410,203,Apr
+2083,Introduction to Digital Electronics,2015-04-05,397055,3003,91,Apr
+2084,Johnson's Counter (Twisted/Switch Tail Ring Counter),2015-04-05,561683,3252,93,Apr
+2085,Ring Counter,2015-04-05,783388,5357,242,Apr
+2086,3-Bit & 4-bit Up/Down Synchronous Counter,2015-04-04,1003197,5741,328,Apr
+2087,3-Bit Synchronous Up Counter,2015-04-02,754290,5357,286,Apr
+2088,How to Design Synchronous Counters | 2-Bit Synchronous Up Counter,2015-04-02,906111,6194,258,Apr
+2089,Decade (BCD) Ripple Counter,2015-04-02,650806,4084,258,Apr
+2090,Modulus of the Counter & Counting up to Particular Value,2015-03-30,700468,5109,303,Mar
+2091,What is an Analog Signal?,2015-03-29,514957,4012,123,Mar
+2092,What is Signal?,2015-03-29,2809989,12180,542,Mar
+2093,3 Bit & 4 Bit UP/DOWN Ripple Counter,2015-03-28,787746,4722,338,Mar
+2094,3 bit & 4 bit Asynchronous Down Counter,2015-03-28,744227,4226,156,Mar
+2095,State Diagram of a Counter,2015-03-27,397909,2323,68,Mar
+2096,4 Bit Asynchronous Up Counter,2015-03-25,716522,3978,147,Mar
+2097,3 Bit Asynchronous Up Counter,2015-03-25,1033150,6633,255,Mar
+2098,Types of Counters | Comparison between Ripple and Synchronous counters,2015-03-25,781739,5955,134,Mar
+2099,Design Procedure for Clocked Sequential Circuits,2015-03-23,767786,5325,338,Mar
+2100,ASM Chart for Moore State Machine,2015-03-23,153814,1024,64,Mar
+2101,ASM Chart,2015-03-22,277049,1991,69,Mar
+2102,State Reduction and Assignment,2015-03-22,482839,3541,154,Mar
+2103,Sequence Detector (Example),2015-03-22,551965,3628,254,Mar
+2104,Sequence or Pattern Detector,2015-03-21,407680,2524,142,Mar
+2105,Behaviour of Master Slave D Flip Flop,2015-03-21,516355,4036,240,Mar
+2106,"Brain Teaser's #6 | Jug, Milk and Water",2015-03-18,3023,12,9,Mar
+2107,Practice Problems on Combinational Circuits (Part 4),2015-03-18,98167,651,117,Mar
+2108,Analysis of Clocked Sequential Circuits (with T Flip Flop),2015-03-18,196118,1246,54,Mar
+2109,Analysis of Clocked Sequential Circuits (with JK Flip Flop),2015-03-18,364346,2415,130,Mar
+2110,Analysis of Clocked Sequential Circuits (with D Flip Flop),2015-03-17,474762,3414,213,Mar
+2111,Mealy and Moore State Machines (Part 2),2015-03-17,402714,2256,47,Mar
+2112,Mealy and Moore State Machines (Part 1),2015-03-17,898972,5507,238,Mar
+2113,"Introduction to State Table, State Diagram & State Equation",2015-03-16,1139239,7352,195,Mar
+2114,Difference between Synchronous and Asynchronous Sequential Circuits,2015-03-15,483190,3100,59,Mar
+2115,Preset and Clear Inputs in Flip Flop,2015-03-15,376046,2901,131,Mar
+2116,How to get Edge Triggering | Simulation using Multisim,2015-03-15,229143,1635,45,Mar
+2117,Electromotive force and Power,2015-03-13,3855,19,5,Mar
+2118,Introduction to Counters | Important,2015-03-12,1481976,12281,454,Mar
+2119,Ohmic and Non-Ohmic Conductors,2015-03-12,46827,485,17,Mar
+2120,Resistance and Ohm's Law,2015-03-12,3385,21,4,Mar
+2121,Drift Velocity and Ohm's Law,2015-03-11,23636,197,14,Mar
+2122,Practice Problems on Combinational Circuits (Part 3),2015-03-10,105532,731,197,Mar
+2123,Practice Problems on Combinational Circuits (Part 2),2015-03-02,121678,759,43,Mar
+2124,Practice Problems on Combinational Circuits (Part 1),2015-02-27,259728,1883,123,Feb
+2125,SR Flip Flop to T Flip Flop Conversion,2015-02-27,386782,3720,510,Feb
+2126,SR Flip Flop to JK Flip Flop Conversion,2015-02-27,665144,4509,203,Feb
+2127,T Flip Flop to D Flip Flop Conversion,2015-02-26,442627,2219,65,Feb
+2128,5 Steps for Flip Flop Conversions | JK to D Flip Flop Conversion,2015-02-26,845081,5816,167,Feb
+2129,"Truth Table, Characteristic Table and Excitation Table for T flip flop",2015-02-25,625783,3861,87,Feb
+2130,Introduction to T flip flop,2015-02-25,882595,4921,154,Feb
+2131,Master Slave JK Flip Flop,2015-02-25,1210254,9683,637,Feb
+2132,Race Around Condition or Racing in JK Flip Flop,2015-02-24,981467,13040,2416,Feb
+2133,"Truth Table, Characteristic Table and Excitation Table for JK flip flop",2015-02-18,1093268,6552,183,Feb
+2134,Introduction to JK flip flop,2015-02-18,1888217,12511,390,Feb
+2135,"Truth Table, Characteristic Table and Excitation Table for D Flip Flop",2015-02-09,897813,4374,89,Feb
+2136,Introduction to D flip flop,2015-02-09,1552966,8075,230,Feb
+2137,"Truth Table, Characteristic Table and Excitation Table for SR Flip Flop",2015-02-09,1394727,8495,427,Feb
+2138,Introduction to SR Flip Flop,2015-02-09,2331150,14023,400,Feb
+2139,Difference between Latch and Flip Flop,2015-02-09,1336429,8880,308,Feb
+2140,Triggering Methods in Flip Flops,2015-02-08,1080001,6686,156,Feb
+2141,What is a Clock?,2015-02-02,1355927,10457,236,Feb
+2142,Introduction to Sequential Circuits | Important,2015-02-01,1745505,13529,311,Feb
+2143,"Brain Teaser's #5 | Crow, Sparrow & Parrot",2015-01-30,3751,20,10,Jan
+2144,Full Adder Implementation using Decoder,2015-01-28,472703,3724,103,Jan
+2145,Hexadecimal to Binary Encoder,2015-01-28,213860,962,23,Jan
+2146,Octal to Binary Encoder,2015-01-28,348454,1974,35,Jan
+2147,Decimal to BCD Encoder,2015-01-23,519772,3103,90,Jan
+2148,Priority Encoder,2015-01-23,1089223,8010,450,Jan
+2149,Introduction to Encoders and Decoders,2015-01-23,1639261,11518,218,Jan
+2150,Brain Teaser's #4 | Five Men & Apples,2015-01-20,4382,20,20,Jan
+2151,Hamming Code | Error Correction,2015-01-20,606432,6126,462,Jan
+2152,Hamming Code | Error detection,2015-01-20,1143910,9256,424,Jan
+2153,Programmable Array Logic (PAL),2015-01-09,544475,4731,530,Jan
+2154,2-Bit Comparator,2015-01-09,690856,4838,187,Jan
+2155,Logical Expression from Multiplexer,2015-01-09,223595,1421,18,Jan
+2156,1-Bit Full Adder using Multiplexer,2015-01-07,553970,3082,175,Jan
+2157,Implementation of Boolean Function using Multiplexers,2015-01-07,1173017,8675,410,Jan
+2158,Three Ways to Travel in Time,2014-12-12,20742,404,20,Dec
+2159,Implementing 8X1 MUX using 4X1 MUX (Special Case),2014-12-09,692792,5107,207,Dec
+2160,Implementing 8X1 MUX using 2X1 MUX,2014-12-09,513792,3016,96,Dec
+2161,MUX Tree Basic | 4X1 MUX using 2X1 MUX | Easy Explanation,2014-12-09,581170,3703,82,Dec
+2162,8X1 Multiplexer,2014-12-08,784816,4759,111,Dec
+2163,4X1 Multiplexer,2014-12-08,1013781,6315,138,Dec
+2164,Introduction to Multiplexers | MUX Basic,2014-12-06,1861214,14969,443,Dec
+2165,Brain Teaser's #3 | Heaven or Hell,2014-11-02,6623,25,13,Nov
+2166,BCD Adder | Simple Explanation,2014-11-02,698504,6188,253,Nov
+2167,Getting Started with MATLAB,2014-10-30,15635,202,48,Oct
+2168,Hierarchy of Operators,2014-10-30,16173,147,10,Oct
+2169,MATLAB Basics (Part 1) | Different windows in MATLAB,2014-10-29,42143,387,18,Oct
+2170,What is MATLAB?,2014-10-29,143546,1461,52,Oct
+2171,Carry Lookahead Adder (Part 2) | CLA Adder,2014-10-28,483493,4199,189,Oct
+2172,Carry Lookahead Adder (Part 1) | CLA Generator,2014-10-28,787092,5287,153,Oct
+2173,Brain Teaser's #2 | Nine Dots & 4 Lines,2014-10-25,8331,28,23,Oct
+2174,Programmable Logic Array (PLA) | Easy Explanation,2014-10-24,927286,8125,444,Oct
+2175,Realizing Half Subtractor using NOR Gates only,2014-10-24,140637,680,15,Oct
+2176,"Brain Teaser's #1 | Man, Wolf, Goat and Cabbage",2014-10-23,15152,73,29,Oct
+2177,Realizing Half Subtractor using NAND Gates only,2014-10-22,179674,992,27,Oct
+2178,Realizing Full Adder using NAND Gates only,2014-10-21,305386,2000,41,Oct
+2179,Realizing Half Adder using NOR Gates only,2014-10-21,246017,1372,43,Oct
+2180,Realizing Half Adder using NAND Gates only,2014-10-21,420632,2338,36,Oct
+2181,Shift Add 3 Method | Simple method for Binary to BCD conversion,2014-10-20,174268,1091,73,Oct
+2182,Full Subtractor | Easy Explanation,2014-10-20,855104,6020,279,Oct
+2183,Half Subtractor,2014-10-20,668050,5242,140,Oct
+2184,Full Adder,2014-10-20,1506700,11893,320,Oct
+2185,Half Adder,2014-10-18,1341555,11698,209,Oct
+2186,Comparison between Combinational and Sequential Circuits,2014-10-18,565698,5593,133,Oct
+2187,Seven Segment Display Decoder (Part 3),2014-10-18,274152,1209,100,Oct
+2188,Seven Segment Display Decoder (Part 2),2014-10-18,383259,2442,70,Oct
+2189,Seven Segment Display Decoder,2014-10-18,661949,5265,147,Oct
+2190,4-Bit Even Parity Generator,2014-10-17,427941,2672,80,Oct
+2191,What is Parity?,2014-10-17,628998,5758,245,Oct
+2192,Don't Care in K' Map (Response to Doubt),2014-10-05,197310,1902,93,Oct
+2193,K' Map using Max Terms (Part 2),2014-09-13,234234,2172,70,Sep
+2194,Digital Electronics Previous Year Solution of DRDO & ISRO (Part 3),2014-09-13,70762,370,7,Sep
+2195,Digital Electronics Previous Year Solution of DRDO & ISRO (Part 2),2014-09-13,105264,506,19,Sep
+2196,Digital Electronics Previous Year Solution of DRDO & ISRO (Part 1),2014-09-13,13246,51,3,Sep
+2197,5 variables K' Map,2014-09-13,297105,2462,162,Sep
+2198,K' Map using Max Terms (Part 1),2014-09-13,251590,1999,54,Sep
+2199,Don't Care in Karnaugh Map (K' Map),2014-09-05,546219,5752,252,Sep
+2200,4 Variable Karnaugh Map (Part 3),2014-09-05,246424,1923,119,Sep
+2201,4 Variable Karnaugh Map (Part 2),2014-09-02,302021,2163,90,Sep
+2202,4 Variable Karnaugh Map (Part 1),2014-09-02,559519,4557,182,Sep
+2203,K' Map and Implicants,2014-09-02,396763,4617,138,Sep
+2204,Karnaugh Map (K' Map) - Part 3,2014-09-02,407699,3339,166,Sep
+2205,Karnaugh Map (K' Map) - Part 2,2014-09-02,519339,5110,197,Sep
+2206,Karnaugh Map (K' Map) - Part 1,2014-09-02,1315040,15323,695,Sep
+2207,Gray Code to Binary & Binary to Gray Code conversions (Old),2014-08-29,147275,849,86,Aug
+2208,Excess 3 Code (XS 3 Code) Old,2014-08-29,68073,266,13,Aug
+2209,Binary Coded Decimal (BCD Code),2014-08-29,243978,1180,62,Aug
+2210,Neso Academy Introduction Video,2014-07-30,52992,262,40,Jul
